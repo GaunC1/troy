@@ -571,6 +571,34 @@ He heard Clytemnestra's screaming. He heard the priests' chanting, rising in pit
 
 He heard silence.
 
+---
+
+Across the sea, in her tower in Troy, Cassandra jerked awake.
+
+The vision slammed into her without warning—not the slow building she was used to, but a sudden, violent intrusion. She saw the cliff. The altar. The girl in white, her dark hair spread across the stone, her eyes wide above the gag.
+
+*The bride who wasn't a bride.*
+
+She felt the knife. Not as the girl felt it—quick, at least, mercifully quick—but as the world felt it. A tearing. A price paid in the wrong currency, buying passage for a thousand ships.
+
+Cassandra pressed her hands over her mouth to keep from screaming.
+
+She had told Helen about this girl. Had seen her in visions for days. But knowing something would happen and feeling it happen were different things.
+
+The girl's name came to her, unbidden: *Iphigenia.* Agamemnon's daughter. Fifteen years old. She had walked to that altar thinking she was going to be married.
+
+And now she was dead, and the wind was rising, and nothing Cassandra had seen or said had changed anything.
+
+*This is what watching feels like*, she thought. *This is what I chose.*
+
+She stayed on the floor of her chamber as the vision faded, as the distant screaming of a mother she would never meet echoed through her bones. The ships would sail now. The war would come.
+
+And another girl had died because the world refused to look.
+
+Cassandra pulled her knees to her chest and did not sleep again that night.
+
+---
+
 Then—
 
 Wind.

@@ -421,6 +421,46 @@ He descended the stairs and did not look back.
 
 ---
 
+## CASSANDRA
+
+The golden thread. She could see it now.
+
+Cassandra pressed her forehead against the cool stone of her window frame and watched doom walk through the gates of Troy.
+
+In the vision three weeks ago, the thread had been abstract—a shimmering line connecting Paris to a woman she'd never seen, stretching from Mount Ida to Sparta to here. Now the thread had flesh. Golden hair. A face that made men forget their names.
+
+Helen.
+
+She was beautiful. Even from this distance, even through Cassandra's exhausted eyes, she was beautiful in the way a forest fire was beautiful—mesmerizing, inevitable, consuming everything it touched.
+
+The crowd cheered. They threw flowers. They had no idea what they were welcoming through their gates.
+
+Cassandra watched the chests being unloaded. The stolen gold of Sparta, paraded past celebrating Trojans. She watched Paris helping Helen down the gangplank, his face shining with the particular stupidity of a man who thinks love excuses everything.
+
+And then Helen looked up.
+
+Across the harbor, across the crowd, across all that distance—their eyes met.
+
+Cassandra felt it like a blade between her ribs. Recognition. Not of faces—they'd never seen each other before. Recognition of something deeper. Two women who could see clearly, trapped in a world that refused to look.
+
+*You know*, Cassandra thought. *You can feel it too. The weight of what you've brought through those gates.*
+
+Helen's face did something complicated. Fear, maybe. Or the beginning of understanding.
+
+Then Paris touched her arm, said something, and Helen looked away. The connection broke.
+
+Cassandra stayed at the window, watching the celebration, watching the golden thread wind itself tighter around Troy's throat.
+
+*The lamb won't hear the butcher*, she thought. *It never does.*
+
+She had tried to stop this. Begged Hector to kill Paris before he could leave for Sparta. Watched her brother's eyes go blank as the curse pulled the warning from his mind.
+
+She wouldn't try again. What was the point? The doom was here now, walking through the streets, smiling and waving at the people it would kill.
+
+All Cassandra could do was watch.
+
+---
+
 On the dock, Helen stumbled.
 
 Paris caught her arm. "Are you all right?"

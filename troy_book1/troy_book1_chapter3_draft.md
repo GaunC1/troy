@@ -435,6 +435,36 @@ She stopped. She couldn't say the rest.
 
 She left Helen standing alone in the corridor, her hand half-raised, her face pale in the torchlight.
 
+Cassandra made it to her chambers before her legs gave out.
+
+She sat on the cold floor, her back against the door, and let the shaking come. The council. The faces. Paris's wounded expression, Priam's pitying eyes, Hector's careful silence.
+
+This is the last time, she told herself. The last time I stand in that room. The last time I beg them to see what I see.
+
+She had been doing this for years. Since she was fourteen and Apollo's curse first took hold. Warning after warning, vision after vision, each one ignored or dismissed or forgotten the moment she finished speaking.
+
+And now the thousand ships were gathering. The girl in white was walking toward her death. Troy was burning in every dream Cassandra had.
+
+She could keep warning them. Could stand in that throne room day after day, speaking truths that slipped from their minds like water from oiled cloth. Could watch their eyes glaze over, watch the curse do its work, watch them turn away and make the same mistakes again and again.
+
+Or she could stop.
+
+The thought was quiet. Almost peaceful.
+
+She could stop trying to change what couldn't be changed. Stop screaming into the void. Stop spending what little strength she had left on a battle she'd already lost.
+
+She could just... watch. Bear witness. Let the doom come, and remember it, and survive long enough to see how it ended.
+
+It felt like giving up. It felt like relief.
+
+Cassandra pulled her knees to her chest and sat in the darkness of her room, listening to the city sleep around her, and made her choice.
+
+No more warnings. No more pleas. From now on, she would only watch.
+
+The gods had made her a prophet. Fine. She would prophesy to herself, to the walls, to anyone who would listen—which was no one.
+
+But she would not beg anymore.
+
 ---
 
 Aulis was chaos.

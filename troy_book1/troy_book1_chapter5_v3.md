@@ -777,6 +777,30 @@ Hector walked alone, past the watchfires, past the guards who nodded and said no
 
 He stopped at the eastern battlement, the place where he'd stood three days ago watching the fleet arrive. A lifetime ago.
 
+---
+
+In her tower, Cassandra felt it.
+
+Not a vision—something else. A pull. A weight in the air, familiar as her own heartbeat.
+
+*Hector.*
+
+She went to the window. Looked out across the walls until she found him: a solitary figure on the eastern battlement, staring at the Greek fires. Even from here, she could see the set of his shoulders. The exhaustion. The despair he wouldn't let anyone else see.
+
+She had promised herself she wouldn't do this anymore. No more warnings, no more pleas. She was done trying to change what couldn't be changed.
+
+But Hector was different.
+
+Hector was the one who almost believed her. The one whose eyes sometimes held the truth for a moment before the curse stole it away. The one who had listened, three weeks ago, as she begged him to kill Paris—and for one terrible, hopeful second, she had seen him understand.
+
+She couldn't save Troy. She knew that now. But maybe—maybe—she could make him remember. Could plant something that would survive the curse, some seed of warning that might take root.
+
+Or maybe she was fooling herself. Maybe she just needed to talk to someone who wouldn't look at her like she was broken.
+
+Either way, she found herself moving. Down the stairs, through the corridors, out onto the walls.
+
+---
+
 Footsteps behind him. Light, careful.
 
 He knew without turning. "Cassandra."
