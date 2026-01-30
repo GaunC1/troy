@@ -61,6 +61,30 @@ Hector's jaw tightened. "Paris can do what Paris does. It doesn't matter now."
 
 Polydamas hurried away. Hector stayed on the wall, watching the fleet approach.
 
+Footsteps behind him. He knew them without turning.
+
+"I told you to stay with Astyanax."
+
+Andromache came to stand beside him. Her face was pale in the grey light, but her voice was steady. "The nurses are with him. He's sleeping." She looked at the horizon, at the sails still multiplying. "I needed to see."
+
+"Now you've seen. Go back."
+
+"In a moment." She watched the fleet in silence. A year ago she had stood on these same walls, asking if war could be avoided. Now war was here, spreading across the sea like a stain that would never wash clean. "How many?"
+
+"Too many to count."
+
+"Then we count what we can save." She touched his arm—briefly, a wife's gesture, a soldier's farewell. "Come home tonight. Whatever happens. He should see his father's face before—" She stopped.
+
+Before the siege closes in. Before the world shrinks to the space inside these walls.
+
+"I'll come home," Hector said. "Now go."
+
+Andromache went. She did not look back at the fleet. She had seen enough.
+
+---
+
+Hector stayed on the wall alone.
+
 He had prepared for this. Drilled the men, stockpiled supplies, reinforced the gates. He had done everything a commander could do.
 
 Now he would find out if it was enough.

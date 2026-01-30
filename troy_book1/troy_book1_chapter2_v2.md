@@ -381,7 +381,11 @@ He closed his eyes.
 
 "I couldn't. The words slipped away even as she spoke them. I could see how much she meant it, how desperate she was, and I just—" He shook his head. "I couldn't hold onto it."
 
-"The curse."
+"What else did she say? About the war. About—" Andromache paused, her hand moving unconsciously to her stomach. She was not yet showing, but she had begun to suspect. "About what comes after."
+
+"I don't remember. That's the curse—the harder I try to hold the words, the faster they slip away." He looked at her, something moving behind his eyes. "Why do you ask?"
+
+"No reason." She let her hand fall. "The curse."
 
 "Yes." He stepped back from her hands. "And now here we are."
 

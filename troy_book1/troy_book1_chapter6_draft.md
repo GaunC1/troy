@@ -509,7 +509,7 @@ Andromache was waiting at the palace gates. Her face went white when she saw wha
 
 She led him through the palace, past servants who shrank against the walls, past guards who looked away. Into the nursery, where Astyanax lay sleeping in his bed.
 
-Their son. Three years old now. He had Andromache's eyes, Hector's jaw, a face that changed every day into something new. He was sucking his thumb, the way he always did when he slept deeply.
+Their son. Five years old now—born in the first months of the siege, knowing no world but this one. He had Andromache's eyes, Hector's jaw, a face that changed every day into something new. He was sucking his thumb, the way he always did when he slept deeply.
 
 Hector stood in the doorway, the dead girl in his arms, looking at his living son.
 
@@ -527,7 +527,15 @@ He didn't move.
 
 Andromache took the girl from his arms. Gently, carefully, as if she might still feel pain.
 
-"We'll find her family," she said. "If they survived. If not—"
+The child weighed almost nothing. Dark hair, matted with ash. A face that might have been peaceful if not for the dust sealing her eyes shut. She could have been any child. She could have been—
+
+Andromache looked at the bed where Astyanax slept, his small chest rising and falling, his fist curled against his cheek. Then she looked at the girl in her arms. The same size. The same age, perhaps. The same fragile bones that broke so easily when the world turned cruel.
+
+Something cold moved through her chest. Not grief—she didn't know this child. Something worse than grief. Recognition.
+
+*This is what the war wants. This is what it will take, if we let it.*
+
+"We'll find her family," she said. Her voice was steady. She made it steady. "If they survived. If not—"
 
 "Bury her properly. With the others."
 
@@ -547,9 +555,15 @@ He looked at his son one more time. Still sleeping. Still peaceful. Still innoce
 
 He walked away, his footsteps echoing in the empty hall.
 
-Andromache stood in the doorway of her son's room, holding someone else's daughter, watching her husband disappear into the palace.
+Andromache stood in the doorway of her son's room, holding someone else's daughter, watching her husband disappear into the palace. The dead child's weight was nothing. Her son's sleeping breath was everything.
 
-Then she went to find the servants. There were bodies to bury.
+*Children not yet born will pick up swords.*
+
+She had heard Cassandra's prophecies before. Everyone had. Fragments that made no sense, warnings that slipped away like morning mist. But sometimes, in the dark hours, Andromache wondered what else the princess had seen. What she had seen about this child, this son, this small life sleeping in his bed while the world burned around him.
+
+She would not ask. Asking would make it real.
+
+She looked at Astyanax one last time. Then she went to find the servants. There were bodies to bury.
 
 ---
 
@@ -747,7 +761,7 @@ Hector crossed to the window, stood beside her. Looking out at the city, at the 
 
 "Children not yet born will pick up swords. That's what she said. I don't know what it means, but—" He shook his head. "If she's right, this war will last longer than anyone imagines."
 
-"Cassandra says many things."
+"Cassandra says many things." Andromache's voice was careful, measured. She had heard the princess speak of walls falling, of fire in the streets, of things she could not let herself imagine. Once, in the early days of the siege, she had almost asked Cassandra directly—*what do you see for my son?*—but something in the princess's eyes had stopped her. Some doors were better left closed. "Not all prophecies come to pass."
 
 "She's usually right. That's the problem. She's always right, and no one believes her, and then the things she said come true." He turned to face his wife. "What if she's right about this? What if this goes on for ten years? Twenty? What if our son grows up in this siege, never knowing anything but war?"
 
