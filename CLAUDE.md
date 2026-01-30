@@ -10,11 +10,14 @@ This is a creative writing project: a literary retelling of the Trojan War writt
 
 - `troy_storyboard.md` - Master planning document containing:
   - Core philosophy (pacing, death style, morality)
-  - All POV character profiles with arcs and motivations
   - Complete season/episode breakdown (4 seasons, 6 episodes each)
   - Character death schedule
   - Key themes and visual motifs
   - Source material integration notes
+
+- `characters/` - Individual character profiles (one per file)
+  - Primary: `achilles.md`, `hector.md`, `odysseus.md`, `helen.md`, `cassandra.md`
+  - Secondary: `agamemnon.md`, `paris.md`, `briseis.md`, `priam.md`, `andromache.md`
 
 - `troy_book1/` - Book One: "The Gathering Storm" (Season 1)
   - Chapters follow the storyboard's episode structure

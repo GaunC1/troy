@@ -17,143 +17,21 @@
 
 # PART TWO: POV CHARACTERS
 
-## PRIMARY POVs (Every season)
+See `characters/` folder for full character profiles:
 
-### ACHILLES — "The Weapon"
-**Starting State:** Young, beautiful, absolutely certain of his own glory. He knows he will die at Troy and has chosen this—fame over long life. He sees war as the stage for his legend.
+**Primary POVs (Every season):**
+- [Achilles](characters/achilles.md) — "The Weapon"
+- [Hector](characters/hector.md) — "The Defender"
+- [Odysseus](characters/odysseus.md) — "The Pragmatist"
+- [Helen](characters/helen.md) — "The Cause"
+- [Cassandra](characters/cassandra.md) — "The Prophet"
 
-**Arc:** Glory-seeker → Disillusioned soldier → Grief-shattered man → Death-seeker
-
-**Core Tension:** He chose a short, glorious life. But glory feels hollow when his only real connection (Patroclus) is taken. By the end, he doesn't want to die gloriously anymore—he just wants to die.
-
-**Motivation Evolution:**
-- S1: Prove himself the greatest warrior who ever lived
-- S2: Maintain his honor against Agamemnon's insults
-- S3: Destroy everything Hector loves, then himself
-- S4: Already dead inside, going through motions until Paris's arrow
-
-**Key Relationships:**
-- Patroclus (the only person who sees him as human, not a weapon)
-- Agamemnon (the king who treats him as a tool)
-- Hector (the mirror—everything Achilles could have been)
-- Briseis (the woman who shows him what he's become)
-
----
-
-### HECTOR — "The Defender"
-**Starting State:** The good son. The good husband. The good prince. Loves his city, his family, his people. Privately believes Paris should be handed over to the Greeks. Publicly defends him because family is everything.
-
-**Arc:** Dutiful son → Reluctant warrior → Desperate protector → Sacrificial offering
-
-**Core Tension:** He knows Troy will fall. He's known since the beginning. Everything he does is buying time, protecting his family for one more day. His "heroism" is actually a slow suicide.
-
-**Motivation Evolution:**
-- S1: Keep the peace, control the damage Paris caused
-- S2: Protect Troy's walls, give his son a future
-- S3: Kill enough Greeks to force a negotiated surrender
-- S4: Die in a way that might make Achilles spare his family (it won't)
-
-**Key Relationships:**
-- Andromache (the life he's fighting for and knows he'll lose)
-- Paris (the brother he loves and resents)
-- Priam (the father he can never disappoint)
-- Achilles (the death that's been waiting for him)
-
----
-
-### ODYSSEUS — "The Pragmatist"
-**Starting State:** Clever king of a small island. Didn't want this war. Faked madness to avoid it (failed). Now committed to ending it as quickly as possible through any means necessary.
-
-**Arc:** Reluctant participant → Ruthless strategist → War criminal → Haunted survivor
-
-**Core Tension:** He tells himself every atrocity serves the greater good of ending the war. But he's starting to enjoy the problem-solving. The horse isn't just a solution—it's a masterpiece.
-
-**Motivation Evolution:**
-- S1: Find a way to go home without fighting
-- S2: Win the war through cleverness, not sacrifice
-- S3: Win the war through any means, the cost doesn't matter anymore
-- S4: Burn it all down and pick through the ashes
-
-**Key Relationships:**
-- Penelope (the memory of home that keeps him sane, then doesn't)
-- Agamemnon (the king he serves and secretly despises)
-- Achilles (the blunt instrument he wishes he could be)
-- Palamedes (the man he murdered for being too clever)
-
----
-
-### HELEN — "The Cause"
-**Starting State:** The most beautiful woman in the world—which means the most owned woman in the world. Stolen by Theseus at 12. Married to Menelaus for politics. Taken by Paris for... love? Lust? Divine compulsion? Even she's not sure.
-
-**Arc:** Object of desire → Prisoner of guilt → Agent of her own fate → Survivor
-
-**Core Tension:** Did she choose Paris or was she taken? She doesn't know. The distinction mattered once. Now she's trapped in a city that hates her, waiting to be "rescued" by a husband who'll probably kill her. She starts making her own moves.
-
-**Motivation Evolution:**
-- S1: Understand what happened to her, whether she chose this
-- S2: Survive the hatred of Troy's women, find some purpose
-- S3: Protect Trojan women from what's coming (she knows what Greek soldiers do)
-- S4: Survive the sack, escape both sides
-
-**Key Relationships:**
-- Paris (is it love? Stockholm syndrome? Divine manipulation? Yes.)
-- Menelaus (the husband who was kind enough, whose kindness means nothing now)
-- Hecuba (the queen who should hate her but sees the trap they're both in)
-- Cassandra (the mad princess who sees Helen for what she really is)
-
----
-
-### CASSANDRA — "The Prophet"
-**Starting State:** Princess of Troy, cursed by Apollo to see the future and never be believed. Not "mad"—exhausted. She's been screaming warnings for years. Now she mostly mutters.
-
-**Arc:** Ignored prophet → Bitter observer → Resigned witness → Enslaved survivor
-
-**Core Tension:** She knows everything that will happen. She's stopped trying to prevent it. Her chapters are dramatic irony machines—she comments on events we know are doomed, provides context others lack, watches the tragedy unfold with tired eyes.
-
-**Motivation Evolution:**
-- S1: One last attempt to warn them (it fails)
-- S2: Document what's happening, bear witness
-- S3: Find someone, anyone, who will listen (Helen, briefly)
-- S4: Survive the sack, knowing exactly what Agamemnon will do to her
-
-**Key Relationships:**
-- Priam (the father who loves her but can't believe her)
-- Hector (the brother who half-believes but can't act on it)
-- Helen (the only person who starts to really listen)
-- Agamemnon (the man who will own her, then die for it)
-
----
-
-## SECONDARY POVs (Select seasons)
-
-### AGAMEMNON — "The King" (Seasons 1-2)
-The high king who holds the Greeks together through sheer political force. Arrogant, greedy, insecure. Takes Briseis from Achilles not because he wants her but because Achilles cannot be allowed to defy him. His murder of Iphigenia haunts him—not because he regrets it, but because it worked, and he knows he'd do it again.
-
-*POV fades after Season 2 as he becomes more obstacle than protagonist. Returns briefly in the finale to die at Clytemnestra's hands.*
-
----
-
-### PARIS — "The Lover" (Seasons 1-2)
-Beautiful, charming, utterly unequal to the consequences of his choices. He genuinely loves Helen (or thinks he does). He's not stupid—he knows he doomed his family. He just can't face it. His chapters are studies in denial, deflection, and occasional flashes of genuine guilt.
-
-*POV fades as he becomes less relevant. His death is reported through Hector's POV—a minor irony, since Hector outlives him by episodes.*
-
----
-
-### BRISEIS — "The Prize" (Seasons 2-3)
-War captive. Passed between Achilles and Agamemnon like property. Her POV provides the ground-level view of the Greek camp—the petty politics, the casual cruelty, the soldiers who are just tired farmers who want to go home.
-
-*Her relationship with Achilles is complicated—not Stockholm syndrome romance, not simple hatred. Something more nuanced and deeply sad.*
-
----
-
-### PRIAM — "The Father" (Season 3)
-Added late to show the Trojan perspective as the end approaches. An old man watching his children die. His chapter retrieving Hector's body from Achilles is the emotional climax of Season 3.
-
----
-
-### ANDROMACHE — "The Wife" (Season 4)
-Added for the fall of Troy. Hector is dead. Her son will be thrown from the walls. Her chapters are about a woman stripped of everything, finding steel inside herself.
+**Secondary POVs (Select seasons):**
+- [Agamemnon](characters/agamemnon.md) — "The King" (S1-2)
+- [Paris](characters/paris.md) — "The Lover" (S1-2)
+- [Briseis](characters/briseis.md) — "The Prize" (S2-3)
+- [Priam](characters/priam.md) — "The Father" (S3)
+- [Andromache](characters/andromache.md) — "The Wife" (S4)
 
 ---
 
