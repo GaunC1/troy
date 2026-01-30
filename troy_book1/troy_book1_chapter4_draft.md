@@ -689,6 +689,8 @@ He thought about himself, standing at the back of the crowd, watching, saying no
 
 *The first blood of this war was Greek*, he thought. *And it was a child's.*
 
+He filed that away too. What kind of man Agamemnon was. What he was willing to spend. The knowledge might be useful someday—and if not useful, then at least it was true. Odysseus collected true things the way other men collected debts.
+
 The wind pushed at his back, strong and steady. The sails strained. The fleet spread out across the water, a thousand ships sailing toward the same horizon.
 
 Troy was out there, somewhere. Waiting.

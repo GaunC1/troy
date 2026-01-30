@@ -485,6 +485,8 @@ Footsteps behind him. He turned.
 
 Palamedes stood a few paces away, silhouetted against the setting sun.
 
+The cold thing in Odysseus's chest—the thing that had taken root on that beach, watching this man walk away with his son in the furrow—stirred and settled. He noted Palamedes's position in the camp. Filed it away.
+
 "Odysseus." His voice was pleasant, conversational. "Settling in?"
 
 "Yes."

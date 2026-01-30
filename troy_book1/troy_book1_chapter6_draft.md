@@ -279,7 +279,9 @@ The camp was quiet when Odysseus walked the perimeter.
 
 He'd developed the habit years ago—a circuit of the fortifications, checking sentries, looking for weaknesses. He told himself it was strategic, but the truth was simpler. He couldn't sleep. Hadn't been able to for months.
 
-He was thinking about Ithaca when he saw Palamedes.
+He was thinking about Ithaca when he saw Palamedes. Not the kingdom—the kitchen. Penelope mending a fishing net by lamplight, Telemachus asleep in her lap, the smell of olive oil and salt. The stone wall he'd been building that last morning. It would need repair by now. Five years of weather, and no one to check the mortar.
+
+Palamedes.
 
 The man was walking the same circuit, from the opposite direction. They met at the northeast corner of the camp, where the fortifications overlooked the beach.
 
