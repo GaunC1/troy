@@ -61,6 +61,32 @@ Agamemnon nodded slowly. "Achilles. He's been asking for action. Give him a doze
 
 The decision was made. The council dissolved into smaller arguments—who would go, how many ships, which villages to target. Odysseus slipped out while the others were still talking.
 
+Agamemnon remained seated as the tent emptied.
+
+When the last of them had gone, he reached into his robe and withdrew a pale blue ribbon, worn soft from years of handling. He didn't look at it often—months would pass, sometimes, before he remembered it was there. But moments like this, when the walls still stood and the years stretched on and the war demanded more than anyone had imagined, his hand would find it. A reflex. A habit he couldn't quite extinguish.
+
+Iphigenia had given it to him when she was small. A good-luck charm, she'd called it. He'd kept it ever since.
+
+Five years. Five years since the altar, since the knife, since the wind came. Five years since he'd proven what he was willing to pay. And here he sat, grey and tired, the walls still standing, the war nowhere near its end.
+
+He thought: *It should have been enough.*
+
+He thought: *It should have bought more than this.*
+
+The ribbon was faded now, the blue gone pale. He ran his thumb across it once, feeling the softness of the fabric, and then he tucked it away again.
+
+If he had to make the choice again—today, now, knowing what it would cost—would he?
+
+The question surfaced sometimes, late at night, in the silence between one crisis and the next. He examined it the way he examined all threats: coldly, carefully, without sentiment.
+
+Yes. He would do it again. The war still needed winning. The walls still needed falling. And he was still the man who could do what must be done.
+
+That was the worst part. Not that the choice haunted him—but that it didn't. He'd paid with his daughter's life, and he'd do it again, and the only thing he felt was tired.
+
+He rose from the table and went to find his captains. There were raids to plan, supplies to manage, a siege to maintain.
+
+The war went on.
+
 The morning sun hit him like a physical blow. Five years of Trojan summers, and he still wasn't used to the heat. Ithaca was cool, green, swept by sea breezes. This place was an oven.
 
 He walked the camp without destination, letting his feet carry him through the maze of tents and cook fires and latrines. The camp had grown permanent over the years—wooden structures replacing canvas, roads worn into the sand, a whole city built for the purpose of destroying another city.

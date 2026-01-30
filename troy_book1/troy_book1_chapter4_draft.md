@@ -21,11 +21,17 @@ Or.
 
 He sends for Iphigenia. The goddess is appeased. The wind blows. The fleet sails. Troy falls. He returns as the conqueror of the greatest city in the world, the man who united Greece, the king who will be remembered for a thousand years.
 
-He thought about his daughter. Her face at dinner, asking about Achilles. Her excitement. Her trust.
+He thought about his daughter. Her face at dinner, asking about Achilles. Her excitement. Her trust. The way she'd run to him as a child, arms outstretched, certain he would catch her. He always had.
 
-He thought about Clytemnestra. What she would say. What she would do.
+He reached into his robe and withdrew a ribbon—pale blue, worn soft from handling. Iphigenia had given it to him years ago, when she was small. A good-luck charm, she'd called it. He'd kept it ever since, tucked away where no one would see. A weakness. A softness. The kind of thing enemies could use.
 
-He thought about the thousand ships in the harbor, their sails hanging limp.
+He looked at the ribbon for a long time.
+
+Then he set it aside.
+
+He thought about Clytemnestra. What she would say. What she would do. How she would look at him when she understood. He thought about that look, examined it carefully, set it aside too.
+
+He thought about the thousand ships in the harbor, their sails hanging limp. About the legacy he would leave. About the choice that wasn't really a choice at all—not for him, not for the man he'd spent his life becoming.
 
 The lamp guttered. He watched the flame struggle, almost die, then catch again on the last of the oil.
 
@@ -431,25 +437,81 @@ Clytemnestra studied him. Her eyes were dark, searching.
 
 "Are they."
 
-Agamemnon met her gaze. Held it.
+A sound from the adjoining chamber—the rustle of fabric, light footsteps. Iphigenia appeared in the doorway, still in her white dress, her hair gleaming.
+
+"Father!" She ran to him, wrapped her arms around him. He felt her warmth against his chest, the familiar weight of her embrace. "Mother said you were coming. Is everything arranged? When do I meet him? I've been so nervous—"
+
+"Soon." The word came easily. "Very soon."
+
+"What's he like? Achilles? Is he as handsome as they say?" She pulled back, looking up at him with eyes that held nothing but trust. "I've imagined him so many times. I hope he's kind. I don't need handsome, really—I just want him to be kind."
+
+Agamemnon looked at his daughter's face. Memorized it. The shape of her eyes, the curve of her smile, the way her nose wrinkled slightly when she was excited. He would need this memory later. He would need to remember what he had bought with it.
+
+"He's a great warrior," he said. "The greatest of his generation."
+
+"That's not what I asked."
+
+"No." He touched her hair—once, briefly. "It isn't."
+
+Clytemnestra was watching him. He could feel her gaze like a blade between his shoulders.
+
+"Go rest," he told Iphigenia. "Tomorrow will be a long day. You'll want to look your best."
+
+"I won't be able to sleep. I'm too excited." But she was already moving toward the chamber, already turning away. At the doorway she paused, looked back. "Thank you, Father. For arranging this. For everything."
+
+"You're welcome."
+
+She disappeared behind the curtain. Agamemnon stood very still, not looking at his wife.
+
+"She trusts you," Clytemnestra said quietly. "Completely. Without reservation."
+
+"Yes."
+
+"And you're lying to her."
+
+He turned to face her then. Let her see his face—the mask he wore, smooth and practiced and absolutely certain.
+
+"I'm doing what must be done."
+
+"For what?" Her voice was still quiet, but something had sharpened in it. "What could possibly be worth lying to your own daughter? To me?"
+
+"The war. The fleet. Greece itself." The words came easily because they were true. "Everything I've built. Everything we've built."
+
+"And Iphigenia?"
+
+"Will be fine." He said it without hesitation. "She'll be fine. You'll both be fine."
+
+Clytemnestra rose slowly. She crossed to him, stood close enough that he could see the lamp-flame reflected in her eyes.
+
+"I've known you for twenty years," she said. "I've watched you lie to kings and generals, to allies and enemies, to priests and servants. I know what your lies look like." She reached up, touched his face—her fingers cold against his cheek. "This is the worst lie you've ever told."
+
+"It's not a lie."
+
+"Then why won't you look at our daughter when you say it?"
+
+He met her eyes. Held them. Let her see nothing—no guilt, no hesitation, no crack in the stone.
 
 "Stay in your tent tonight. Both of you. I'll send word in the morning."
 
-He turned to leave.
+He turned and walked to the entrance. Stopped with his hand on the flap.
 
 "Agamemnon."
 
-He stopped.
+He waited.
 
-"If something happens to my daughter—"
+"If something happens to my daughter—" Her voice was steady now, flat with something that might have been prophecy. "If you hurt her. If you let anyone hurt her. I will spend the rest of my life making you pay. I will wait twenty years if I have to. I will smile and serve and pretend, and then one day when you've forgotten this moment, I will remember it for both of us."
 
-"Nothing will happen to your daughter." He said it easily, automatically. "She'll be fine. You'll both be fine."
+Agamemnon turned back. Looked at his wife.
+
+"Nothing will happen to your daughter." He smiled—a practiced expression, warm and reassuring, and it reached nowhere near his eyes. "She'll be fine. You'll both be fine."
 
 He left before she could respond.
 
-Behind him, in the tent, Clytemnestra sat very still. Her hands were folded in her lap. Her face revealed nothing.
+Behind him, in the tent, Clytemnestra sat down slowly. Her hands were folded in her lap. Her face revealed nothing.
 
 But her eyes—her eyes were taking note. Storing. Remembering.
+
+Waiting.
 
 ---
 
