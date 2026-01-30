@@ -147,6 +147,54 @@ A circle had formed in the midst of the fighting. Trojans on one side, shields r
 
 A single Greek warrior.
 
+---
+
+Paris saw the boy before the boy saw him.
+
+Greek. Young—maybe sixteen, maybe less. He was stumbling through the surf, his sword held in front of him like a torch to ward off darkness. His eyes were wide and terrified and looking everywhere at once.
+
+*He's someone's son,* Paris thought. *Someone's brother. He sailed across the sea because of what I did.*
+
+The boy saw him.
+
+For a moment, neither of them moved. The battle roared around them—screams, the clash of bronze, arrows hissing overhead—but in this small space, this accidental circle, there was only the two of them.
+
+The boy raised his sword. It was trembling.
+
+Paris had a spear. He had the advantage—longer reach, better footing. All he had to do was thrust. One clean motion, the way Hector had taught him.
+
+He couldn't move.
+
+His arms wouldn't respond. His legs were rooted to the sand. He could see the boy coming toward him, could see the fear hardening into something that might pass for courage, could see the sword rising—
+
+*Move,* he told himself. *Thrust. Dodge. Do something.*
+
+But all he could think was: *He's here because of me. He's going to die because of me. Or I'm going to kill him because of me.*
+
+The sword came down.
+
+Paris flinched backward, tripped, fell. The sand was wet and cold against his back. The boy stood over him, confused by how easy this was, adjusting his grip for the killing blow—
+
+A bronze blur. Hector's spear, appearing from nowhere, catching the boy in the side. The boy made a sound—surprised, almost—and crumpled.
+
+Hands grabbed Paris. Hauled him up. Hector's face, close to his, twisted with something that might have been rage or fear or both.
+
+"Move. Now."
+
+Paris moved. His body was shaking so badly he could barely stand, but he moved. Hector shoved him toward a chariot, toward old Euchenor who was fighting to control the horses.
+
+"Get him out of here," Hector said. "Now."
+
+The chariot lurched forward. Paris grabbed the rail, held on, watched the battle recede behind him. Watched Hector turn back toward the fighting, toward the single Greek warrior who was cutting through men like they were made of straw.
+
+*I couldn't do it,* Paris thought. *I couldn't even—*
+
+The thought wouldn't complete itself. His hands wouldn't stop shaking.
+
+---
+
+Hector was back at the center of the line when he saw him clearly.
+
 Bronze armor, a horsehair plume, a spear that dripped red. He stood among the dead like a man standing in a garden, relaxed, unhurried. His chest rose and fell slowly. He wasn't even breathing hard.
 
 As Hector watched, a Trojan soldier broke from the line and rushed him—a brave man, or a stupid one. The Greek moved. It was hard to see exactly what he did; he was just *there*, and then the Trojan was falling, and the spear was dripping again.
@@ -491,9 +539,27 @@ The word hung in the air. Hector's expression flickered—surprise, maybe, or so
 
 "Especially then."
 
-Priam studied him for a long moment. Then he nodded.
+Priam studied him for a long moment. The council hall was silent—everyone watching the old king and the young prince, waiting.
 
-"Send word to the Greeks. Tomorrow at dawn. Single combat."
+"Come here," Priam said.
+
+Paris approached the throne. Up close, he could see how much his father had aged since the fleet arrived. The lines around his eyes, the grey in his beard, the weight that seemed to press down on his shoulders.
+
+"I exposed you on a mountain," Priam said quietly, so only Paris could hear. "When you were born. The seers said you would destroy us, and I chose my city over my son." His voice cracked. "And now here you are. Offering to die for us. After everything I did."
+
+"Father—"
+
+"I don't know if I'm proud of you or ashamed of myself." Priam's hand found Paris's shoulder, gripped it. "Both, maybe. Both at once."
+
+Paris didn't know what to say. He'd spent years wondering if his father regretted saving him, regretted letting him come home. Now he had his answer, and it wasn't what he'd expected.
+
+"I'm sorry," Paris said. "For all of it. For Helen. For the war. For making the prophecy come true."
+
+"The prophecy isn't finished yet." Priam's grip tightened. "Maybe this is how it ends. Maybe you die tomorrow, and the war ends, and Troy survives. Maybe the seers were wrong, or maybe they were right in a way we didn't understand."
+
+"Or maybe I'm just a man who made a choice and has to live with it."
+
+"Yes." Priam released him, leaned back. His voice rose, carrying to the council. "Send word to the Greeks. Tomorrow at dawn. Single combat."
 
 ---
 
@@ -580,6 +646,14 @@ He stumbled back. Menelaus followed, relentless, each blow coming before Paris c
 Menelaus kicked him in the chest.
 
 Paris hit the ground hard. The air left his lungs. He saw the sky, bright and blue, wheeling above him.
+
+*This is it,* he thought. The thought was strangely calm. *This is how it ends.*
+
+He'd imagined this moment. In the weeks since he'd brought Helen home, in the long nights when guilt kept him awake, he'd imagined dying for what he'd done. He'd thought it would feel like justice. Like payment.
+
+It didn't feel like anything. Just the sky, impossibly blue, and the taste of blood in his mouth, and somewhere very far away the sound of Helen's name—his last thought, or maybe just his oldest habit.
+
+*I'm sorry,* he thought. To Helen. To Hector. To the boy on the beach and all the boys who would come after. *I'm sorry I wasn't worth any of this.*
 
 Menelaus stood over him, breathing hard now, his sword raised.
 

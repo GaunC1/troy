@@ -635,9 +635,41 @@ Helen stayed on the walls until the smoke faded, watching the Greek camp, watchi
 
 ---
 
-That night, Paris tried to comfort her.
+That night, Paris found Helen on the balcony.
 
-He reached for her the way he always did—hands finding familiar places, mouth against her throat. The ritual that had sustained them through five years of siege.
+She was staring at the funeral pyres, her arms wrapped around herself. He stood in the doorway, watching her, knowing what she was thinking because he was thinking it too.
+
+"I heard them bringing the bodies in," he said. "From the walls. I watched."
+
+She didn't turn.
+
+"There was a girl. Hector was carrying her." Paris moved to stand beside Helen, looking at the same fires. "I kept thinking—she never did anything. She was just living her life, in a village that had the bad luck to be near Troy. And now she's dead because of a choice I made five years ago."
+
+"You can't know that. The Greeks—"
+
+"The Greeks came here because of me. Every death, every burned village, every child who—" His voice broke. He steadied himself. "I know what I did. I've always known. I just couldn't... I couldn't let myself feel it. Not really."
+
+Helen finally looked at him. Her eyes were red, but she wasn't crying. She'd stopped crying years ago.
+
+"Why now?"
+
+"I don't know. Maybe because I can't hide from it anymore. Maybe because I've been hiding so long that the hiding itself has become another kind of cowardice." He laughed, but there was no humor in it. "You'd think almost dying would have taught me something. It didn't. I just... went back to pretending."
+
+She reached for him then—not with desire, but with something older. Her hand found his, squeezed.
+
+"I tried going to the healing house today," Paris said. "To help. The way you do."
+
+"What happened?"
+
+"A man spit at me. Called me the Trojan whore's husband." He shrugged. "He wasn't wrong. About any of it."
+
+"Paris—"
+
+"I left. I couldn't stay there, with all of them looking at me like that. Like I was the cause of everything." He pulled his hand away, ran it through his hair. "And the worst part is—they're right. I am the cause. And I can't do anything about it. I can't fight, I can't help, I can't even die properly."
+
+They stood in silence, watching the pyres burn.
+
+Later, in bed, he reached for her the way he always did—hands finding familiar places, mouth against her throat. The ritual that had sustained them through five years of siege.
 
 She let him. Because it was easier than talking. Because his body was the one thing that had never blamed her.
 
@@ -670,6 +702,14 @@ They lay there, not speaking, not sleeping. Outside, the funeral pyres were burn
 She thought about it. Really thought, for the first time in a long time.
 
 "No," she said. "It doesn't help. Nothing helps." She squeezed his hand. "But it's something. It's the only thing I have."
+
+Paris was quiet for a long moment. Then, softly: "I used to think loving you was the best thing I ever did. The bravest thing. Choosing you over everything else."
+
+"And now?"
+
+"Now I think it was the easiest thing. Easier than being wise. Easier than being good." He turned his head on the pillow, looked at her profile in the darkness. "I'm not sorry I love you. I can't be sorry for that. But I'm sorry for what my love cost everyone else. I'm sorry I didn't have the courage to love you and also be a better man."
+
+Helen didn't respond. There was nothing to say.
 
 They lay in the dark, holding hands, listening to the city mourn.
 
