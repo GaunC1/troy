@@ -363,6 +363,12 @@ Smoke. Orange light on the horizon.
 
 Achilles.
 
+The name hit him like a fist. He was back on the beach suddenly, five years ago, watching a single warrior cut through his men like they were nothing. Their eyes meeting across the chaos. That cold recognition moving through his chest.
+
+*This is the man.*
+
+The man who would kill farmers and children. The man who was still out there, waiting.
+
 Hector gripped the parapet, staring at the distant glow. The village was too far to reach in time—by the time they organized a sortie, the Greeks would be gone. But maybe, if they moved fast—
 
 "Ready the cavalry. Two hundred men. We'll try to intercept them before they reach their ships."

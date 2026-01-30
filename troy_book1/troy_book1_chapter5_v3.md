@@ -657,7 +657,15 @@ The captains filed out. Hector stood at the window, watching his brother being l
 
 *Someone* had given that order. Someone had decided that Paris's life was worth breaking the truce, worth prolonging the war, worth all the deaths that would follow.
 
-He would probably never know who.
+And Paris was alive. His brother was alive.
+
+Hector waited for the relief to come. It didn't. Or rather—it did, buried somewhere deep, tangled with something else. Something that felt like disappointment. Something that remembered standing on the beach three days ago, his arms aching from saving this same brother who had frozen when a Greek boy raised a sword.
+
+*I wanted to kill him.* He'd told Andromache that, the night Paris brought Helen home. *I couldn't hold onto it.*
+
+He still couldn't. Paris was family. Paris was blood. And the war continued.
+
+He would probably never know who gave that order. Part of him didn't want to know.
 
 ---
 
@@ -787,7 +795,13 @@ She turned to look at him. Her eyes were dark, empty.
 
 Hector felt something cold touch his spine. "What baby? What are you talking about?"
 
-But Cassandra was looking past him now, at something he couldn't see.
+For a moment—just a moment—something flickered at the edge of his mind. A memory that wasn't quite a memory. He'd heard this before. Not these exact words, but this feeling, this dread. Cassandra's face in firelight, her hands gripping his arms, her voice saying something about walls and his son and—
+
+It slipped away. Like water through fingers. Like waking from a dream you can't hold onto.
+
+He shook his head. "Cassandra—"
+
+But she was looking past him now, at something he couldn't see.
 
 "How long?" he asked. "How long does this war last?"
 
