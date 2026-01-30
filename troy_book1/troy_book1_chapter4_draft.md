@@ -639,7 +639,7 @@ They stood together, watching the last of the tents come down.
 
 "Neither did I."
 
-"But I could hear. Her screaming. And then—" He stopped. "The wind. Right after. Like the gods were thanking him."
+"But I could hear." Achilles's voice was hollow. "Her screaming. Muffled, like they'd gagged her, but I could still hear it. And then—nothing. This terrible silence. I was standing behind the supply tents, as far as I could get, and I could still hear the knife." He swallowed. "The sound it made. And then the wind came, right after, like the gods were thanking him."
 
 Patroclus said nothing.
 

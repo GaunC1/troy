@@ -533,7 +533,19 @@ Achilles didn't answer. He was watching one of the captive women—young, dark-h
 
 "I know. That's the point." Achilles turned to face him. "I came here to fight warriors. To test myself against the best Troy had. To earn glory." He laughed, a bitter sound. "And instead I'm butchering farmers and burning grain stores and—"
 
-He stopped. Shook his head.
+He stopped. There was a boy, maybe twelve, who had tried to run. Achilles could still see the back of his tunic, the bare feet kicking up dust. One of the Myrmidons had caught him.
+
+"There was a boy," he said. "Running. He had a fishing spear—a toy, really. Couldn't have hurt anyone with it." Achilles's jaw tightened. "I told myself it was necessary. That we needed the supplies. That this is what war requires."
+
+He thought of Agamemnon saying the same words over Iphigenia. *Necessary. What the mission requires.*
+
+Something cold moved through his chest.
+
+"Patroclus made me promise something once," he said quietly. "Before we sailed. That if I ever became like Agamemnon—if I ever put necessity above honor—he'd kill me himself."
+
+Odysseus said nothing.
+
+"I'm starting to understand why I asked him for that."
 
 "The walls will fall," Odysseus said. Because it was what he always said. Because there was nothing else to say.
 

@@ -393,7 +393,7 @@ Patroclus absorbed this. "And that pleased you?"
 
 "What do you want?"
 
-"Someone who looks at me and doesn't calculate. Someone who just comes." He thrust the spear into the sand, watched it quiver. "Someone worth killing."
+"Someone who looks at me and doesn't calculate. Someone who just comes." He thrust the spear into the sand, watched it quiver. "Someone worth killing. I thought Hector might be that. The way they talk about him—defender of Troy, beloved of his people. I thought when he saw me, he'd feel what I felt. The pull. The necessity." Achilles stared at the distant walls. "Instead he calculated. Like everyone else."
 
 Patroclus was quiet for a moment. Then: "That's a strange thing to want."
 
