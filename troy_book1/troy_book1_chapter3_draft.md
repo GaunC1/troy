@@ -363,7 +363,7 @@ Penelope held their son and said nothing.
 
 The throne room was cold despite the braziers.
 
-Cassandra stood before her father, her hands clasped to keep them from shaking. Priam sat on his throne, looking old and tired. Beside him, Paris stood with his arm around Helen, still playing the young lovers, still pretending they hadn't doomed everyone in the room.
+Cassandra stood before her father, her hands clasped to keep them from shaking. Priam sat on his throne, looking old and tired—his white beard unkempt, his spotted hands gripping the armrests, his shoulders curved forward as if the weight of the crown had finally become too heavy to bear. Beside him, Paris stood with his arm around Helen, still playing the young lovers, still pretending they hadn't doomed everyone in the room.
 
 Hector was there too, arms crossed, face unreadable. He wouldn't meet her eyes.
 
@@ -381,11 +381,11 @@ Paris shifted uncomfortably. "Cassandra—"
 
 "Don't." She turned on him, and he flinched from whatever he saw in her face. "Don't speak to me. Don't look at me. This is your doing. All of it. And you don't even have the grace to be ashamed."
 
-"That's enough." Priam's voice was sharp. "Cassandra, I know you believe what you're saying. I know it feels real to you. But I cannot make decisions based on—"
+"That's enough." Priam's voice was sharp, but something in his face cracked as he said it—a flicker of pain around his eyes, quickly hidden. "Cassandra, I know you believe what you're saying. I know it feels real to you. But I cannot make decisions based on—"
 
 "On what? On truth? On sight?" She laughed, a broken sound. "No. Of course not. That's never been how this works."
 
-She turned and walked toward the door. Her legs were unsteady but she kept them moving.
+She turned and walked toward the door. Priam's hands tightened on the armrests, knuckles going white. He wanted to call her back—she could see it in the way he leaned forward, mouth half-open. But what could he say? That he believed her? He didn't. That he was sorry? Sorry changed nothing. So he sat there, an old king watching his daughter walk away, and said nothing at all. Her legs were unsteady but she kept them moving.
 
 "Cassandra." Hector's voice. She stopped but didn't turn. "I'm doubling the watch. Reinforcing the outer walls. Stockpiling grain for a siege."
 

@@ -539,7 +539,9 @@ The word hung in the air. Hector's expression flickered—surprise, maybe, or so
 
 "Especially then."
 
-Priam studied him for a long moment. The council hall was silent—everyone watching the old king and the young prince, waiting.
+Priam studied him for a long moment. His spotted hands trembled slightly where they gripped the throne—the same hands that had, twenty-three years ago, placed an infant on a mountainside to die. The same hands that had, years later, embraced that infant grown to manhood when he returned to Troy. And now those hands would send him to his death again.
+
+The council hall was silent—everyone watching the old king and the young prince, waiting.
 
 "Come here," Priam said.
 

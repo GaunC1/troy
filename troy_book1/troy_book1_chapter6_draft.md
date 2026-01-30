@@ -489,6 +489,8 @@ They reached the gates at dawn.
 
 Word had spread. The streets were lined with people—silent, watching. Some were crying. Some just stared, their faces blank with shock.
 
+On the palace steps, Priam stood waiting. He had come down himself, refusing his attendants' pleas that he wait inside. He was bareheaded, his white hair disheveled by the morning wind, and he watched the wagons of the dead pass with an expression that was beyond grief—something older and heavier, the face of a man who had outlived too many of his children's hopes.
+
 Hector rode at the head of the column. Behind him, wagons carried the dead. Behind that, the survivors walked—thirty people, mostly women and children, their eyes empty.
 
 He was still holding the girl.
