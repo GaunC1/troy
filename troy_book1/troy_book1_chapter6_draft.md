@@ -173,7 +173,7 @@ A soldier grabbed her wrist as she passed. Young, maybe twenty, his face flushed
 
 "My brother. He was at the landing. First day." His grip tightened. "Seventeen years old. He didn't even make it off the beach."
 
-Helen didn't pull away. "I'm sorry."
+Helen didn't pull away. She didn't flinch. She had learned not to flinch. "I'm sorry."
 
 "Are you? Are you really?"
 
@@ -209,7 +209,9 @@ The woman studied her. "It doesn't make up for anything. You know that."
 
 "Then why bother?"
 
-Helen looked at her hands. Rough now, callused, stained with other people's blood. Not the hands of a queen.
+Helen looked at her hands. Rough now, callused, stained with other people's blood. Not the hands of a queen. Not the hands that had trembled when she'd touched her sleeping daughter's hair, that last night in Sparta.
+
+Hermione would be eight now. Old enough to understand that her mother had left her. Old enough to hate.
 
 "Because it's something," she said. "Because I can't do nothing. Because—" She stopped, tried again. "Because if I'm going to be here, I should be useful. It doesn't make up for anything. But it's what I can do."
 
@@ -260,6 +262,10 @@ Cassandra looked at the food. Reached out, slowly, and picked up a piece of brea
 Helen had no answer to that.
 
 "We're the same," Cassandra continued. "Both of us cursed. Both of us trapped. Both of us waiting for something terrible that we can't stop."
+
+She looked at Helen then—really looked, her eyes focusing with unusual clarity.
+
+"You're different now," she said. "Less gold. More—" She trailed off, searching for a word that wouldn't come. Her hand lifted, almost touched Helen's face. "More like hands that have held things that break."
 
 "What are we waiting for?"
 

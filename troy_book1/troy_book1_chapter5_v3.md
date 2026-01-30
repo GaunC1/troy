@@ -249,7 +249,7 @@ Paris was in his chambers, sitting on the edge of his bed, still in his armor.
 
 He hadn't moved since the servants brought him back from the gates. Helen had come, had asked if he was hurt, had tried to help him remove the breastplate. He'd pushed her away. Gently, but away.
 
-She was in the corner now, watching him with those eyes that saw too much.
+She was in the corner now, her hands still at her sides, watching him with those eyes that saw too much.
 
 "Paris." Her voice was soft. "You should eat something."
 
@@ -258,6 +258,8 @@ She was in the corner now, watching him with those eyes that saw too much.
 "You should still—"
 
 "I said I'm not hungry."
+
+Helen's hands moved to the clasp of his armor, working it loose despite his refusal. She had learned to be useful with her hands. It was better than being still.
 
 Silence.
 
@@ -724,6 +726,10 @@ Paris sat in his chambers, cleaned and bandaged and dressed in soft clothes. Hel
 Helen said nothing.
 
 "They're saying Aphrodite saved me. That the goddess intervened." Paris looked at his hands. "Maybe she did. I don't know. I don't know what happened."
+
+Helen felt something cold move through her chest. Aphrodite. The goddess who had promised Paris the most beautiful woman in the world. She had wondered, in the years since Sparta, whether anything she felt was truly hers—or whether it was all just divine strings, pulling her toward a fate she'd never chosen.
+
+She pushed the thought away. It didn't matter now.
 
 A knock at the door. Paris knew who it was before the servant announced him.
 
