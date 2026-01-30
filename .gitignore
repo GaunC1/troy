@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Generated files
+*.epub
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
