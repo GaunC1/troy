@@ -291,7 +291,7 @@ END: Night. Silence. Helen standing at her window, watching the horse in the pla
 *POVs: Odysseus, Helen, Cassandra, Andromache*
 
 ### Thematic Focus
-The bill comes due. Every death, every atrocity the war enabled. Victory is indistinguishable from damnation. No one survives this clean.
+The bill comes due. Every death, every atrocity the war enabled. Victory is indistinguishable from damnation. No one survives this clean. The story ends not with homecoming, but with scattering—Odysseus's journey only beginning, Cassandra's curse finally lifting in death.
 
 ### Chapter Breakdown
 
@@ -344,50 +344,50 @@ END: The ships loading. Troy a smoking ruin. Cassandra's voice: "The wind will t
 
 ---
 
-**Chapter 4: "The Returns"**
-*POVs: Odysseus, Cassandra, Andromache*
+**Chapter 4: "The Scattering"**
+*POVs: Odysseus, Andromache, Helen*
 
-THE FLEET SCATTERS: Storms. The gods' punishment for the temple rape, for the atrocities, for the hubris. Ships lost. Men drowned.
+THE FLEET DEPARTS: The Greeks believe they've won. Then the storms come—Athena's vengeance for the temple rape, Poseidon's wrath for the hubris. Ships founder. Men drown. The fleet scatters across the Aegean.
 
-AGAMEMNON'S RETURN: He arrives home to Mycenae. Clytemnestra is waiting. She's had ten years to prepare.
+ODYSSEUS: His ship driven into unknown waters. Last we see him: alone at the prow, watching the stars disappear behind black clouds. Ithaca is east. The wind blows west.
 
-Cassandra at the gates of Mycenae. Her last POV chapter. She knows what's inside. Death for Agamemnon. Death for herself. She walks in anyway. "Why escape?" she asks no one. "I've seen how this ends since I was a girl."
+ANDROMACHE: On Neoptolemus's ship, watching the chaos. She stores every death, every scream. The gods are not finished with them.
 
-THE MURDER: Not shown directly. Red cloth on water. Screaming. Then silence.
+HELEN: On calmer seas with Menelaus—the gods have no quarrel with her. She watches the distant storms and feels nothing.
 
-END: Cassandra's body beside Agamemnon's. Her eyes open, fixed on the ceiling. For the first time in her life, she looks peaceful.
+END: The Greek fleet scattered across dark water. Some ships burning. Some already gone. The war is over. The punishment has begun.
 
 ---
 
-**Chapter 5: "The Long Way Home"**
-*POVs: Odysseus, Helen, Andromache*
+**Chapter 5: "The Red Water"**
+*POVs: Cassandra, Odysseus*
 
-ODYSSEUS'S JOURNEY BEGINS: The cyclops (just the beginning). He'll wander ten more years. The man who burned Troy can't find his way home.
+MYCENAE: Agamemnon's ship reaches home. Cassandra at the gates. Her final POV: she knows what waits inside. Clytemnestra has had ten years to prepare. The children Agamemnon abandoned have grown into instruments of revenge.
 
-HELEN IN EGYPT: A variant tradition—she was never at Troy. A phantom took her place. She's been in Egypt the whole time.
+ODYSSEUS: Brief POV. His ship wrecked on an unknown shore. Strange land. His men afraid. "We'll find our way home," he tells them. He doesn't believe it. The journey is just beginning.
 
-This is never confirmed or denied. Helen speaks to an Egyptian priest about the war. "I don't know if I caused it," she says. "I don't know if I was there. I know ten thousand men are dead, and I'm still standing here, beautiful and useless."
+CASSANDRA: She walks through the gates anyway. "I've seen how this ends since I was a girl. Why run?"
 
-ANDROMACHE: In Epirus with Neoptolemus. Planning. Waiting. She will have three more husbands, three kingdoms, children who will conquer. Hector's wife will outlive everyone who destroyed her.
-
-END: The three survivors, scattered across the Mediterranean. The war is over. The suffering continues.
+END: The palace doors close behind her. Somewhere far away, Odysseus looks at unfamiliar stars.
 
 ---
 
 **Chapter 6: "Ashes"** (FINALE)
-*POVs: Odysseus, Helen, Andromache*
+*POVs: Cassandra, then none*
 
-YEARS LATER:
+THE MURDER: Cassandra hears Agamemnon die first—the shout cut short, the silence after. Clytemnestra comes for her next.
 
-Odysseus finally home. Penelope doesn't recognize him at first. Neither does he recognize himself. He kills the suitors. Reclaims his kingdom. Holds his wife. And wakes every night screaming.
+Cassandra's last moments: no fear. Almost relief. Every vision fulfilled. Every warning ignored. The curse is lifted the only way it could be.
 
-Helen in Sparta. Old now, still beautiful. Menelaus is dead. She rules alone. Telemachus (Odysseus's son) visits, seeking news of his father. She tells him stories. Doesn't mention that she was the reason his father left.
+Her eyes close. For the first time since Apollo touched her, she sees nothing.
 
-Andromache, an old woman, telling her grandchildren about Troy. She makes Hector a hero. She makes Achilles a monster. She doesn't mention that she watched them throw her son from the walls. Some stories are not for children.
+FINAL SCENE: The plains of Troy. Weeks later? Years? Grass grows over ash. A shepherd boy finds a rusted sword half-buried in the earth. He tries to pull it free, fails, leaves it.
 
-FINAL SCENE: The plains of Troy. Grass grows over the ruins. A shepherd boy finds a broken sword, rusted beyond use. He throws it away.
+Wind moves the grass. Smoke still rises from somewhere in the ruins, or maybe it's just mist.
 
-The wind blows. The grass sways. Troy is gone.
+Troy is gone. The war is over.
+
+The men who burned it are scattered across the sea—lost, cursed, drowning, or worse. Some will find their way home. Some will not. Their stories are not yet written.
 
 END.
 
@@ -481,8 +481,8 @@ END.
 1. The Night
 2. The Sack
 3. The Reckoning
-4. The Returns
-5. The Long Way Home
+4. The Scattering
+5. The Red Water
 6. Ashes
 
 ---

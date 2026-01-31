@@ -31,81 +31,29 @@ Priam appears briefly in Book One, primarily as a background authority figure ra
 
 **Summary:** In Book One, Priam functions as the aging patriarch whose past decisions (ordering Paris's death, then accepting him back) set the tragedy in motion. He appears only in brief throne room scenes, portrayed as an old king who cannot fully grasp the scale of destruction approaching Troy. His interactions are limited to presiding over family councils and deferring to Hector on military matters.
 
-## Book 1 Audit
+## Book 1 Speech Samples
 
-### Vocal Style Assessment
+### Voice Mechanics
 
-**Consistency: STRONG**
+**Sentence structure:** Formal, measured sentences in council—the rhythm of a king accustomed to being obeyed. But when facing Paris, his sentences fragment, grow uncertain, trail into questions.
 
-Priam's voice is consistent across his appearances in Chapters 3 and 5. He speaks with measured authority befitting an aging king, using complete sentences and formal register. His dialogue style remains stable:
+**Tense:** Past tense dominates when speaking of his guilt; conditional tense ("Maybe this is how it ends") when trying to find meaning in tragedy.
 
-- Chapter 3: "We've heard the reports. Traders have been bringing news for weeks." / "But Troy has weathered threats before. Our walls have never fallen."
-- Chapter 5: "We know the risks. We know the stakes. What we need is a decision." / "You understand what you're agreeing to?"
+**Rhythm:** Slow, heavy with age. He speaks like a man carrying weight. Long pauses between thoughts. His authority comes from stillness, not force.
 
-The voice conveys a king who is tired but still functional, attempting to maintain control through procedural authority. He asks questions rather than commands, defers to Hector on military matters, and tries to reassure rather than confront. This is consistent with the character profile's description of him as "old and tired" and someone who "cannot fully grasp the scale of destruction approaching Troy."
+**What he talks about:** Troy's past glories, its defenses, the formalities of negotiation—in public. In private, the choice he made on a mountainside decades ago, and whether any of this is his fault.
 
-**No problematic dialogue identified.** All lines feel appropriately regal and weary.
+**What he avoids:** Admitting Troy is truly in danger. He speaks of negotiation and reparations when the reader knows these are fantasies. His denial is quieter than Paris's but just as complete.
 
-### Continuity Assessment
+**Emotion marker:** His hands. They tremble. His voice may stay steady, but his body betrays him. Guilt surfaces as physical fragility.
 
-**Status: NO ERRORS DETECTED**
+**Verbal tics:** "We'll negotiate..." (denial), "I don't know if I'm proud of you or ashamed of myself" (tangled paternal feeling), "Maybe the seers were wrong" (grasping for hope).
 
-Priam's information access is appropriate throughout:
+**Contrast:** Where Hector sees doom clearly, Priam cannot bear to. Where Cassandra states prophecy, Priam searches for exceptions to it.
 
-1. **Chapter 1**: He is only referenced/observed, not given POV or dialogue. Cassandra sees him embracing Paris in the courtyard, which is consistent with Paris arriving at Troy.
+### Key quotes:
 
-2. **Chapter 2**: Only referenced by Paris (backstory about the exposure) and by Hector's wife (noting Priam is "composing a response"). He does not appear with knowledge he shouldn't have.
-
-3. **Chapter 3**: Priam presides over the throne room scene and correctly references that "Traders have been bringing news for weeks" about Greek mobilization. This is logical timing given the events of Chapters 1-2.
-
-4. **Chapter 5**: Priam presides over the council debating Menelaus's challenge. He appropriately defers to Hector ("What do you recommend?") and asks Paris direct questions about his readiness. He has no knowledge he shouldn't possess.
-
-5. **Chapter 6**: Priam does not appear. This is appropriate as the chapter focuses on the fifth year of the siege.
-
-**Timeline integrity is maintained.** Priam's appearances follow logical chronology.
-
-### Arc Strengthening Opportunities
-
-**1. Missing Emotional Depth in Chapter 5**
-
-When Paris admits he will "probably lose" the duel with Menelaus, Priam simply nods and authorizes it. This feels like a missed opportunity. Priam ordered this son killed as an infant, then welcomed him home, and now is effectively sending him to his death again. The text gives us:
-
-> Priam studied him for a long moment. Then he nodded.
-> "Send word to the Greeks. Tomorrow at dawn. Single combat."
-
-**Suggestion**: Add a beat showing Priam's internal conflict. Even a single line acknowledging the weight of this moment would deepen the character. Something showing the father beneath the king, the man who has to watch history repeat itself.
-
-**2. Absence from Chapter 6**
-
-Priam is entirely absent from Chapter 6, which covers the fifth year of the siege. While the chapter profile notes he appears "only in brief throne room scenes," his complete absence during a chapter that includes:
-- The raiding of Trojan villages
-- The death of civilians including children
-- Hector's emotional crisis over his failure to protect his people
-
-...feels like a missed opportunity. Even a brief scene of Priam receiving news of the raid, or a passing reference to his reaction, would maintain his presence in the narrative and set up his eventual arc as "an old man watching his children die."
-
-**3. Underutilized Relationship with Cassandra**
-
-In Chapter 3, Priam dismisses Cassandra's warnings:
-
-> "Cassandra, I know you believe what you're saying. I know it feels real to you. But I cannot make decisions based on—"
-
-This is the only direct interaction between Priam and Cassandra in Book 1. Given that Cassandra's curse is a major thread, and Priam's eventual emotional arc centers on watching his children suffer, this relationship could be developed further. A moment showing Priam's private grief over his daughter's condition, or his guilt at being unable to help her, would lay groundwork for Season 3.
-
-**4. No Physical Description Beyond "Old and Tired"**
-
-Priam is described sitting on his throne looking "old and tired" in Chapter 3, but we get no other physical details. Given his importance in later books and the emotional climax of retrieving Hector's body, establishing more specific physical markers now (hands, posture, eyes) would pay off later.
-
-### What Works Well
-
-1. **The contrast between Priam's formal authority and his actual helplessness** is effectively established. He presides, he asks questions, he makes pronouncements, but he does not lead. Hector leads. This sets up the tragic dynamic of the patriarch who cannot protect his family.
-
-2. **The economy of his appearances** works for Book 1's scope. He is correctly positioned as a background authority figure whose presence is felt without dominating scenes that belong to the younger generation.
-
-3. **His dialogue rhythm** is distinct from other characters. Where Hector is clipped and military, and Paris is uncertain, Priam speaks in complete, measured sentences. This gives him a recognizable voice.
-
-4. **The thematic weight of his past decision** (ordering Paris exposed) resonates through the narrative without being over-explained. The fact that he welcomed Paris back despite the prophecy establishes the central irony of his arc: the attempt to prevent tragedy enabled it.
-
-### Summary
-
-Priam is well-handled in Book 1 as a secondary presence. His voice is consistent, his continuity is clean, and he serves his narrative function effectively. The main opportunities for improvement lie in adding emotional texture to his Chapter 5 appearance and maintaining some presence in Chapter 6 to bridge his role into the later siege years. His relationship with Cassandra could also be deepened to set up his eventual arc as "The Father" who watches his children die.
+- "I know the Greeks are angry. I know they're making threats. But Troy has weathered threats before. Our walls have never fallen. Our allies are many. We'll negotiate, pay reparations if we must—" — `troy_book1/troy_book1_chapter3_draft.md:370`
+- "I exposed you on a mountain. When you were born. The seers said you would destroy us, and I chose my city over my son. And now here you are. Offering to die for us. After everything I did." — `troy_book1/troy_book1_chapter5_v3.md:572`
+- "I don't know if I'm proud of you or ashamed of myself. Both, maybe. Both at once." — `troy_book1/troy_book1_chapter5_v3.md:576`
+- "The prophecy isn't finished yet. Maybe this is how it ends. Maybe you die tomorrow, and the war ends, and Troy survives. Maybe the seers were wrong, or maybe they were right in a way we didn't understand." — `troy_book1/troy_book1_chapter5_v3.md:582`

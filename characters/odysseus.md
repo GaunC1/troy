@@ -32,66 +32,34 @@
 
 **Character Development:** Odysseus begins as a reluctant participant who treasures his simple domestic life. His forced recruitment by Palamedes plants a seed of cold vengeance that only grows harder with time. Throughout Book One, he demonstrates his defining trait: pragmatic acceptance of terrible necessities while internally calculating future retribution. He watches atrocities unfold, says nothing, and files everything away for later.
 
-## Book 1 Audit
+## Book 1 Speech Samples
 
-### Vocal Style Assessment
+### Voice Mechanics
 
-**Consistency: STRONG**
+**Sentence structure:** Complete, balanced, almost legal in precision. He presents options ("We adapt or we starve—those are the choices"). Rarely asks questions; he already knows the answers.
 
-Odysseus's voice is remarkably consistent across his appearances in Chapters 3, 4, and 6. His defining vocal characteristics hold steady:
+**Tense:** Past and conditional. He speaks of consequences, of what will happen if. Always calculating outcomes before they arrive.
 
-1. **Clipped, practical speech patterns**: His dialogue is terse and strategic. In Chapter 3, when confronted by Palamedes after the failed madness ruse, he simply says: "Pick him up" and "You put my son in front of a blade" - repeated twice, cold and flat. In Chapter 6, his council speech follows the same pattern: "There's another option... We adapt or we starve. Those are the choices."
+**Rhythm:** Measured, unhurried, never raised. His most devastating statements are delivered in the same tone as observations about weather.
 
-2. **Understatement masking calculation**: When Palamedes asks if there are hard feelings in Chapter 3, Odysseus responds only with "Of course" - a two-word answer that reveals nothing while storing everything. In Chapter 4, when Agamemnon asks if Odysseus trusts him: "I trust that you'll do what you believe is necessary." In Chapter 6, when Palamedes suggests collaboration: "Yes. We could" followed by "No. I won't." The vocal economy is consistent throughout.
+**What he talks about:** Options, necessities, the logic of situations. He frames everything as inevitable—not his choice, just the only rational path.
 
-3. **The signature pragmatist line**: His justification to Achilles in Chapter 4 - "This is war. This is what war is" - perfectly captures his voice. This echoes again in Chapter 6: "We all have dirty hands by now."
+**What he avoids:** Revealing his actual intentions. He describes what *is*, not what he *wants*. His silences are as meaningful as his words—what he doesn't say is usually what matters most.
 
-**One Potential Issue**: In Chapter 4, Odysseus has slightly more expository internal monologue than in other chapters (lines 66-79, observing Agamemnon's change). This is the only place where his POV feels marginally less restrained than his established voice. However, this could be intentional to show his analytical mind at work.
+**Emotion marker:** Flatness. No exclamation points, ever. When others rage, he observes. His anger manifests as patience—cold, certain, and very long.
 
-### Continuity Assessment
+**Verbal tics:** "The only option..." (false inevitability), "I understand..." (followed by refusal to forgive), filing things away for later.
 
-**Information Access: CLEAN - No Errors Found**
+**Contrast:** Where Achilles declares, Odysseus implies. Where Agamemnon justifies, Odysseus simply notes. He collects truths like debts.
 
-Odysseus's knowledge progresses logically:
+### Key quotes:
 
-- **Chapter 3**: He knows about the oath (he helped create it), knows about Achilles joining (the messenger tells him), and pieces together that something is wrong at Aulis through observation (watching Agamemnon, noting the calm).
+- "War should be over by now. It's not. We adapt or we starve. Those are the choices." — `troy_book1/troy_book1_chapter6_draft.md:58`
 
-- **Chapter 4**: He correctly deduces Agamemnon's plan through observable evidence (the riders to Mycenae, Agamemnon's sudden confidence). When Achilles confronts him - "Did you know?" - Odysseus honestly responds: "I suspected." He does NOT claim to have known the specifics, only that he "put the pieces together." This is accurate to what we saw him observe.
+- "This is war. This is what war is. You came here looking for glory, for honor, for the kind of death the poets sing about. But first you have to get there. And getting there means—it means things like this." — `troy_book1/troy_book1_chapter4_draft.md:390`
 
-- **Chapter 6**: Five years have passed. His knowledge of camp logistics, supply problems, and the state of the siege is appropriate for a king who has been there the entire time.
+- "He filed that away. What kind of man Agamemnon was. What he was willing to spend. The knowledge might be useful someday—and if not useful, then at least it was true. Odysseus collected true things the way other men collected debts." — `troy_book1/troy_book1_chapter4_draft.md:764`
 
-**Timeline: CLEAN**
+- "I know what you were doing. I understand the logic. I even understand the necessity. But understanding isn't the same as forgiving." — `troy_book1/troy_book1_chapter6_draft.md:344`
 
-- Chapter 3: Recruitment and arrival at Aulis (before the sacrifice)
-- Chapter 4: The sacrifice and departure (Odysseus watches from the back, closes his eyes, then reflects: "The first blood of this war was Greek... and it was a child's")
-- Chapter 6: Five years into the siege (explicitly stated)
-
-The time jump between Chapter 4 and Chapter 6 is handled well - Odysseus notes he's been there "five years" and has developed the habit of walking the perimeter at night because he "couldn't sleep. Hadn't been able to for months."
-
-### Arc Strengthening Opportunities
-
-**What's Working Well:**
-
-1. **The Palamedes thread is excellent.** It's introduced with visceral impact in Chapter 3 ("Because one day I'm going to kill him" - said like "it looks like rain"), maintained in Chapter 6 when they meet during the night patrol, and given weight through Odysseus's line: "Understanding isn't the same as forgiving." The cold patience is perfectly established.
-
-2. **His pragmatism vs. conscience tension is well-seeded.** He suspects the sacrifice plan, says nothing, watches with his eyes closed, then reflects on it privately. This matches the profile's "pragmatic acceptance of terrible necessities."
-
-3. **The village raid proposal in Chapter 6** shows his evolution toward "win the war through any means." He's the one who suggests attacking civilians when other kings hesitate.
-
-**Opportunities for Strengthening:**
-
-1. **Missing internal reaction to Palamedes at Aulis (Chapter 3-4)**: When Odysseus arrives at Aulis, there's a scene where Palamedes approaches him (Chapter 3, lines 486-511). Odysseus's responses are perfectly cold, but we don't get any internal reaction to seeing the man who forced him into this war now walking freely around camp, being useful to Agamemnon. A brief internal moment - even one sentence about the cold thing in his chest, or watching Palamedes walk away and filing away where his tent is - would strengthen the arc.
-
-2. **The sacrifice scene lacks Odysseus's distinctive framing**: In Chapter 4, when Odysseus watches the sacrifice, his internal thought is: "The first blood of this war was Greek... and it was a child's." This is good, but it's more observational than characteristic. Consider adding a thought that shows his pragmatist calculation - something like noting that this is the price of the war, or that Agamemnon has revealed what kind of man he is (information to file away). The current line is poetic but doesn't quite sound like the Odysseus who says "This is war. This is what war is."
-
-3. **His domestic life contrast is underutilized after Chapter 3**: The opening of Chapter 3 beautifully establishes what Odysseus values - the stone wall, Penelope, the spotted ram, the simple life. After his recruitment, we never return to this contrast. In Chapter 6, during his sleepless patrol, he "was thinking about Ithaca when he saw Palamedes" - but we don't know what about Ithaca. A brief specific memory (Penelope's hands mending the net, Telemachus's weight in her arms, the smell of olive trees) would reinforce what he's lost and sharpen the Palamedes grudge.
-
-4. **The five-year jump could use a single bridge detail**: Between Chapter 4 (departure) and Chapter 6 (five years in), we lose track of Odysseus entirely. Chapter 5 has no Odysseus content. Consider whether Chapter 5 might benefit from even a brief mention of him - perhaps a Greek soldier mentioning "Odysseus's raiders hit a village to the north" or similar - to maintain his presence and show his evolution from reluctant participant to active strategist.
-
-5. **His relationship with Achilles needs one more beat**: In Chapter 4, Odysseus and Achilles have a confrontation where Achilles calls him out for his silence about the sacrifice. Achilles walks away with "contempt, maybe, or disappointment." In Chapter 6, they interact again, but the tension from Chapter 4 isn't addressed - Achilles doesn't seem to hold a grudge, and Odysseus doesn't seem aware that he's lost Achilles's respect. One line acknowledging this shift (or showing Odysseus noting that Achilles no longer seeks his counsel) would add continuity.
-
-### Summary
-
-Odysseus is one of the most consistent characters in Book 1. His voice, his pragmatism, and his cold patience are all well-established and maintained. The Palamedes grudge is the strongest throughline and pays off effectively in Chapter 6. The main opportunities are: (1) adding brief internal moments that reinforce his specific domestic losses, (2) ensuring his internal thoughts in key scenes (especially the sacrifice) match his established pragmatist voice, and (3) maintaining awareness of relationship changes across chapters (particularly with Achilles).
-
-Overall assessment: **Odysseus is working well.** Minor polish opportunities exist but no major revisions needed.
+- "I'll never forget." — `troy_book1/troy_book1_chapter6_draft.md:340`

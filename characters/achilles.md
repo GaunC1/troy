@@ -32,70 +32,36 @@
 
 **Chapter 6 (The Wall):** Five years into the siege, Achilles has visibly changed - leaner, harder, something hungry in his eyes. He leads raids on Trojan villages for supplies, confessing to Odysseus that the work feels hollow. He came to fight warriors but is butchering farmers. His disillusionment deepens as he questions whether the walls will ever truly fall. The glory-seeker of Chapter 4 is becoming the disillusioned soldier of his arc.
 
-## Book 1 Audit
+## Book 1 Speech Samples
 
-### Vocal Style Assessment
+### Voice Mechanics
 
-**Consistency: STRONG**
+**Sentence structure:** Short, declarative sentences when certain ("I'm ready. I want to be ready."). Longer, searching sentences when doubting himself, often ending in questions. Rarely qualifies statements—he speaks in absolutes.
 
-Achilles's voice remains consistent across his appearances in Chapters 4, 5, and 6. His dialogue is characterized by:
+**Tense:** Present tense almost exclusively. Achilles lives in the immediate moment; the past is irrelevant and the future is already decided.
 
-1. **Direct, unadorned speech** - He speaks in short, declarative sentences that reflect his identity as a warrior rather than a diplomat. Examples:
-   - Ch. 4: "What have you done?" / "What have you *done*?"
-   - Ch. 5: "After." / "I'm ready. I want to be ready."
-   - Ch. 6: "Successful." / "Let them plan."
+**Rhythm:** Blunt force. No diplomatic softening. Statements land like blows. When he's introspective, his rhythm slows but never hesitates.
 
-2. **Philosophical undercurrent** - Despite his bluntness, Achilles often reveals deeper existential concerns:
-   - Ch. 4: "Is this what we are? Is this what all of you are? Kings and heroes who murder children and call it necessity?"
-   - Ch. 5: "Someone who looks at me and doesn't calculate. Someone who just comes. Someone worth killing."
-   - Ch. 6: "I came here to fight warriors... And instead I'm butchering farmers."
+**What he talks about:** Glory, death, worthiness, the gap between expectation and reality. He returns obsessively to whether things *feel* the way they should.
 
-3. **Self-awareness about his nature** - He consistently understands himself as different:
-   - Ch. 4: "Other men aren't Achilles." (to Patroclus)
-   - Ch. 5: "I'm a strange person."
+**What he avoids:** Justification. He never explains himself to lesser men. He states what he will do; reasons are for people who doubt themselves.
 
-**One minor note:** In Chapter 4, when Achilles speaks about glory and his mother's prophecy, he is somewhat more verbose than in later chapters. This could be intentional (showing his younger, more idealistic self), but the shift is worth monitoring. The line "What does tonight feel like?" feels slightly more introspective than his usual speech pattern.
+**Emotion marker:** Hollowness beneath grandiosity. The more certain his words sound, the more he's trying to convince himself. His doubt surfaces as rhetorical questions.
 
-### Continuity Assessment
+**Verbal tics:** "I will never..." (absolutes), "What if..." (existential doubt), "Someone who..." (describing what he hungers for).
 
-**No major errors detected.**
+**Contrast:** Where Odysseus calculates options, Achilles sees only one path. Where Hector weighs duty against desire, Achilles has already chosen.
 
-Information flow is well-managed:
+### Key quotes:
 
-1. **Knowledge of his fate** - Properly introduced. In Ch. 4, he tells Patroclus about his mother's prophecy (stay home and live long, or go to Troy and die young with glory). In Ch. 5, when he first sees Troy, he says "My mother said I'd know. When I saw it. The place where I'm going to die." This builds correctly on established information.
+- "What if this is all it is? What if I gave up a long life for nothing?" — `/Users/gauncochran/Documents/Ebooks/graded readers/Troy/troy_book1/troy_book1_chapter4_draft.md:126`
 
-2. **Relationship with Agamemnon** - Properly seeded. The confrontation in Ch. 4 over Iphigenia establishes their antagonism before the Briseis conflict (which will come in later books).
+- "I chose glory. I chose an early death. My mother gave me the choice and I chose this. But I thought it would be different. I thought glory would feel like something." — `/Users/gauncochran/Documents/Ebooks/graded readers/Troy/troy_book1/troy_book1_chapter4_draft.md:536`
 
-3. **Reputation vs. Reality** - In Ch. 3, the Mycenaean messenger tells Odysseus that "Achilles has agreed to join the expedition" and Odysseus reflects on rumors about Achilles being half-divine/invulnerable, noting "he'd also heard that Achilles was nineteen years old and had never seen a real battle." This correctly establishes Achilles's status before we see him in action.
+- "Promise me. If I ever become that, kill me yourself. Don't let me live as something I'd be ashamed of." — `/Users/gauncochran/Documents/Ebooks/graded readers/Troy/troy_book1/troy_book1_chapter4_draft.md:554`
 
-4. **Timeline** - The five-year jump between Ch. 5 and Ch. 6 is clearly marked. Physical description notes the change ("leaner, harder, something hungry in his eyes that hadn't been there before"), which properly reflects the passage of time.
+- "Someone who looks at me and doesn't calculate. Someone who just comes. I thought Hector might be that. The way they talk about him—defender of Troy, beloved of his people. I thought when he saw me, he'd feel what I felt. The pull. The necessity." — `/Users/gauncochran/Documents/Ebooks/graded readers/Troy/troy_book1/troy_book1_chapter5_v3.md:468`
 
-### Arc Strengthening Opportunities
+- "How many men die waiting for eventually? How many more years do we sit here, growing old, while those walls just... stand?" — `/Users/gauncochran/Documents/Ebooks/graded readers/Troy/troy_book1/troy_book1_chapter6_draft.md:130`
 
-**The arc is working well, but there are opportunities to deepen it:**
-
-1. **The promise to Patroclus** (Ch. 4) is excellent setup. When Achilles asks Patroclus to kill him if he ever becomes like Agamemnon, this plants crucial seeds for his later arc. Consider: Could this promise be echoed or referenced again in Book 1? Perhaps a moment in Ch. 6 where Achilles catches himself doing something that makes him think of this promise?
-
-2. **The Hector moment in Ch. 5** is strong but could be amplified. When their eyes meet across the battlefield and Achilles is "disappointed" that Hector calculated rather than just charged - this is great characterization. However, it's told rather than shown. Consider whether Achilles could have a line of dialogue about this to Patroclus that reveals more about what he wants from Hector specifically.
-
-3. **Missing: His reaction to the Iphigenia sacrifice itself.** In Ch. 4, we see Achilles storm Agamemnon's tent, confront him, and leave. We see him talking to Odysseus after. We see his conversation with Patroclus that night. But we don't see him during the actual sacrifice. The text says "I didn't watch. I couldn't" but we hear nothing about what he did experience - the sound of it, what it was like to be there and choose not to look. This feels like a missed opportunity to show his humanity and establish the moral wound this war inflicts on him before it even begins.
-
-4. **The disillusionment in Ch. 6 works, but could be sharper.** Achilles's confession to Odysseus that the work "feels hollow" is good, but it's somewhat abstract. The specific detail of what he did in the village raid is kept off-page (we see aftermath through Hector's POV, not Achilles's). Consider: would one moment of specificity - a face, an image, something that sticks with him - make his disillusionment more visceral?
-
-5. **Patroclus as anchor** - The relationship is well-established, but nearly every Achilles scene includes Patroclus. This works for showing their bond, but consider whether one scene of Achilles alone might reveal a different dimension of his character - who is he when his "only person who sees him as human" isn't there?
-
-### What's Working Well
-
-- **The Agamemnon confrontation in Ch. 4** is a standout scene. Achilles's physical assault on the guards, his genuine moral outrage, and the exchange where Agamemnon says "Grudges make men fight harder" all effectively establish the central conflict.
-
-- **The vow to Patroclus** ("If I ever become like him... kill me yourself") is perfect setup for later tragedy.
-
-- **The first-off-the-ship moment in Ch. 5** earns his reputation. Seventeen kills in the beach landing, described with supernatural efficiency, makes his legend feel real.
-
-- **The eye contact with Hector** in Ch. 5 effectively foreshadows their fated conflict without being heavy-handed.
-
-- **The hollow victory in Ch. 6** - His line "I came here to fight warriors... And instead I'm butchering farmers" perfectly captures the transition from "glory-seeker" to "disillusioned soldier."
-
-### Summary
-
-Achilles is well-rendered in Book 1. His voice is consistent, his arc progresses logically from young idealist to someone beginning to question the cost of glory, and his key relationships (Patroclus, Agamemnon, the absent Hector) are properly established. The main opportunities for strengthening involve adding specificity to his emotional experiences - particularly during the Iphigenia sacrifice and the village raids - and possibly giving him one scene of solitude to show who he is when Patroclus isn't there to reflect him back to himself.
+- "I came here to fight warriors. To test myself against the best Troy had. To earn glory. And instead I'm butchering farmers and burning grain stores and—" — `/Users/gauncochran/Documents/Ebooks/graded readers/Troy/troy_book1/troy_book1_chapter6_draft.md:552`
