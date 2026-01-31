@@ -347,9 +347,7 @@ He looked down. His hands were shaking. Not from fear. From something else.
 
 Odysseus watched the Mycenaean ship push off from the harbor, its sail catching the wind.
 
-"Because one day I'm going to kill him."
-
-He said it the way another man might say *it looks like rain* or *the olives are ripe*. A statement of fact. A thing that would happen.
+"Just remember it."
 
 Penelope held their son and said nothing.
 

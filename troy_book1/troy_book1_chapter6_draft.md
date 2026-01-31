@@ -297,9 +297,21 @@ Helen stayed until the sun went down. Then she kissed Cassandra's forehead, left
 
 ---
 
-The camp was quiet when Odysseus walked the perimeter.
+The lamp guttered as Odysseus dipped his stylus.
 
-He'd developed the habit years ago—a circuit of the fortifications, checking sentries, looking for weaknesses. He couldn't sleep. Hadn't been able to for months.
+He sat alone in his tent, a wax tablet before him. Correspondence to copy—requests for supplies, reports to Agamemnon, the endless documentation of siege. Scribes handled most of it, but Odysseus liked to keep his hand in. A king should know how to write his own letters.
+
+He formed the words carefully, matching the style of the original. Then he tried a different hand—rounder, more formal. The kind a palace scribe might use. Then another, cramped and hurried. He studied each result, smoothed the wax, tried again.
+
+An hour passed. Two. The lamp burned low.
+
+He set the tablet aside and went to walk the perimeter.
+
+---
+
+The camp was quiet.
+
+Odysseus walked the circuit of the fortifications, checking sentries, looking for weaknesses. A habit he'd developed years ago.
 
 Palamedes.
 
@@ -309,21 +321,21 @@ The man was walking the same circuit, from the opposite direction. They met at t
 
 "Palamedes."
 
-Neither moved. The moon was bright enough to see by, and Odysseus could make out the other man's face—leaner than it had been, weathered by the same five years that had weathered them all.
+Neither moved. The moon was bright enough to see by.
 
 "Couldn't sleep?" Palamedes asked.
 
 "Something like that."
 
-"I've been reviewing the supply situation. There might be a way to stretch the grain further—rotating the distribution, prioritizing the units most likely to see combat."
+"I've been reviewing the supply records. The numbers from the last few raids don't quite match the distributions."
 
-"That's a good idea."
+"Discrepancies happen. War is messy."
 
-"I'll bring it to Agamemnon tomorrow."
+"I'm sure that's all it is." Palamedes smiled. "I'll sort it out. I'm good with numbers."
 
-"You should."
+"I know you are."
 
-They stood in silence. Below them, the waves lapped at the sand, a sound Odysseus had heard so often he barely noticed it anymore.
+They stood in silence. Below them, the waves lapped at the sand.
 
 "We could end this faster," Palamedes said. "If we worked together. You and I—we see things the others don't. We could coordinate, plan, make this siege actually work."
 
@@ -331,7 +343,7 @@ They stood in silence. Below them, the waves lapped at the sand, a sound Odysseu
 
 "But you won't." It wasn't a question.
 
-Odysseus looked at him. This man who had put Telemachus in the path of a plow. Who had forced him to come here, to leave his wife and son, to spend five years on this beach watching men die for a war he'd never wanted.
+Odysseus looked at him. The sharp face had grown sharper over five years—leaner, weathered, the boyish confidence hardened into something else. But the eyes were the same. The same eyes that had watched Odysseus swerve around his son on the beach at Ithaca.
 
 "No," he said. "I won't."
 
@@ -341,19 +353,15 @@ Palamedes nodded slowly. "Ithaca. You haven't forgotten."
 
 "I was doing my duty. The oath—"
 
-"I know what you were doing." Odysseus's voice was quiet. "I understand the logic. I even understand the necessity. But understanding isn't the same as forgiving."
+"I know what you were doing."
 
-Palamedes studied him for a long moment. Then he smiled—a strange, sad smile.
+Palamedes studied him. "I think I knew. Even then, when I put your son in the furrow. I knew you'd never let it go." He turned to walk away, then paused. "Those supply discrepancies. I'm sure they're nothing. But I'll keep looking. It's what I do."
 
-"I think I knew that. Even then, when I put your son in the furrow. I knew you'd never let it go." He turned to walk away. "I suppose I should watch my back."
+"It is."
 
-"I suppose you should."
+Palamedes disappeared into the darkness.
 
-Palamedes disappeared into the darkness between tents. Odysseus stayed at the corner of the fortifications, looking out at the sea.
-
-Someday, when the moment was right, Palamedes would pay for what he'd done.
-
-But not tonight. Tonight, there was a war to manage, a siege to maintain, a hundred thousand men to keep alive.
+Odysseus stayed at the corner of the fortifications, looking out at the sea. The waves kept their rhythm. The stars turned overhead.
 
 He resumed his circuit, checking the sentries, counting the hours until dawn.
 
