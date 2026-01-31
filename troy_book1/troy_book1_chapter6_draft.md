@@ -9,7 +9,7 @@
 
 The argument had been going on for an hour.
 
-Odysseus sat at the back of the council tent, watching the kings shout at each other, and thought about how much he hated this war.
+Odysseus sat at the back of the council tent, watching the kings shout at each other.
 
 "—three weeks late! Three weeks! My men are eating half-rations, and you're telling me to be patient?"
 
@@ -23,7 +23,7 @@ Agamemnon raised his hand. The shouting subsided, grudgingly.
 
 "Make do with what? Air? Sand?"
 
-Odysseus studied Agamemnon while the others argued. The high king had aged badly in the five years since Aulis—his hair more grey than gold now, his face heavier, his patience worn thin. He still commanded, still presided, but the fire that had driven him to sacrifice his daughter for this war had dimmed into something colder. Something that looked a lot like exhaustion.
+Odysseus studied Agamemnon while the others argued. The high king had aged badly in the five years since Aulis—his hair more grey than gold now, his face heavier, his patience worn thin.
 
 Achilles's seat was empty. It usually was, these days.
 
@@ -41,7 +41,7 @@ When the shouting reached its peak, he stood.
 
 "There's another option."
 
-The tent went quiet. Odysseus didn't speak often in council—he saved his words for when they'd matter—and when he did, men listened.
+The tent went quiet.
 
 "The coastal villages to the south. Trojan allies. They've been supplying the city for years—grain, livestock, timber. We've left them alone because raiding villages isn't honorable." He let the word hang in the air. "But neither is starving."
 
@@ -51,7 +51,7 @@ Silence.
 
 "I'm suggesting we attack enemy supply lines. The fact that they're defended by farmers instead of soldiers doesn't change the strategic calculation."
 
-More silence. Odysseus could see the kings thinking it through—the ones who'd been complaining loudest about rations suddenly considering the alternative.
+Silence.
 
 "It's not... proper," Nestor said slowly. The old king of Pylos, ancient even when this war began, now so frail he had to be carried to councils. "War should be between warriors."
 
@@ -87,7 +87,7 @@ He rose from the table and went to find his captains. There were raids to plan, 
 
 The war went on.
 
-The morning sun hit him like a physical blow. Five years of Trojan summers, and he still wasn't used to the heat. Ithaca was cool, green, swept by sea breezes. This place was an oven.
+The morning sun hit him as he stepped outside. Five years of Trojan summers, and he still wasn't used to the heat.
 
 He walked the camp without destination, letting his feet carry him through the maze of tents and cook fires and latrines. The camp had grown permanent over the years—wooden structures replacing canvas, roads worn into the sand, a whole city built for the purpose of destroying another city.
 
@@ -103,13 +103,13 @@ Odysseus walked on.
 
 Near the edge of the camp, a funeral pyre was burning. Not a warrior's pyre—this was smaller, sadder. A sickness had swept through the Argive tents last month. Thirty men dead, more still recovering. The healers called it camp fever. The soldiers called it Troy's revenge.
 
-He found Achilles at the Myrmidon encampment, preparing for the raid. His men were loading ships—weapons, armor, empty sacks for grain. They moved with the efficiency of long practice.
+He found Achilles at the Myrmidon encampment, preparing for the raid. His men were loading ships—weapons, armor, empty sacks for grain.
 
 "You heard," Achilles said without turning.
 
 "I suggested it."
 
-"Did you." Achilles turned now. He looked different than he had that first day on the beach—leaner, harder, something hungry in his eyes that hadn't been there before. "Getting your hands dirty for once."
+"Did you." Achilles turned now. He looked different than he had that first day on the beach—leaner, harder. "Getting your hands dirty for once."
 
 "We all have dirty hands by now."
 
@@ -123,7 +123,7 @@ Achilles almost smiled. "True enough." He went back to inspecting a coil of rope
 
 "Then you know I'll take anything. Raid villages, steal grain, burn farms—I don't care. As long as I'm doing something."
 
-Odysseus watched him for a moment. The greatest warrior of his generation, reduced to raiding fishing villages for supplies. The glory he'd chosen, the early death he'd embraced—this wasn't what he'd imagined. Odysseus could see it in the tightness around his eyes, the restless energy that never quite discharged.
+Odysseus watched him for a moment.
 
 "The walls will fall," Odysseus said. "Eventually."
 
@@ -149,13 +149,9 @@ He was still half-asleep, his movements automatic, familiar. His fingers traced 
 
 "Never."
 
-She turned toward him. The grey pre-dawn light filtered through the curtains, enough to see the planes of his face—softer in sleep, younger. The face she'd left everything for.
+She turned toward him. The grey pre-dawn light filtered through the curtains, enough to see the planes of his face—softer in sleep, younger.
 
-The face that had launched a thousand ships. That was what they said about her, but it wasn't true. Her face hadn't launched anything. It was his face, his smile, the way he'd looked at her across Menelaus's table that first night. Like she was the only person in the room. Like she was the only person in the world.
-
-He looked at her that way still. After the siege, the death, the years of guilt. He still looked at her like she was everything.
-
-She pulled him closer. Found his mouth with hers. His hands moved with practiced efficiency—he knew exactly how to touch her now, exactly what rhythm to set, exactly how to make her forget. And she let herself forget, for a while. Let the world narrow to this room, this bed, the heat of his body against hers.
+She pulled him closer. Found his mouth with hers.
 
 After, they lay tangled together, her head on his chest, his hand tracing patterns on her back.
 
@@ -177,7 +173,7 @@ She sat up, and something in her face made him stop.
 
 "I'm not looking for absolution. I know there isn't any." She slid out of bed, began gathering her clothes. "But I can't just stay in this room and pretend the world outside doesn't exist. I tried that. It doesn't work."
 
-Paris watched her dress. She could feel his eyes on her—still wanting, still hungry. After everything.
+Paris watched her dress.
 
 "Tonight," she said.
 
@@ -205,7 +201,7 @@ Helen didn't pull away. She didn't flinch. She had learned not to flinch. "I'm s
 
 "Yes." She kept her voice steady. "I'm sorry for your brother. I'm sorry for all of them."
 
-The soldier stared at her. Looking for something—a flinch, a lie, something he could rage against. She gave him nothing. She'd had this conversation a hundred times.
+The soldier stared at her.
 
 Finally, his grip loosened. He turned away, toward the wall.
 
@@ -235,9 +231,7 @@ The woman studied her. "It doesn't make up for anything. You know that."
 
 "Then why bother?"
 
-Helen looked at her hands. Rough now, callused, stained with other people's blood. Not the hands of a queen. Not the hands that had trembled when she'd touched her sleeping daughter's hair, that last night in Sparta.
-
-Hermione would be eight now. Old enough to understand that her mother had left her. Old enough to hate.
+Helen looked at her hands. Rough now, callused, stained with other people's blood.
 
 "Because it's something," she said. "Because I can't do nothing. Because—" She stopped, tried again. "Because if I'm going to be here, I should be useful. It doesn't make up for anything. But it's what I can do."
 
@@ -247,9 +241,7 @@ The woman was silent for a long moment. Then, grudgingly: "My daughter works her
 
 "That counts for something." The woman turned to go. "Not much. But something."
 
-She walked away. Helen stayed against the wall, watching the empty street, feeling the weight of something that was almost acceptance.
-
-Almost.
+She walked away. Helen stayed against the wall, watching the empty street.
 
 ---
 
@@ -291,8 +283,6 @@ Helen had no answer to that.
 
 She looked at Helen then—really looked, her eyes focusing with unusual clarity.
 
-"You're different now," she said. "Less gold. More—" She trailed off, searching for a word that wouldn't come. Her hand lifted, almost touched Helen's face. "More like hands that have held things that break."
-
 "What are we waiting for?"
 
 Cassandra's eyes drifted back to the window. Back to whatever she saw there.
@@ -309,9 +299,7 @@ Helen stayed until the sun went down. Then she kissed Cassandra's forehead, left
 
 The camp was quiet when Odysseus walked the perimeter.
 
-He'd developed the habit years ago—a circuit of the fortifications, checking sentries, looking for weaknesses. He told himself it was strategic, but the truth was simpler. He couldn't sleep. Hadn't been able to for months.
-
-He was thinking about Ithaca when he saw Palamedes. Not the kingdom—the kitchen. Penelope mending a fishing net by lamplight, Telemachus asleep in her lap, the smell of olive oil and salt. The stone wall he'd been building that last morning. It would need repair by now. Five years of weather, and no one to check the mortar.
+He'd developed the habit years ago—a circuit of the fortifications, checking sentries, looking for weaknesses. He couldn't sleep. Hadn't been able to for months.
 
 Palamedes.
 
@@ -363,8 +351,6 @@ Palamedes studied him for a long moment. Then he smiled—a strange, sad smile.
 
 Palamedes disappeared into the darkness between tents. Odysseus stayed at the corner of the fortifications, looking out at the sea.
 
-The cold thing in his chest—the thing that had been there since Ithaca—hadn't faded. If anything, it had grown harder, more patient. He could wait. He was good at waiting.
-
 Someday, when the moment was right, Palamedes would pay for what he'd done.
 
 But not tonight. Tonight, there was a war to manage, a siege to maintain, a hundred thousand men to keep alive.
@@ -397,12 +383,6 @@ Smoke. Orange light on the horizon.
 
 Achilles.
 
-The name hit him like a fist. He was back on the beach suddenly, five years ago, watching a single warrior cut through his men like they were nothing. Their eyes meeting across the chaos. That cold recognition moving through his chest.
-
-*This is the man.*
-
-The man who would kill farmers and children. The man who was still out there, waiting.
-
 Hector gripped the parapet, staring at the distant glow. The village was too far to reach in time—by the time they organized a sortie, the Greeks would be gone. But maybe, if they moved fast—
 
 "Ready the cavalry. Two hundred men. We'll try to intercept them before they reach their ships."
@@ -419,7 +399,7 @@ The night was warm, the road familiar. Hector had ridden this way a hundred time
 
 The walls hadn't kept them safe. Nothing had.
 
-They smelled the village before they saw it. Smoke and something worse—the smell of burning that had a different quality when there were bodies in it. Hector had learned to recognize that smell over five years of war.
+They smelled the village before they saw it. Smoke and something worse.
 
 They crested a rise, and the village spread out below them.
 
@@ -447,17 +427,9 @@ A child.
 
 A girl, five or six years old. She was curled on her side, her arms wrapped around something. Hector moved closer, knelt beside her.
 
-A toy. A wooden horse, crudely carved, the paint worn from handling. She was holding it the way children held things they loved—tight, protective, as if nothing in the world could make them let go.
-
-She wasn't burned. Trampled, maybe, in the chaos. Or struck by something. It didn't matter how. What mattered was she was dead, and she was holding a toy, and her face was frozen in an expression that might have been surprise or fear or both.
+A toy. A wooden horse, crudely carved, the paint worn from handling.
 
 Hector knelt in the ashes and looked at her.
-
-Five years. Five years of war, of strategy, of defending walls and managing supplies and telling himself that they were protecting their people. Five years of believing the walls were enough.
-
-This was what the walls protected. This was what they'd saved.
-
-A dead child, clutching a wooden horse.
 
 "My lord."
 
@@ -489,13 +461,13 @@ They reached the gates at dawn.
 
 Word had spread. The streets were lined with people—silent, watching. Some were crying. Some just stared, their faces blank with shock.
 
-On the palace steps, Priam stood waiting. He had come down himself, refusing his attendants' pleas that he wait inside. He was bareheaded, his white hair disheveled by the morning wind, and he watched the wagons of the dead pass with an expression that was beyond grief—something older and heavier, the face of a man who had outlived too many of his children's hopes.
+On the palace steps, Priam stood waiting. He had come down himself, bareheaded, his white hair disheveled by the morning wind.
 
 Hector rode at the head of the column. Behind him, wagons carried the dead. Behind that, the survivors walked—thirty people, mostly women and children, their eyes empty.
 
 He was still holding the girl.
 
-He'd carried her all the way from the village. His arms ached, his back screamed, but he couldn't put her down. Couldn't hand her to someone else. She was his responsibility now.
+He'd carried her all the way from the village. His arms ached, his back screamed, but he couldn't put her down.
 
 Andromache was waiting at the palace gates. Her face went white when she saw what he was carrying.
 
@@ -527,13 +499,9 @@ He didn't move.
 
 Andromache took the girl from his arms. Gently, carefully, as if she might still feel pain.
 
-The child weighed almost nothing. Dark hair, matted with ash. A face that might have been peaceful if not for the dust sealing her eyes shut. She could have been any child. She could have been—
+The child weighed almost nothing. Dark hair, matted with ash.
 
-Andromache looked at the bed where Astyanax slept, his small chest rising and falling, his fist curled against his cheek. Then she looked at the girl in her arms. The same size. The same age, perhaps. The same fragile bones that broke so easily when the world turned cruel.
-
-Something cold moved through her chest. Not grief—she didn't know this child. Something worse than grief. Recognition.
-
-*This is what the war wants. This is what it will take, if we let it.*
+Andromache looked at the bed where Astyanax slept, his small chest rising and falling, his fist curled against his cheek. Then she looked at the girl in her arms. The same size. The same age, perhaps.
 
 "We'll find her family," she said. Her voice was steady. She made it steady. "If they survived. If not—"
 
@@ -557,12 +525,6 @@ He walked away, his footsteps echoing in the empty hall.
 
 Andromache stood in the doorway of her son's room, holding someone else's daughter, watching her husband disappear into the palace. The dead child's weight was nothing. Her son's sleeping breath was everything.
 
-*Children not yet born will pick up swords.*
-
-She had heard Cassandra's prophecies before. Everyone had. Fragments that made no sense, warnings that slipped away like morning mist. But sometimes, in the dark hours, Andromache wondered what else the princess had seen. What she had seen about this child, this son, this small life sleeping in his bed while the world burned around him.
-
-She would not ask. Asking would make it real.
-
 She looked at Astyanax one last time. Then she went to find the servants. There were bodies to bury.
 
 ---
@@ -573,7 +535,7 @@ Odysseus watched the ships come in, heavy with grain and livestock. Efficient. P
 
 The men unloaded quickly, joking among themselves, pleased with their success. The captives came last—mostly women, stumbling down the gangplanks, their faces blank. They would be distributed among the kings, as was custom. Property, now. The spoils of war.
 
-Odysseus found Achilles standing apart from the celebration, watching the unloading with an expression Odysseus couldn't read.
+Odysseus found Achilles standing apart from the celebration.
 
 "Good raid?"
 
@@ -589,13 +551,7 @@ Achilles didn't answer. He was watching one of the captive women—young, dark-h
 
 "I know. That's the point." Achilles turned to face him. "I came here to fight warriors. To test myself against the best Troy had. To earn glory." He laughed, a bitter sound. "And instead I'm butchering farmers and burning grain stores and—"
 
-He stopped. There was a boy, maybe twelve, who had tried to run. Achilles could still see the back of his tunic, the bare feet kicking up dust. One of the Myrmidons had caught him.
-
 "There was a boy," he said. "Running. He had a fishing spear—a toy, really. Couldn't have hurt anyone with it." Achilles's jaw tightened. "I told myself it was necessary. That we needed the supplies. That this is what war requires."
-
-He thought of Agamemnon saying the same words over Iphigenia. *Necessary. What the mission requires.*
-
-Something cold moved through his chest.
 
 "Patroclus made me promise something once," he said quietly. "Before we sailed. That if I ever became like Agamemnon—if I ever put necessity above honor—he'd kill me himself."
 
@@ -609,9 +565,7 @@ Odysseus said nothing.
 
 Patroclus was waiting at the edge of the camp. He fell into step beside Achilles, their heads close together, speaking in voices too low for Odysseus to hear.
 
-Odysseus watched them go. Thought about what kind of man Achilles was becoming. What kind of men they were all becoming.
-
-Then he went to oversee the distribution of supplies.
+Odysseus watched them go. Then he went to oversee the distribution of supplies.
 
 ---
 
@@ -643,8 +597,6 @@ Helen looked at the smoke on the horizon, the distant sea, the walls that kept h
 
 "I don't know," she said. "I just do."
 
-The woman stared at her. Looking for something—an excuse, a justification, something she could hate. But there was nothing. Just a woman standing on a wall, accepting what she couldn't change.
-
 The woman walked away.
 
 Helen stayed on the walls until the smoke faded, watching the Greek camp, watching the sea, watching everything she'd caused.
@@ -671,7 +623,7 @@ Helen finally looked at him. Her eyes were red, but she wasn't crying. She'd sto
 
 "I don't know. Maybe because I can't hide from it anymore. Maybe because I've been hiding so long that the hiding itself has become another kind of cowardice." He laughed, but there was no humor in it. "You'd think almost dying would have taught me something. It didn't. I just... went back to pretending."
 
-She reached for him then—not with desire, but with something older. Her hand found his, squeezed.
+Her hand found his, squeezed.
 
 "I tried going to the healing house today," Paris said. "To help. The way you do."
 
@@ -685,11 +637,9 @@ She reached for him then—not with desire, but with something older. Her hand f
 
 They stood in silence, watching the pyres burn.
 
-Later, in bed, he reached for her the way he always did—hands finding familiar places, mouth against her throat. The ritual that had sustained them through five years of siege.
+Later, in bed, he reached for her the way he always did—hands finding familiar places, mouth against her throat.
 
-She let him. Because it was easier than talking. Because his body was the one thing that had never blamed her.
-
-But after, lying in the darkness, she said:
+After, lying in the darkness, she said:
 
 "A child died today. A little girl. She was holding a toy."
 
@@ -715,9 +665,7 @@ They lay there, not speaking, not sleeping. Outside, the funeral pyres were burn
 
 "Does that mean anything? After everything? Does it help?"
 
-She thought about it. Really thought, for the first time in a long time.
-
-"No," she said. "It doesn't help. Nothing helps." She squeezed his hand. "But it's something. It's the only thing I have."
+"No," she said. "It doesn't help. Nothing helps." She squeezed his hand. "But it's something."
 
 Paris was quiet for a long moment. Then, softly: "I used to think loving you was the best thing I ever did. The bravest thing. Choosing you over everything else."
 
@@ -761,7 +709,7 @@ Hector crossed to the window, stood beside her. Looking out at the city, at the 
 
 "Children not yet born will pick up swords. That's what she said. I don't know what it means, but—" He shook his head. "If she's right, this war will last longer than anyone imagines."
 
-"Cassandra says many things." Andromache's voice was careful, measured. She had heard the princess speak of walls falling, of fire in the streets, of things she could not let herself imagine. Once, in the early days of the siege, she had almost asked Cassandra directly—*what do you see for my son?*—but something in the princess's eyes had stopped her. Some doors were better left closed. "Not all prophecies come to pass."
+"Cassandra says many things." Andromache's voice was careful. "Not all prophecies come to pass."
 
 "She's usually right. That's the problem. She's always right, and no one believes her, and then the things she said come true." He turned to face his wife. "What if she's right about this? What if this goes on for ten years? Twenty? What if our son grows up in this siege, never knowing anything but war?"
 
@@ -772,8 +720,6 @@ Andromache was quiet for a moment. Then she stood, took his face in her hands.
 "And if surviving means watching more villages burn? More children die?"
 
 "Then we watch. And we remember. And we make them pay for every single one."
-
-He looked at her. This woman he'd married before the war, who had become something harder and sharper over these years. Who had watched him change and changed alongside him.
 
 "I love you," he said.
 
@@ -793,17 +739,13 @@ The siege continued.
 
 Dawn found Odysseus at the water's edge.
 
-He stood with his feet in the surf, watching the sun rise over Troy. The walls were pale gold in the morning light, beautiful in a way he'd never be able to hate. After five years, he knew every tower, every gate, every section of stone. He'd studied them more than he'd ever studied anything.
+He stood with his feet in the surf, watching the sun rise over Troy. The walls were pale gold in the morning light. After five years, he knew every tower, every gate, every section of stone.
 
 And still they stood.
 
-Four years—almost five now. Five years of siege, of politics, of managing egos and supplies and the thousand small crises that kept an army from falling apart. Five years of watching men grow old and die, of writing letters to wives he'd never see again, of telling himself that eventually, someday, the war would end.
-
-The walls still stood. Troy still stood.
-
 But they'd made progress. Inch by inch, village by village, they'd tightened the noose. The outer defenses were gone now—raided, burned, abandoned. The Trojan allies were wavering, some switching sides, others simply refusing to send more supplies. The city was still strong, but it was weaker than it had been. Weaker than it would be next year, and the year after that.
 
-It would take longer than anyone had expected. It would cost more than anyone had imagined. But it would end. Everything ended.
+It would end. Everything ended.
 
 A ship was rounding the headland—supply ship from Greece, finally. The men would eat full rations tonight. Tomorrow there would be another council, another argument, another crisis to manage. But that was tomorrow.
 
@@ -819,19 +761,19 @@ She saw the Greek camp stirring, the smoke of cook fires rising, the tiny figure
 
 And she saw what no one else could see.
 
-A horse, vast and dark, standing at the gates. Its belly swelling, pregnant with metal and death.
+A horse at the gates.
 
-A baby falling, falling, the walls rushing up to meet him.
+A baby falling.
 
-Fire in the palace. Fire in the streets. Fire consuming everything she'd ever known.
+Fire.
 
 "Cassandra."
 
-She turned. Helen, come to bring her breakfast. As she did every morning now, faithful and gentle and doomed.
+She turned. Helen, come to bring her breakfast.
 
 "Are you all right?"
 
-Cassandra looked at her. This woman who had caused everything, who carried the weight of it every day, who kept living despite the hate and the guilt and the knowledge of what she'd done.
+Cassandra looked at her.
 
 "The horse is coming," Cassandra said. "Someday. When the war has gone on so long that everyone forgets there was ever anything else. When the children born this year are old enough to hold spears. That's when it will come."
 
@@ -845,7 +787,7 @@ Helen set down the breakfast tray. Sat beside her, took her hand.
 
 "Eat something," she said. "Please."
 
-Cassandra let herself be led to the table. Let Helen put bread in her hands, guide the cup to her lips. These small kindnesses that changed nothing, that couldn't stop what was coming.
+Cassandra let herself be led to the table. Let Helen put bread in her hands, guide the cup to her lips.
 
 Outside, the war went on.
 

@@ -33,7 +33,7 @@ Behind them, in the shade of an olive tree, Penelope sat with Telemachus in her 
 
 "The spotted one. His lambs fetch twice the price at market."
 
-Penelope smiled. It was an old argument, comfortable, the kind that married couples have when they're really just talking to hear each other's voices.
+Penelope smiled.
 
 Ithaca was not a wealthy kingdom. Rocky soil, steep hills, a harbor too small for serious trade. Other kings laughed at it—Odysseus had heard them, at feasts and councils, making jokes about the little island and its little king with his little ambitions.
 
@@ -67,7 +67,7 @@ Clytemnestra spoke for the first time. "And now?"
 
 "Now the oath is invoked. Every man who swore to defend Helen's husband must answer the call." He drank. "I'll lead the expedition myself."
 
-Silence. Iphigenia looked between her parents, sensing something in the air she couldn't name.
+Silence. Iphigenia looked between her parents.
 
 "How long will you be gone?" she asked.
 
@@ -77,11 +77,11 @@ Silence. Iphigenia looked between her parents, sensing something in the air she 
 
 "Troy is far. And strong. It won't fall easily."
 
-Iphigenia's face was troubled. Fifteen years old, old enough to understand war but young enough to think it was something that happened to other people.
+Iphigenia's face was troubled.
 
 "Father—will you be safe?"
 
-Agamemnon smiled. It was a practiced expression, warm and reassuring, and it reached nowhere near his eyes.
+Agamemnon smiled.
 
 "I'll have the greatest army ever assembled. A thousand ships. Every king in Greece." He reached across the table, squeezed her hand. "I'll be perfectly safe."
 
@@ -113,7 +113,7 @@ The word spreading like fire: *Helen. Troy. War.*
 
 She went to the window. Troy slept below her, peaceful, unaware. The same streets. The same walls. The same stars overhead.
 
-But something had shifted. She could feel it—a tension in the air, a gathering weight. Somewhere far across the sea, things were moving. Pieces were being placed on a board.
+But something had shifted.
 
 "They're coming," she whispered. "All of them."
 
@@ -133,9 +133,7 @@ Odysseus nodded slowly. "How many have answered?"
 
 "Prince Achilles has agreed to join the expedition. His father's Myrmidons will sail with the fleet."
 
-Odysseus absorbed this. Achilles—the boy everyone was talking about, the one they said was half-divine. He'd heard the rumors: that Achilles' mother had dipped him in the river Styx, that he was invulnerable, that he was the greatest warrior of his generation.
-
-He'd also heard that Achilles was nineteen years old and had never seen a real battle. But that was the kind of detail that got lost in legends.
+Odysseus absorbed this.
 
 "And the command?" Odysseus asked.
 
@@ -171,7 +169,7 @@ The messengers conferred. Most were ready to leave, to report to Agamemnon that 
 
 One of them was not convinced.
 
-Palamedes was young—perhaps thirty, sharp-featured, with eyes that missed nothing. He had a reputation for cleverness, for seeing through deceptions. It was why Agamemnon had sent him.
+Palamedes was young—perhaps thirty, sharp-featured, with eyes that missed nothing.
 
 "We'll wait," he said each morning. "A few more days."
 
@@ -197,11 +195,7 @@ He took the baby from her arms.
 
 The vision fractured, broke apart. Cassandra gasped, her hands slipping on the stone.
 
-What had she seen? She didn't understand. A madman plowing sand? A baby taken from its mother?
-
-But she knew it mattered. She could feel it—a weight, a consequence, rippling out from that grey beach toward her own walls.
-
-She stayed at the window until dawn, watching the sea.
+She didn't understand what she'd seen. But she stayed at the window until dawn, watching the sea.
 
 ---
 
@@ -381,11 +375,11 @@ Paris shifted uncomfortably. "Cassandra—"
 
 "Don't." She turned on him, and he flinched from whatever he saw in her face. "Don't speak to me. Don't look at me. This is your doing. All of it. And you don't even have the grace to be ashamed."
 
-"That's enough." Priam's voice was sharp, but something in his face cracked as he said it—a flicker of pain around his eyes, quickly hidden. "Cassandra, I know you believe what you're saying. I know it feels real to you. But I cannot make decisions based on—"
+"That's enough." Priam's voice was sharp. "Cassandra, I know you believe what you're saying. I know it feels real to you. But I cannot make decisions based on—"
 
 "On what? On truth? On sight?" She laughed, a broken sound. "No. Of course not. That's never been how this works."
 
-She turned and walked toward the door. Priam's hands tightened on the armrests, knuckles going white. He wanted to call her back—she could see it in the way he leaned forward, mouth half-open. But what could he say? That he believed her? He didn't. That he was sorry? Sorry changed nothing. So he sat there, an old king watching his daughter walk away, and said nothing at all. Her legs were unsteady but she kept them moving.
+She turned and walked toward the door. Her legs were unsteady but she kept them moving.
 
 "Cassandra." Hector's voice. She stopped but didn't turn. "I'm doubling the watch. Reinforcing the outer walls. Stockpiling grain for a siege."
 
@@ -401,7 +395,7 @@ In the corridor outside, footsteps followed her. Light, quick. Not Hector.
 
 She stopped. Turned.
 
-Helen stood a few paces behind her, alone. The torchlight caught her hair, her face. Even now, even like this, she was beautiful enough to hurt.
+Helen stood a few paces behind her, alone.
 
 "You see things," Helen said. "Real things."
 
@@ -413,7 +407,7 @@ Cassandra laughed. "Is that what you wanted to ask? Whether I'm really mad?"
 
 "I know you're not mad." Helen took a step closer. "I saw your face in the throne room. That's not madness. That's—" She stopped, searching for the word. "Exhaustion. From knowing things you can't make anyone else understand."
 
-Cassandra studied her. The woman who had caused all this. Who was also a prisoner. Who was also cursed, in her own way—trapped inside a beauty she'd never asked for, surrounded by people who saw only her face.
+Cassandra studied her.
 
 "Why do you care?" Cassandra asked.
 
@@ -441,7 +435,7 @@ She sat on the cold floor, her back against the door, and let the shaking come. 
 
 This is the last time, she told herself. The last time I stand in that room. The last time I beg them to see what I see.
 
-She had been doing this for years. Since she was fourteen and Apollo's curse first took hold. Warning after warning, vision after vision, each one ignored or dismissed or forgotten the moment she finished speaking.
+She had been doing this for years.
 
 And now the thousand ships were gathering. The girl in white was walking toward her death. Troy was burning in every dream Cassandra had.
 
@@ -451,7 +445,7 @@ Or she could stop.
 
 The thought was quiet. Almost peaceful.
 
-She could stop trying to change what couldn't be changed. Stop screaming into the void. Stop spending what little strength she had left on a battle she'd already lost.
+She could stop trying to change what couldn't be changed.
 
 She could just... watch. Bear witness. Let the doom come, and remember it, and survive long enough to see how it ended.
 
@@ -461,7 +455,7 @@ Cassandra pulled her knees to her chest and sat in the darkness of her room, lis
 
 No more warnings. No more pleas. From now on, she would only watch.
 
-The gods had made her a prophet. Fine. She would prophesy to herself, to the walls, to anyone who would listen—which was no one.
+The gods had made her a prophet. Fine.
 
 But she would not beg anymore.
 
@@ -469,7 +463,7 @@ But she would not beg anymore.
 
 Aulis was chaos.
 
-Ships crowded the harbor, packed so tightly that a man could walk from one end to the other stepping only on decks. Tents covered the hills above the beach, thousands of them, spreading inland like a second city. The air smelled of smoke and sweat and horses and the particular stench of too many men in too small a space.
+Ships crowded the harbor, packed so tightly that a man could walk from one end to the other stepping only on decks. Tents covered the hills above the beach, thousands of them. The air smelled of smoke and sweat and horses.
 
 Agamemnon stood on a rise overlooking the fleet, and he smiled.
 
@@ -481,7 +475,7 @@ Agamemnon stood on a rise overlooking the fleet, and he smiled.
 
 "The largest army ever assembled. By far."
 
-Agamemnon looked out at the sea of masts, the forest of spears, the countless banners snapping in the breeze. His army. His war.
+Agamemnon looked out at the ships. His army. His war.
 
 "And the kings?"
 
@@ -491,7 +485,7 @@ Agamemnon looked out at the sea of masts, the forest of spears, the countless ba
 
 "Arrived last night. Twelve ships from Ithaca. He's camped on the north shore."
 
-Agamemnon nodded. So Palamedes had been successful. He'd have to reward the man—Palamedes was useful, the kind of clever that could be pointed at problems like a weapon.
+Agamemnon nodded.
 
 "Call a council," he said. "All the kings. Tomorrow at dawn."
 
@@ -509,13 +503,13 @@ He wondered how many of them would see Ithaca again.
 
 At the edge of the camp, overlooking the bay, he stopped. The fleet stretched before him, impossible in its scale. He tried to count the ships and gave up.
 
-A thousand kings had come to fight over one woman. A million men would die before this was over. And all because Tyndareus had been afraid of his own guests, and a young man from Ithaca had thought he was clever.
+A thousand kings had come to fight over one woman.
 
 Footsteps behind him. He turned.
 
 Palamedes stood a few paces away, silhouetted against the setting sun.
 
-The cold thing in Odysseus's chest—the thing that had taken root on that beach, watching this man walk away with his son in the furrow—stirred and settled. He noted Palamedes's position in the camp. Filed it away.
+Odysseus noted Palamedes's position in the camp.
 
 "Odysseus." His voice was pleasant, conversational. "Settling in?"
 
@@ -553,7 +547,7 @@ He paused, letting the silence build.
 
 "A prince of Troy came to Greece as a guest. He ate at our tables. He drank our wine. He accepted our hospitality. And then he stole the queen of Sparta from her husband's bed and the gold from her husband's treasury."
 
-Murmurs around the tent. Odysseus watched the faces—outrage, calculation, boredom, fear. The kings were not united by purpose. They were united by oath, which was a very different thing.
+Murmurs around the tent. Odysseus watched the faces.
 
 "If we let this stand," Agamemnon continued, "we invite every barbarian prince in the world to do the same. If Paris of Troy can steal a Greek queen and face no consequence, none of our wives are safe. None of our thrones are secure."
 
@@ -631,7 +625,7 @@ Calchas bowed, his old bones creaking, and withdrew.
 
 Agamemnon stood alone at the entrance of the tent. Behind him, the largest army in history waited for a war that could not begin.
 
-Before him, the sea stretched flat and silver, still as death, still as a held breath, still as a knife waiting to fall.
+Before him, the sea stretched flat and silver.
 
 ---
 

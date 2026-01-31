@@ -69,7 +69,7 @@ Andromache came to stand beside him. Her face was pale in the grey light, but he
 
 "Now you've seen. Go back."
 
-"In a moment." She watched the fleet in silence. A year ago she had stood on these same walls, asking if war could be avoided. Now war was here, spreading across the sea like a stain that would never wash clean. "How many?"
+"In a moment." She watched the fleet in silence. A year ago she had stood on these same walls, asking if war could be avoided. Now war was here. "How many?"
 
 "Too many to count."
 
@@ -111,7 +111,7 @@ Patroclus looked. The walls of Troy, high and pale in the dawn light. The towers
 
 "No. But the city is." Patroclus took a bite of bread, chewing slowly. "All this for that."
 
-Achilles didn't respond. He was staring at the walls with an expression Patroclus knew well—fixed, distant, as if he was looking at something that hadn't happened yet.
+Achilles didn't respond. He was staring at the walls.
 
 "What are you thinking?"
 
@@ -236,8 +236,6 @@ Their eyes met.
 The noise of battle faded. The screaming, the clash of bronze, the hiss of arrows—all of it distant, muffled. There was only this: two men, seeing each other across a field of bodies.
 
 The Greek smiled. It was not a friendly expression.
-
-Hector felt something cold move through his chest. Recognition. Understanding.
 
 *This is the man.*
 
@@ -673,13 +671,11 @@ Menelaus kicked him in the chest.
 
 Paris hit the ground hard. The air left his lungs. He saw the sky, bright and blue, wheeling above him.
 
-*This is it,* he thought. The thought was strangely calm. *This is how it ends.*
+*This is it,* he thought. *This is how it ends.*
 
-He'd imagined this moment. In the weeks since he'd brought Helen home, in the long nights when guilt kept him awake, he'd imagined dying for what he'd done. He'd thought it would feel like justice. Like payment.
+Just the sky, impossibly blue, and the taste of blood in his mouth.
 
-It didn't feel like anything. Just the sky, impossibly blue, and the taste of blood in his mouth, and somewhere very far away the sound of Helen's name—his last thought, or maybe just his oldest habit.
-
-*I'm sorry,* he thought. To Helen. To Hector. To the boy on the beach and all the boys who would come after. *I'm sorry I wasn't worth any of this.*
+*I'm sorry,* he thought. *I'm sorry I wasn't worth any of this.*
 
 Menelaus stood over him, breathing hard now, his sword raised.
 
@@ -761,12 +757,6 @@ The captains filed out. Hector stood at the window, watching his brother being l
 
 And Paris was alive. His brother was alive.
 
-Hector waited for the relief to come. It didn't. Or rather—it did, buried somewhere deep, tangled with something else. Something that felt like disappointment. Something that remembered standing on the beach three days ago, his arms aching from saving this same brother who had frozen when a Greek boy raised a sword.
-
-*I wanted to kill him.* He'd told Andromache that, the night Paris brought Helen home. *I couldn't hold onto it.*
-
-He still couldn't. Paris was family. Paris was blood. And the war continued.
-
 He would probably never know who gave that order. Part of him didn't want to know.
 
 ---
@@ -827,9 +817,7 @@ Helen said nothing.
 
 "They're saying Aphrodite saved me. That the goddess intervened." Paris looked at his hands. "Maybe she did. I don't know. I don't know what happened."
 
-Helen felt something cold move through her chest. Aphrodite. The goddess who had promised Paris the most beautiful woman in the world. She had wondered, in the years since Sparta, whether anything she felt was truly hers—or whether it was all just divine strings, pulling her toward a fate she'd never chosen.
-
-She pushed the thought away. It didn't matter now.
+She said nothing.
 
 A knock at the door. Paris knew who it was before the servant announced him.
 
@@ -893,11 +881,7 @@ But Hector was different.
 
 Hector was the one who almost believed her. The one whose eyes sometimes held the truth for a moment before the curse stole it away. The one who had listened, three weeks ago, as she begged him to kill Paris—and for one terrible, hopeful second, she had seen him understand.
 
-She couldn't save Troy. She knew that now. But maybe—maybe—she could make him remember. Could plant something that would survive the curse, some seed of warning that might take root.
-
-Or maybe she was fooling herself. Maybe she just needed to talk to someone who wouldn't look at her like she was broken.
-
-Either way, she found herself moving. Down the stairs, through the corridors, out onto the walls.
+She found herself moving. Down the stairs, through the corridors, out onto the walls.
 
 ---
 
@@ -905,7 +889,7 @@ Footsteps behind him. Light, careful.
 
 He knew without turning. "Cassandra."
 
-His sister came to stand beside him. She looked thinner than he remembered, paler. She'd always been strange—touched by the gods, their mother said, which was a kind way of saying broken—but lately she'd seemed more absent than ever.
+His sister came to stand beside him. She looked thinner than he remembered, paler.
 
 "What do you see?" he asked.
 
@@ -927,7 +911,7 @@ Hector felt something cold touch his spine. "What baby? What are you talking abo
 
 For a moment—just a moment—something flickered at the edge of his mind. A memory that wasn't quite a memory. He'd heard this before. Not these exact words, but this feeling, this dread. Cassandra's face in firelight, her hands gripping his arms, her voice saying something about walls and his son and—
 
-It slipped away. Like water through fingers. Like waking from a dream you can't hold onto.
+It slipped away.
 
 He shook his head. "Cassandra—"
 

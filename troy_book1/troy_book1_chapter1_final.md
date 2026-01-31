@@ -9,19 +9,17 @@
 
 ## PARIS
 
-The goddesses came to him at midday, when the sheep were stupid with heat and the mountain offered no shade worth the name.
+The goddesses came to him at midday, when the sheep were stupid with heat and the mountain offered no shade.
 
 Paris had been sleeping against a rock, his crook across his knees, dreaming of white walls and great gates. He woke to light.
 
-Not sunlight. Something older. Something that made the air taste of copper and honey and fear.
+Three women stood before him. They were naked, or clothed in something that moved and concealed nothing. Looking at them hurt.
 
-Three women stood before him. They were naked, or clothed in something that moved like water and concealed nothing. They were beautiful in the way that a fire is beautiful, in the way that a cliff-edge is beautiful. Looking at them hurt.
-
-"Alexandros," said the first. She was taller than the others, and her eyes were the grey of storm-clouds, and she held a spear that seemed to exist in more dimensions than the world allowed. "Called Paris. Son of Priam, prince of Troy, shepherd of Ida. You will judge between us."
+"Alexandros," said the first. She was taller than the others, and her eyes were grey, and she held a spear that flickered at its edges. "Called Paris. Son of Priam, prince of Troy, shepherd of Ida. You will judge between us."
 
 Paris tried to stand. His legs would not obey him. He tried to speak. His tongue was sand.
 
-"Hera," said the grey-eyed one, gesturing to the woman on her left—golden-haired, imperious, looking at Paris the way his father's steward looked at the accounts. "Aphrodite." The woman on her right smiled, and the smile went through Paris like a blade, like a song, like the first drink of water after days in the desert. "And I am Athena. We require your judgment."
+"Hera," said the grey-eyed one, gesturing to the woman on her left—golden-haired, imperious, looking at Paris the way his father's steward looked at the accounts. "Aphrodite." The woman on her right smiled. Paris forgot to breathe. "And I am Athena. We require your judgment."
 
 "I—" Paris's voice cracked. "I am a shepherd. I tend sheep on a mountain. I am no one."
 
@@ -35,7 +33,7 @@ Paris tried to stand. His legs would not obey him. He tried to speak. His tongue
 
 Hera held up an apple. It was gold, or something like gold, and it glowed with its own light, and there was writing on it in a script Paris could not read.
 
-"For the fairest," said Hera. "Eris threw it among us at a wedding feast. A petty cruelty. But the insult stands until it is resolved. You will look upon us and decide which of us deserves the apple."
+"For the fairest," said Hera. "You will look upon us and decide which of us deserves it."
 
 Paris looked at the three of them. At their terrible beauty. At the spear in Athena's hand, the golden light around Hera's brow, the smile still playing at Aphrodite's lips.
 
@@ -57,15 +55,13 @@ She did not kneel. She simply stood before him, close enough that he could smell
 
 "I will give you love," she said. Her voice was lower than the others, softer. "The most beautiful woman in the world. Helen of Sparta. She will be yours, Paris. She will come to you willingly, and she will love you until the day she dies, and every night you will fall asleep in her arms and every morning you will wake to her face."
 
-Paris's throat tightened. He thought of the cold winters on the mountain. The silence that stretched for days. The way he sometimes talked to the sheep just to hear a voice, even his own.
-
 "Her," he said, pointing to Aphrodite. "The apple is hers."
 
 Athena's face went still. Hera's twisted with fury. But Aphrodite—Aphrodite smiled at him with such warmth, such gratitude, such promise, that for a moment Paris truly believed he had made the right choice.
 
 "The woman you want is in Sparta," Aphrodite said. "Go to your father. Reclaim your birthright. He will send you to Greece as an ambassador. The rest will follow."
 
-The light began to fade. The goddesses were going, dissolving like mist at sunrise.
+The light began to fade. The goddesses were going.
 
 "Wait," Paris called. "The dream—my mother's dream—will I destroy Troy?"
 
@@ -193,7 +189,7 @@ He stood. Walked to the window. She watched his shoulders rise and fall, watched
 
 "Paris is our brother." His voice was strange. Thick. "He was taken from us. He's come home. I can't—I won't—"
 
-"You're already forgetting." She stood, followed him to the window. "I can see it happening. The curse. It's pulling the knowledge out of you like thread from a spindle. In a moment you won't remember why you're upset. You'll just know that your strange sister said something disturbing, and you'll feel sorry for me, and you'll leave."
+"You're already forgetting." She stood, followed him to the window. "I can see it happening."
 
 "That's not—" He turned to face her. His eyes were clouded, confused. "What were we talking about?"
 
@@ -267,7 +263,7 @@ Helen realized she hadn't answered. Her husband was watching her now, his brow s
 
 Helen didn't sit. She stood with her hands at her sides, and she could not stop herself from looking across the table one more time.
 
-Paris hadn't moved. He was still watching her. And now there was something else in his expression—confusion, wonder—as if he too had felt something pass between them and didn't understand what it was.
+Paris hadn't moved. He was still watching her.
 
 "My lady." Her handmaiden was at her elbow, voice low. "Are you unwell? You've gone pale."
 
@@ -293,13 +289,13 @@ The vision came without warning—not the slow build of a dream but a door slamm
 
 And her brother, sitting at a feast, looking at a woman.
 
-The woman was golden. That was the only word for it. Golden hair, golden skin, a face that hurt to look at the way the goddesses had hurt. She was looking back at Paris with something broken open in her expression, something that had been locked away and was now spilling out like wine from a cup.
+The woman was golden. Golden hair, golden skin, a face that hurt to look at the way the goddesses had hurt. She was looking back at Paris.
 
 They were just looking at each other.
 
 Nothing more. No touch, no word, no sin that anyone could name.
 
-But Cassandra could see the thread spinning out between them. It glowed like the apple had glowed—gold and barbed, beautiful and deadly. It wrapped around her brother's throat, around the woman's wrists. It stretched across the sea to Troy and wound itself around the towers.
+But Cassandra could see the thread spinning out between them. Gold and barbed. It wrapped around her brother's throat, around the woman's wrists. It stretched across the sea to Troy and wound itself around the towers.
 
 She watched the woman spill her wine. Watched her stand too fast, pale and shaking. Watched her sit back down and fold her trembling hands and refuse to look up again.
 
@@ -315,9 +311,7 @@ The vision released her. She sagged against the window frame, breathing hard, he
 
 Below, the city celebrated. Drums and lyres. Drunken singing. The return of the lost prince. The beginning of a golden age.
 
-Cassandra looked at the blood on her hands. Looked at the city that was already burning, if you knew how to see it.
-
-"And so it begins," she said to no one.
+Cassandra looked at the blood on her hands.
 
 The celebration continued long into the night.
 

@@ -15,7 +15,7 @@ Agamemnon sat at his table, his hands flat on the wood, his eyes on nothing. Out
 
 He thought through the options. He had been thinking through them for hours, turning them over like stones, examining each from every angle.
 
-Refuse. The wind never blows. The army, already restless, grows mutinous. The kings begin to leave—one at first, then others, then the whole grand enterprise collapses like a tent with its poles removed. He sails home to Mycenae having assembled the greatest army in history and accomplished nothing. His enemies laugh. His allies reconsider. Everything he's built crumbles.
+Refuse. The wind never blows. The army, already restless, grows mutinous. The kings begin to leave—one at first, then others, then the whole grand enterprise collapses. He sails home to Mycenae having assembled the greatest army in history and accomplished nothing. His enemies laugh. His allies reconsider. Everything he's built crumbles.
 
 Or.
 
@@ -55,11 +55,7 @@ He paused. The scribe's stylus scratched on wax.
 
 The man bowed and withdrew. Agamemnon sat in the dying light, listening to the silence.
 
-It was done. The thing that could not be undone.
-
-He felt—nothing. A strange emptiness where anguish should have been. Perhaps it would come later. Perhaps he would wake in the night, shaking, sick with what he'd chosen.
-
-Or perhaps this was simply what kings were made of. The ability to do what must be done and feel nothing at all.
+It was done.
 
 The lamp went out. Agamemnon sat in the darkness until dawn.
 
@@ -131,7 +127,7 @@ Achilles didn't answer immediately. He looked out at the harbor, at the thousand
 
 Patroclus rose, crossed to him. Put a hand on his shoulder.
 
-"The wind will come," he said again. "The gods want this war as much as you do. They've been setting it up for twenty years—Paris and the apple, Helen and the oath. You think they're going to let it fizzle out because of a little calm?"
+"The wind will come," he said again. "You think the gods are going to let it fizzle out because of a little calm?"
 
 Achilles looked at him. Something in his chest loosened, just slightly.
 
@@ -261,8 +257,6 @@ She was looking around at the army with an expression of barely contained excite
 
 Looking for him.
 
-Achilles felt something cold move through his chest.
-
 "She thinks she's here for a wedding," he said.
 
 "Yes."
@@ -281,7 +275,7 @@ Achilles turned and walked toward the high king's tent.
 
 The guards tried to stop him.
 
-It was a mistake. Achilles went through them like a scythe through wheat—not killing, but close. He broke one man's arm, dislocated another's shoulder, left a third gasping in the dirt with the wind knocked out of him.
+It was a mistake. Achilles broke one man's arm, dislocated another's shoulder, left a third gasping in the dirt with the wind knocked out of him.
 
 He burst through the tent flap.
 
@@ -367,7 +361,7 @@ He didn't trust himself to stay.
 
 ---
 
-Odysseus found him outside, pacing like a caged lion.
+Odysseus found him outside, pacing.
 
 "Achilles—"
 
@@ -407,7 +401,7 @@ Achilles said nothing.
 
 "Yes."
 
-Achilles stared at him. Something shifted in his face—contempt, maybe, or disappointment.
+Achilles stared at him.
 
 "Is this what we are?" he asked. "Is this what all of you are? Kings and heroes who murder children and call it necessity?"
 
@@ -453,7 +447,7 @@ Agamemnon looked at his daughter's face. Memorized it. The shape of her eyes, th
 
 "No." He touched her hair—once, briefly. "It isn't."
 
-Clytemnestra was watching him. He could feel her gaze like a blade between his shoulders.
+Clytemnestra was watching him.
 
 "Go rest," he told Iphigenia. "Tomorrow will be a long day. You'll want to look your best."
 
@@ -462,10 +456,6 @@ Clytemnestra was watching him. He could feel her gaze like a blade between his s
 "You're welcome."
 
 She disappeared behind the curtain. Agamemnon stood very still, not looking at his wife.
-
-"She trusts you," Clytemnestra said quietly. "Completely. Without reservation."
-
-"Yes."
 
 "And you're lying to her."
 
@@ -563,7 +553,7 @@ Silence. The stars wheeled overhead.
 
 "Promise me." Achilles turned to face him. "If I ever become that, kill me yourself. Don't let me live as something I'd be ashamed of."
 
-Patroclus met his eyes. Something passed between them—old and deep and unspoken.
+Patroclus met his eyes.
 
 "I promise."
 
@@ -651,11 +641,7 @@ The girl's name came to her, unbidden: *Iphigenia.* Agamemnon's daughter. Fiftee
 
 And now she was dead, and the wind was rising, and nothing Cassandra had seen or said had changed anything.
 
-*This is what watching feels like*, she thought. *This is what I chose.*
-
 She stayed on the floor of her chamber as the vision faded, as the distant screaming of a mother she would never meet echoed through her bones. The ships would sail now. The war would come.
-
-And another girl had died because the world refused to look.
 
 Cassandra pulled her knees to her chest and did not sleep again that night.
 
@@ -674,8 +660,6 @@ Odysseus opened his eyes.
 The altar was red. The priests were backing away, their robes spattered. Agamemnon stood with the knife still in his hand, his face unreadable.
 
 On the stones below, Clytemnestra had stopped screaming. The guards had released her, and she knelt in the dirt, staring up at the altar, her face slack and empty.
-
-Not empty, Odysseus realized. Transformed. Something had been alive in her, and now it was dead. Something else had taken its place.
 
 She met Agamemnon's eyes across the distance. Her lips moved. No sound came out.
 
@@ -777,9 +761,7 @@ He thought about Agamemnon washing his hands, his expression calm, already think
 
 He thought about himself, standing at the back of the crowd, watching, saying nothing, doing nothing.
 
-*The first blood of this war was Greek*, he thought. *And it was a child's.*
-
-He filed that away too. What kind of man Agamemnon was. What he was willing to spend. The knowledge might be useful someday—and if not useful, then at least it was true. Odysseus collected true things the way other men collected debts.
+He filed that away. What kind of man Agamemnon was. What he was willing to spend. The knowledge might be useful someday—and if not useful, then at least it was true. Odysseus collected true things the way other men collected debts.
 
 The wind pushed at his back, strong and steady. The sails strained. The fleet spread out across the water, a thousand ships sailing toward the same horizon.
 

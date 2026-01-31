@@ -101,7 +101,7 @@ The wind pulled at her hair, her dress. She didn't turn when he approached. Belo
 
 "I know."
 
-He stood beside her, close but not touching. The sea smell was strong here—salt and seaweed and something deeper, older.
+He stood beside her, close but not touching. The sea smell was strong here—salt and seaweed and the cold that came off deep water.
 
 "Come with me."
 
@@ -157,8 +157,6 @@ She stood on the steps until they disappeared around the bend in the road.
 
 *You've drawn him out*, he'd said. *It suits you.*
 
-He had no idea. He looked at her every day and saw exactly what he expected to see: his wife, his queen, his beautiful possession, finally warming to her role. It had never occurred to him that she might be warming to something else.
-
 The courtyard was emptying. Servants returning to their work, guards resuming their posts. The dust was settling.
 
 Helen turned and walked back into the palace.
@@ -193,11 +191,11 @@ Helen knelt beside the bed.
 
 She had not been a good mother. She knew this. She had held Hermione as an infant and felt—nothing. Had watched her grow and learn and become a person and felt—nothing. The same nothing she felt for Menelaus, for the palace, for her entire life.
 
-But looking at her daughter now, in the lamplight, she felt something. A twist in her chest. A tightness in her throat.
+But looking at her daughter now, in the lamplight, her throat tightened.
 
 She reached out. Her hand hovered over Hermione's hair.
 
-If she stayed, she would watch this girl grow up. Would see her married off to some prince or king, traded for an alliance, learning to smile and say *yes, wonderful*. Would watch her daughter become what she had become: a beautiful shell with nothing inside.
+If she stayed, she would watch this girl grow up. Would see her married off to some prince or king, traded for an alliance, learning to smile and say *yes, wonderful*.
 
 If she left—
 
@@ -231,7 +229,7 @@ She could turn back. The thought flickered and died.
 
 Helen walked up the gangplank.
 
-Paris was waiting at the rail. His face when he saw her—relief, joy, terror, all tangled together. He reached for her hand. She took it.
+Paris was waiting at the rail. He reached for her hand. She took it.
 
 "You came."
 
@@ -245,9 +243,7 @@ She watched Sparta shrink. The dock. The market. The road to the palace. The roo
 
 Paris's hand tightened on hers.
 
-She had made her choice—or the choice had made itself, had been made the moment their eyes met across the feast table, had been made years ago when the gods decided she would be the most beautiful woman in the world and therefore the most owned.
-
-But this time, for the first time, she had walked onto the ship herself.
+She had walked onto the ship herself.
 
 The sun rose. Sparta vanished into haze.
 
@@ -383,7 +379,7 @@ He closed his eyes.
 
 "What else did she say? About the war. About—" Andromache paused, her hand moving unconsciously to her stomach. She was not yet showing, but she had begun to suspect. "About what comes after."
 
-"I don't remember. That's the curse—the harder I try to hold the words, the faster they slip away." He looked at her, something moving behind his eyes. "Why do you ask?"
+"I don't remember." He looked at her. "Why do you ask?"
 
 "No reason." She let her hand fall. "The curse."
 
@@ -413,7 +409,7 @@ The chests came first. One after another, iron-banded, heavy, loaded onto waitin
 
 Then Paris descended, Helen on his arm. The crowd pressed close. Laughter, questions, pointing at the foreign woman.
 
-A boy tugged at Helen's dress. She looked down at him, and her face did something complicated—something that might have been pain. Then someone pulled the boy away.
+A boy tugged at Helen's dress. She looked down at him. Then someone pulled the boy away.
 
 Hector turned from the wall.
 
@@ -429,39 +425,29 @@ He descended the stairs and did not look back.
 
 The golden thread. She could see it now.
 
-Cassandra pressed her forehead against the cool stone of her window frame and watched doom walk through the gates of Troy.
+Cassandra pressed her forehead against the cool stone of her window frame and watched the procession enter the gates.
 
 In the vision three weeks ago, the thread had been abstract—a shimmering line connecting Paris to a woman she'd never seen, stretching from Mount Ida to Sparta to here. Now the thread had flesh. Golden hair. A face that made men forget their names.
 
 Helen.
 
-She was beautiful. Even from this distance, even through Cassandra's exhausted eyes, she was beautiful in the way a forest fire was beautiful—mesmerizing, inevitable, consuming everything it touched.
+She was beautiful. Even from this distance, even through Cassandra's exhausted eyes. Looking at her hurt.
 
 The crowd cheered. They threw flowers. They had no idea what they were welcoming through their gates.
 
-Cassandra watched the chests being unloaded. The stolen gold of Sparta, paraded past celebrating Trojans. She watched Paris helping Helen down the gangplank, his face shining with the particular stupidity of a man who thinks love excuses everything.
+Cassandra watched the chests being unloaded. The stolen gold of Sparta, paraded past celebrating Trojans. She watched Paris helping Helen down the gangplank, his face shining.
 
 And then Helen looked up.
 
 Across the harbor, across the crowd, across all that distance—their eyes met.
 
-Cassandra felt it like a blade between her ribs. Recognition. Not of faces—they'd never seen each other before. Recognition of something deeper. Two women who could see clearly, trapped in a world that refused to look.
+Cassandra felt it like a blade between her ribs.
 
-*You know*, Cassandra thought. *You can feel it too. The weight of what you've brought through those gates.*
-
-Helen's face did something complicated. Fear, maybe. Or the beginning of understanding.
+Helen's face changed.
 
 Then Paris touched her arm, said something, and Helen looked away. The connection broke.
 
-Cassandra stayed at the window, watching the celebration, watching the golden thread wind itself tighter around Troy's throat.
-
-*The lamb won't hear the butcher*, she thought. *It never does.*
-
-She had tried to stop this. Begged Hector to kill Paris before he could leave for Sparta. Watched her brother's eyes go blank as the curse pulled the warning from his mind.
-
-She wouldn't try again. What was the point? The doom was here now, walking through the streets, smiling and waving at the people it would kill.
-
-All Cassandra could do was watch.
+Cassandra stayed at the window.
 
 ---
 
@@ -473,9 +459,7 @@ She was staring up at the city—at the white walls, the towers, the palace. At 
 
 Not dark. There was a face. Pale, framed by black hair.
 
-Helen met those eyes across the distance and felt something cold move through her. Recognition, though she'd never seen this woman. Understanding, though no words passed.
-
-*She knows. Everything. How this ends.*
+Helen met those eyes across the distance and felt something cold move through her.
 
 "Helen?" Paris again. "What is it?"
 
