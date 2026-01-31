@@ -19,131 +19,87 @@
 
 See `characters/` folder for full character profiles:
 
-**Primary POVs (Every season):**
+**Primary POVs (Every book):**
 - [Achilles](characters/achilles.md) — "The Weapon"
 - [Hector](characters/hector.md) — "The Defender"
 - [Odysseus](characters/odysseus.md) — "The Pragmatist"
 - [Helen](characters/helen.md) — "The Cause"
 - [Cassandra](characters/cassandra.md) — "The Prophet"
 
-**Secondary POVs (Select seasons):**
-- [Agamemnon](characters/agamemnon.md) — "The King" (S1-2)
-- [Paris](characters/paris.md) — "The Lover" (S1-2)
-- [Briseis](characters/briseis.md) — "The Prize" (S2-3)
-- [Priam](characters/priam.md) — "The Father" (S3)
-- [Andromache](characters/andromache.md) — "The Wife" (S4)
+**Secondary POVs (Select books):**
+- [Agamemnon](characters/agamemnon.md) — "The King" (B1-2)
+- [Paris](characters/paris.md) — "The Lover" (B1-2)
+- [Briseis](characters/briseis.md) — "The Prize" (B2-3)
+- [Priam](characters/priam.md) — "The Father" (B3)
+- [Andromache](characters/andromache.md) — "The Wife" (B4)
 
 ---
 
-# PART THREE: SEASON BREAKDOWN
+# PART THREE: BOOK BREAKDOWN
 
-## SEASON 1: "THE GATHERING STORM"
+## BOOK 1: "THE GATHERING STORM"
 *Timeline: The Judgment of Paris through Year 1 of the War*
 *POVs: Achilles, Hector, Odysseus, Helen, Cassandra, Agamemnon, Paris*
 
 ### Thematic Focus
 The machinery of war. How it starts. How quickly a bad decision cascades into thousand ships. The personal becomes political becomes apocalyptic.
 
-### Episode Breakdown
+### Chapter Breakdown
 
-**Episode 1: "The Apple"**
-*POVs: Paris, Cassandra, Helen*
+> **Note:** Detailed storyboards reflecting the current state of Book 1 chapters are in [`troy_book1/Storyboard/`](troy_book1/Storyboard/). The summaries below are the original planning documents; see the linked files for what was actually written.
 
-COLD OPEN: Mount Ida. Paris judges three goddesses. It plays like a fever dream—beautiful, terrifying, clearly not metaphorical. He chooses Aphrodite. She promises him Helen. Cassandra wakes screaming.
+**Chapter 1: "The Apple"** → [Detailed Storyboard](troy_book1/Storyboard/chapter1_the_apple.md)
+*POVs: Paris, Cassandra, Helen, Cassandra*
 
-Paris returns to Troy after years as a shepherd. Priam's joy. Hector's wariness. Cassandra's horror ("Kill him now or we all die"). Everyone ignores her.
-
-Helen in Sparta. Her life with Menelaus—not cruel, but empty. She's a trophy on a shelf. Paris arrives as a diplomat. Their eyes meet.
-
-END: Helen's hand reaching for Paris's. Cassandra whispering: "And so it begins."
+Paris judges the goddesses on Mount Ida. Returns to Troy. Cassandra warns the guards and Hector to kill him—the curse makes Hector forget. Helen meets Paris at a feast in Sparta; Cassandra sees the golden thread connecting them to Troy's doom.
 
 ---
 
-**Episode 2: "The Theft"**
-*POVs: Paris, Helen, Hector*
+**Chapter 2: "The Theft"** → [Detailed Storyboard](troy_book1/Storyboard/chapter2_the_theft.md)
+*POVs: Paris, Helen, Hector, Cassandra*
 
-Paris and Helen's affair. Shot intimately, genuinely romantic—we need to understand the intoxication. Helen doesn't know if she's choosing or being pulled by divine strings. She doesn't care.
-
-They flee. Helen looks back at her daughter Hermione sleeping. She leaves anyway. (This will haunt her.)
-
-Hector receives the news: Paris is returning with Menelaus's wife. His reaction is not anger—it's exhaustion. He knows exactly what this means. Andromache finds him on the walls at dawn. "How long do we have?" He doesn't answer.
-
-END: Paris's ship entering Troy's harbor. Crowds cheering. Cassandra watching from a tower, silent.
+Paris and Helen's affair while Menelaus hunts. Helen leaves Hermione sleeping. She discovers Aeneas stealing treasure—this is calculated theft, not pure romance. Hector learns Paris is returning with Helen; knows war is coming. Cassandra and Helen lock eyes as the ship enters harbor.
 
 ---
 
-**Episode 3: "The Oath"**
+**Chapter 3: "The Oath"** → [Detailed Storyboard](troy_book1/Storyboard/chapter3_the_oath.md)
 *POVs: Odysseus, Agamemnon, Cassandra*
 
-FLASHBACK: Odysseus at Helen's original suitor gathering. His clever solution—make every suitor swear to defend whomever wins her. Young Odysseus, proud of his cleverness.
-
-PRESENT: Odysseus on Ithaca with Penelope and infant Telemachus. The messengers arrive. The oath is called. 
-
-Odysseus fakes madness (plowing the beach with salt, yoking a donkey and ox together). Palamedes places baby Telemachus in the plow's path. Odysseus swerves. His sanity proven. His fate sealed. He never forgives Palamedes.
-
-Agamemnon summons the kings. His speech isn't about honor—it's about *precedent*. "If a barbarian prince can steal a Greek queen and face no consequences, none of our wives are safe. None of our thrones are secure." Politics, not passion.
-
-END: The fleet assembling at Aulis. A thousand ships. A hundred thousand men. The wind won't blow.
+Odysseus's peaceful life on Ithaca shattered by the oath. Palamedes exposes his feigned madness by placing Telemachus in the plow's path—Odysseus vows revenge. Cassandra makes her pivotal decision to stop warning and simply bear witness. The fleet gathers at Aulis; the wind dies. Calchas demands Iphigenia.
 
 ---
 
-**Episode 4: "The Blood Price"**
-*POVs: Agamemnon, Achilles, Odysseus*
+**Chapter 4: "The Blood Price"** → [Detailed Storyboard](troy_book1/Storyboard/chapter4_the_blood_price.md)
+*POVs: Agamemnon, Odysseus, Achilles, Cassandra*
 
-The fleet sits becalmed. Men grow restless. Calchas the seer demands a sacrifice: Agamemnon's daughter Iphigenia.
-
-Agamemnon's decision. Not shown as agonized—shown as *calculated*. His wife Clytemnestra's face when she realizes.
-
-Achilles is told Iphigenia was brought to marry him. He's furious at being used. His first lesson in how these kings operate.
-
-THE SACRIFICE: Not shown directly. Iphigenia walking to the altar. The knife. The wind rising. Clytemnestra's silent scream. The fleet sails.
-
-END: Odysseus watching Agamemnon's face. Seeing nothing there. His first real fear about what they've all agreed to.
+Agamemnon lures Iphigenia to Aulis with a false wedding to Achilles. Achilles discovers his name was used and confronts Agamemnon. Clytemnestra promises vengeance. The sacrifice at dawn—Iphigenia gagged on the altar. The wind rises. Cassandra feels it across the sea. The fleet sails.
 
 ---
 
-**Episode 5: "First Blood"**
-*POVs: Achilles, Hector, Paris*
+**Chapter 5: "First Blood"** → [Detailed Storyboard](troy_book1/Storyboard/chapter5_first_blood.md)
+*POVs: Hector, Achilles, Paris, Cassandra*
 
-The Greeks land at Troy. First combat. Achilles leads the vanguard—inhuman, beautiful, terrifying. The Trojans have never seen anything like him.
-
-Hector rallies the defense. We see him as a commander—calm, tactical, beloved by his men. He and Achilles don't meet yet. Just glimpses across the battlefield.
-
-Paris freezes in his first combat. Hector saves him. Later, privately: "Stay off the field. You've done enough." Paris's shame.
-
-THE DUEL: Menelaus challenges Paris to single combat. Paris accepts (he has to). Gets destroyed. Aphrodite spirits him away before the killing blow. Menelaus standing in the dust, cheated.
-
-END: Troy's gates closing. The siege begins. Cassandra: "Ten years. It will take them ten years. And then everyone dies."
+The Greek fleet arrives. Beach battle—Achilles is terrifying; Paris freezes. Priam confesses to Paris why he was exposed as an infant. Three days later: Menelaus vs Paris in single combat. Paris losing badly when unknown horns break the truce. The siege formally begins. Cassandra foreshadows the wooden horse and Astyanax's death.
 
 ---
 
-**Episode 6: "The Wall"**
-*POVs: Odysseus, Cassandra, Helen*
+**Chapter 6: "The Wall"** → [Detailed Storyboard](troy_book1/Storyboard/chapter6_the_wall.md)
+*POVs: Odysseus, Agamemnon, Achilles, Helen, Hector, Paris, Andromache, Cassandra*
 
-TIME JUMP: Year 1 becomes Year 5. The stalemate. 
-
-Odysseus's chapters show the Greek camp—the politics between kings, the dwindling supplies, the men who just want to go home. He's keeping it together through manipulation, playing factions against each other.
-
-Cassandra documents Troy's slow suffocation. The naval blockade. The rationing. The sick and elderly dying first. The births that still happen, children born into siege.
-
-Helen's isolation. The Trojan women blame her. She starts helping in the healing houses, tending wounds. Slowly earning tolerance, not forgiveness.
-
-SEASON CLIMAX: A nighttime raid. Greeks breach an outer district. Women and children fleeing. Achilles's men burning houses. Hector arriving too late, finding bodies.
-
-END: Hector holding a dead child. Looking toward the Greek fires. Understanding this is what ten years of war looks like.
+Year 5. Greek supply crisis leads to raids on civilian villages. Odysseus/Palamedes rivalry deepens. Helen and Cassandra form an unlikely bond. Hector finds a dead village girl and returns home to his sleeping son. Paris confronts his complicity. Cassandra's vision of the wooden horse. The siege continues.
 
 ---
 
-## SEASON 2: "THE RAGE"
+## BOOK 2: "THE RAGE"
 *Timeline: Years 5-9, focusing on the events leading to the Iliad*
 *POVs: Achilles, Hector, Odysseus, Helen, Cassandra, Briseis*
 
 ### Thematic Focus
 The war's middle years. Despair, adaptation, atrocity. The Greeks raid the countryside. The Trojans bleed slowly. Achilles becomes something less than human. Odysseus becomes something worse.
 
-### Episode Breakdown
+### Chapter Breakdown
 
-**Episode 1: "The Raids"**
+**Chapter 1: "The Raids"**
 *POVs: Achilles, Briseis, Hector*
 
 Achilles's routine: attack Trojan allies, strip their resources, take their women. Efficient, brutal, joyless. Patroclus is the only thing keeping him human.
@@ -156,7 +112,7 @@ END: Achilles and Briseis alone in his tent. He doesn't touch her. He just sits,
 
 ---
 
-**Episode 2: "The Clever Man"**
+**Chapter 2: "The Clever Man"**
 *POVs: Odysseus, Cassandra, Paris*
 
 THE PALAMEDES CHAPTER: Odysseus frames Palamedes for treason. Plants Trojan gold in his tent. Forges letters. Palamedes is stoned to death by the army.
@@ -171,7 +127,7 @@ END: Odysseus washing his hands. The water runs clear. He's fine with what he di
 
 ---
 
-**Episode 3: "The Other War"**
+**Chapter 3: "The Other War"**
 *POVs: Helen, Briseis, Hector*
 
 THE WOMEN'S WAR: Helen helping with surgery—there's no anesthetic, just men holding down the wounded while she cuts. She's become competent, even valuable.
@@ -184,7 +140,7 @@ END: Three women in three locations, all trapped, all adapting.
 
 ---
 
-**Episode 4: "The Insult"**
+**Chapter 4: "The Insult"**
 *POVs: Achilles, Agamemnon, Odysseus*
 
 THE QUARREL: Agamemnon is forced to return Chryseis (Apollo's plague). He takes Briseis from Achilles as compensation. Not because he wants her—because Achilles cannot be allowed to defy him publicly.
@@ -197,7 +153,7 @@ END: Briseis led to Agamemnon's tent. Achilles watching. His hand on his sword. 
 
 ---
 
-**Episode 5: "The Long Night"**
+**Chapter 5: "The Long Night"**
 *POVs: Hector, Cassandra, Briseis*
 
 TROJAN ADVANCE: Without Achilles, the Greeks crumble. Hector breaches their defenses, burns their ships. For the first time in years, Troy might win.
@@ -212,7 +168,7 @@ END: Hector gives the order to press the attack. His last chance to end this. It
 
 ---
 
-**Episode 6: "The Substitute"**
+**Chapter 6: "The Substitute"**
 *POVs: Achilles, Hector, Odysseus*
 
 PATROCLUS: He can't watch anymore. Goes to Achilles. "Let me lead the Myrmidons in your armor. I'll push them back. You keep your pride."
@@ -227,16 +183,16 @@ END: Achilles carrying Patroclus's body. Walking through a field of men he kille
 
 ---
 
-## SEASON 3: "THE DEATH OF HECTOR"
+## BOOK 3: "THE DEATH OF HECTOR"
 *Timeline: The final weeks of Year 10*
 *POVs: Achilles, Hector, Odysseus, Helen, Priam*
 
 ### Thematic Focus
 The death spiral. Achilles becomes a demon. Hector becomes a sacrifice. The war is no longer about Helen or honor—it's about killing and dying.
 
-### Episode Breakdown
+### Chapter Breakdown
 
-**Episode 1: "The Funeral"**
+**Chapter 1: "The Funeral"**
 *POVs: Achilles, Hector, Cassandra*
 
 Achilles refusing to bury Patroclus. Killing prisoners instead, stacking bodies for the pyre. He's looking for meaning in death. Finding none.
@@ -249,7 +205,7 @@ END: Dawn. Achilles walks toward the walls. Hector watches him come.
 
 ---
 
-**Episode 2: "The River"**
+**Chapter 2: "The River"**
 *POVs: Achilles, Helen, Odysseus*
 
 Achilles's rampage. Not single combat—slaughter. He kills so many Trojans that the river Scamander chokes on corpses and rises against him. He fights the river. He fights a god. He wins.
@@ -262,7 +218,7 @@ END: Achilles at the gates, calling for Hector. His voice is not human.
 
 ---
 
-**Episode 3: "The Duel"**
+**Chapter 3: "The Duel"**
 *POVs: Hector, Achilles, Priam*
 
 HECTOR'S LAST MORNING: He puts on his armor. Kisses his son. Andromache won't look at him. He understands. At the gates, his father begs him to stay inside. He can't.
@@ -277,7 +233,7 @@ END: Achilles tying Hector's corpse to his chariot. Dragging it around Troy's wa
 
 ---
 
-**Episode 4: "The Father"**
+**Chapter 4: "The Father"**
 *POVs: Priam, Achilles, Cassandra*
 
 THE RANSOM: Priam goes alone to the Greek camp. Past the guards (divine help). Into Achilles's tent. The king kneels before his son's killer.
@@ -296,7 +252,7 @@ END: Hector's funeral pyre. Troy mourns. Achilles in his tent, alone, staring at
 
 ---
 
-**Episode 5: "The Arrow"**
+**Chapter 5: "The Arrow"**
 *POVs: Achilles, Odysseus, Paris*
 
 ACHILLES'S FINAL DAYS: He's calm now. Finished. He's killed Hector. He's mourned Patroclus. He's done what he came to do.
@@ -315,7 +271,7 @@ END: Paris looking at his bow. Understanding nothing. Feeling only relief.
 
 ---
 
-**Episode 6: "The Horse"**
+**Chapter 6: "The Horse"**
 *POVs: Odysseus, Cassandra, Helen*
 
 THE PLAN: Odysseus conceives the horse. We see him build it—not just physically, but politically. Convincing the kings. Selecting the men. Preparing the fleet to fake their withdrawal.
@@ -330,16 +286,16 @@ END: Night. Silence. Helen standing at her window, watching the horse in the pla
 
 ---
 
-## SEASON 4: "THE FALL"
+## BOOK 4: "THE FALL"
 *Timeline: The Sack of Troy and its aftermath*
 *POVs: Odysseus, Helen, Cassandra, Andromache*
 
 ### Thematic Focus
 The bill comes due. Every death, every atrocity the war enabled. Victory is indistinguishable from damnation. No one survives this clean.
 
-### Episode Breakdown
+### Chapter Breakdown
 
-**Episode 1: "The Night"**
+**Chapter 1: "The Night"**
 *POVs: Odysseus, Helen, Cassandra*
 
 THE BELLY OF THE HORSE: The men inside, breathing in darkness. Odysseus counting heartbeats. The signal fire on the headland.
@@ -356,7 +312,7 @@ END: Troy burning. No music. Just screams, and fire, and silence.
 
 ---
 
-**Episode 2: "The Sack"**
+**Chapter 2: "The Sack"**
 *POVs: Andromache, Odysseus, Cassandra*
 
 ANDROMACHE'S CHAPTER: The soldiers come for Astyanax. Odysseus's order—Hector's son cannot live to seek revenge.
@@ -373,7 +329,7 @@ END: Dawn over Troy. The fires dying down. The screaming stopped. Only weeping n
 
 ---
 
-**Episode 3: "The Reckoning"**
+**Chapter 3: "The Reckoning"**
 *POVs: Helen, Andromache, Odysseus*
 
 HELEN AND MENELAUS: He finds her. Sword raised. She doesn't beg. She just looks at him. The most beautiful woman in the world. He can't do it. He never could.
@@ -388,7 +344,7 @@ END: The ships loading. Troy a smoking ruin. Cassandra's voice: "The wind will t
 
 ---
 
-**Episode 4: "The Returns"**
+**Chapter 4: "The Returns"**
 *POVs: Odysseus, Cassandra, Andromache*
 
 THE FLEET SCATTERS: Storms. The gods' punishment for the temple rape, for the atrocities, for the hubris. Ships lost. Men drowned.
@@ -403,7 +359,7 @@ END: Cassandra's body beside Agamemnon's. Her eyes open, fixed on the ceiling. F
 
 ---
 
-**Episode 5: "The Long Way Home"**
+**Chapter 5: "The Long Way Home"**
 *POVs: Odysseus, Helen, Andromache*
 
 ODYSSEUS'S JOURNEY BEGINS: The cyclops (just the beginning). He'll wander ten more years. The man who burned Troy can't find his way home.
@@ -418,7 +374,7 @@ END: The three survivors, scattered across the Mediterranean. The war is over. T
 
 ---
 
-**Episode 6: "Ashes"** (FINALE)
+**Chapter 6: "Ashes"** (FINALE)
 *POVs: Odysseus, Helen, Andromache*
 
 YEARS LATER:
@@ -443,17 +399,17 @@ END.
 
 | Character | Death Episode | Cause | POV Witness |
 |-----------|---------------|-------|-------------|
-| Iphigenia | S1E4 | Sacrifice | Agamemnon |
-| Palamedes | S2E2 | Execution (stoning) | Odysseus |
-| Patroclus | S2E6 | Killed by Hector | Achilles |
-| Hector | S3E3 | Killed by Achilles | Priam |
-| Achilles | S3E5 | Arrow (Paris/Apollo) | Odysseus |
-| Paris | S3E5 (off-screen) | Battle wounds | Helen |
-| Priam | S4E2 | Killed by Neoptolemus | Andromache |
-| Astyanax | S4E2 | Thrown from walls | Andromache |
-| Hecuba | S4E4 (implied) | Grief/transformation | Odysseus |
-| Agamemnon | S4E4 | Murdered by Clytemnestra | Cassandra |
-| Cassandra | S4E4 | Murdered by Clytemnestra | None |
+| Iphigenia | B1C4 | Sacrifice | Agamemnon |
+| Palamedes | B2C2 | Execution (stoning) | Odysseus |
+| Patroclus | B2C6 | Killed by Hector | Achilles |
+| Hector | B3C3 | Killed by Achilles | Priam |
+| Achilles | B3C5 | Arrow (Paris/Apollo) | Odysseus |
+| Paris | B3C5 (off-screen) | Battle wounds | Helen |
+| Priam | B4C2 | Killed by Neoptolemus | Andromache |
+| Astyanax | B4C2 | Thrown from walls | Andromache |
+| Hecuba | B4C4 (implied) | Grief/transformation | Odysseus |
+| Agamemnon | B4C4 | Murdered by Clytemnestra | Cassandra |
+| Cassandra | B4C4 | Murdered by Clytemnestra | None |
 
 ## Death Style Notes
 
@@ -473,7 +429,7 @@ END.
 
 ## Running Themes
 
-**"Was it worth it?"** — Asked directly or implied in every season. Never answered.
+**"Was it worth it?"** — Asked directly or implied in every book. Never answered.
 
 **The gods as weather** — Divine intervention exists but is treated like natural disaster. Impersonal. Unstoppable. Unfair.
 
@@ -497,7 +453,7 @@ END.
 
 # PART SIX: EPISODE TITLE INDEX
 
-## Season 1: "The Gathering Storm"
+## Book 1: "The Gathering Storm"
 1. The Apple
 2. The Theft
 3. The Oath
@@ -505,7 +461,7 @@ END.
 5. First Blood
 6. The Wall
 
-## Season 2: "The Rage"
+## Book 2: "The Rage"
 1. The Raids
 2. The Clever Man
 3. The Other War
@@ -513,7 +469,7 @@ END.
 5. The Long Night
 6. The Substitute
 
-## Season 3: "The Death of Hector"
+## Book 3: "The Death of Hector"
 1. The Funeral
 2. The River
 3. The Duel
@@ -521,7 +477,7 @@ END.
 5. The Arrow
 6. The Horse
 
-## Season 4: "The Fall"
+## Book 4: "The Fall"
 1. The Night
 2. The Sack
 3. The Reckoning
@@ -534,11 +490,11 @@ END.
 # APPENDIX: SOURCE INTEGRATION
 
 ## Homeric Material Used
-- *The Iliad* (primary source for S2-S3)
+- *The Iliad* (primary source for B2-B3)
 - *The Odyssey* (flashbacks, returns)
 
 ## Cyclic Epics & Later Sources
-- *Cypria* (pre-war events, S1)
+- *Cypria* (pre-war events, B1)
 - *Aethiopis* (Achilles's death)
 - *Little Iliad* (wooden horse)
 - *Iliou Persis* (sack of Troy)
