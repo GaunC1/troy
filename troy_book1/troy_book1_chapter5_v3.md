@@ -311,7 +311,17 @@ Hector stayed until the last of the stragglers had passed, until the Greek advan
 
 The walls held.
 
-The Greeks threw themselves against the gates twice before pulling back. No siege towers. No battering rams. Just men with swords and spears, looking up at walls they couldn't climb.
+The first wave hit the gates like a fist against stone. Hector watched from the battlements as Greek soldiers swarmed the base of the walls, their shields raised against the arrows raining down. The gates shuddered. Bronze rang on bronze. Men screamed—some in rage, some in pain as boiling oil found the gaps in their armor.
+
+A soldier with a rope and grappling hook sprinted toward the wall. He threw. The hook scraped against the stone twenty feet below the top and clattered back down. He threw again. Same result. An arrow took him in the throat before he could try a third time.
+
+The walls rose forty feet. Smooth limestone, fitted without mortar, the joints too tight for fingers or blades. Below, Greeks died trying to climb them—boosting each other onto shoulders, clawing at the stone, sliding back down in heaps of tangled limbs.
+
+The second wave brought logs. Fifty men shouldered a cedar trunk and charged the gates. The impact echoed across the plain. The gates groaned. Held. The Greeks pulled back, charged again. Above them, Trojans hurled stones the size of a man's head. Bodies crumpled. The log fell. Men stumbled over their own dead to retrieve it.
+
+Then a horn sounded from the beach. The Greeks hesitated. The horn again—three sharp blasts. They pulled back, dragging their wounded, leaving their dead where they lay.
+
+No siege towers. No battering rams. Just men with swords and spears, looking up at walls they couldn't climb.
 
 Hector stood on the battlements, watching them retreat to the beach. Watching them begin to set up camp.
 
@@ -373,17 +383,17 @@ Helen didn't respond.
 
 "But you didn't."
 
-"I couldn't." Paris turned his hands over, examining the palms. "I kept thinking—he's someone's son. Someone's brother. He sailed across the sea because I took you, and now I'm supposed to kill him for it. And I just... couldn't."
+"I couldn't." Paris turned his hands over, examining the palms. "I kept thinking—he's someone's son. Someone's brother. He sailed across the sea because of us, and now I'm supposed to kill him for it. And I just... couldn't."
 
 "That's not weakness."
 
 "Yes it is." Paris looked up at her. "In a war, that's the only thing it can be."
 
-A knock at the door. A servant's voice: "My lord. Prince Hector is here."
+There was a knock at the door. A servant's voice: "My lord. Prince Hector is here."
 
 Paris stood. Straightened his armor. Nodded to the servant.
 
-Hector entered. He looked at Paris, at Helen, at the untouched food on the table. His face revealed nothing.
+Hector entered. He looked at Paris, at Helen, at the untouched food on the table.
 
 "Leave us," he said to Helen.
 
@@ -395,23 +405,25 @@ The brothers stood in silence. Hector walked to the window, looked out at the ci
 
 "That's good."
 
-"Is it?" Hector turned. "Six hundred men are dead. Six hundred men who were alive this morning, who had wives and children and plans for what they'd do when the war was over. They're dead because you stole another man's wife, and today the bill came due."
+"Is it?" Hector turned. "Six hundred dead. I counted. The scribes are still writing down the names."
 
 Paris said nothing.
 
-"You froze on the field. I heard."
+"You froze. A Greek boy—fifteen, maybe sixteen—had his sword at your throat. You just stood there."
 
 "Yes."
 
-"A Greek boy almost killed you. A boy."
+"I pulled three men off the eastern line to get you out. The eastern line broke two minutes later. Forty men died in the gap."
 
-"Yes."
+Paris's face went white.
 
-"I had to save you. In the middle of a retreat, with men dying all around me, I had to stop and save my brother because he couldn't hold a spear without pissing himself."
+"Euchenor couldn't get you through the gates. You circled for ten minutes while the retreat was collapsing. I saw the chariot. I thought you were dead."
 
-Paris's face reddened. "I'm sorry. I—"
+Silence.
 
-"Don't apologize to me." Hector's voice was flat. "Apologize to the men who died while I was saving you. Apologize to their widows. Apologize to their children."
+"I'm—"
+
+"Polydamas has the casualty lists. You can read the names yourself."
 
 Silence.
 
@@ -441,7 +453,7 @@ The Myrmidon camp was at the north end of the beach, away from the main Greek fo
 
 Achilles sat on a rock, cleaning his spear by torchlight. The blood came off easily if you got to it before it dried. He'd learned that years ago.
 
-Patroclus found him there, as he always did.
+Patroclus found him there.
 
 "The kings are meeting. Agamemnon wants to plan the siege."
 
@@ -505,7 +517,7 @@ Patroclus was quiet for a moment. Then: "That's a strange thing to want."
 
 "Let them be angry."
 
-"Agamemnon especially."
+"Agamemnon."
 
 "Agamemnon can choke on his anger. He's not my king."
 
@@ -621,7 +633,7 @@ Paris thought about the beach. The Greek boy with the trembling sword. His own f
 
 "No."
 
-The word hung in the air. Hector's expression flickered—surprise, maybe, or something like respect.
+The word hung in the air. Hector's expression flickered.
 
 "Then why?" Priam asked.
 
@@ -671,7 +683,7 @@ He was looking at the Greek camp, at the fires spread across the beach like fall
 
 Helen was quiet.
 
-"I'm not brave," Paris said. "You know that. Everyone knows that. I froze on the beach. I let a boy almost kill me." He finally turned to look at her. "But maybe this is something different. Maybe this isn't about being brave. Maybe it's just about being responsible."
+"I'm not brave," Paris said. "You know that. Everyone knows that." He finally turned to look at her. "But maybe this is something different. Maybe this isn't about being brave. Maybe it's just about being responsible."
 
 "You'll die."
 
@@ -943,8 +955,6 @@ Paris said nothing.
 
 He left.
 
-Paris sat alone in the silence, the weight of his survival pressing down on him.
-
 ---
 
 Later, when the palace slept, Paris found a courtyard.
@@ -977,19 +987,13 @@ He stopped at the eastern battlement, the place where he'd stood three days ago 
 
 In her tower, Cassandra felt it.
 
-Not a vision—something else. A pull. A weight in the air, familiar as her own heartbeat.
+A pull. Bronze and salt. The smell of a man standing too long in one place.
 
-*Hector.*
+She went to the window. Found him on the eastern battlement—a shape against the Greek fires. His hands on the stone. His weight forward, leaning into wind.
 
-She went to the window. Looked out across the walls until she found him: a solitary figure on the eastern battlement, staring at the Greek fires. Even from here, she could see the set of his shoulders. The exhaustion. The despair he wouldn't let anyone else see.
+Three weeks ago, in this same spot, she had said *kill him* and watched Hector's face change. A flicker. His hand had moved toward his sword. Then the flicker died, and he looked at her the way they all looked at her, and walked away.
 
-She had promised herself she wouldn't do this anymore. No more warnings, no more pleas. She was done trying to change what couldn't be changed.
-
-But Hector was different.
-
-Hector was the one who almost believed her. The one whose eyes sometimes held the truth for a moment before the curse stole it away. The one who had listened, three weeks ago, as she begged him to kill Paris—and for one terrible, hopeful second, she had seen him understand.
-
-She found herself moving. Down the stairs, through the corridors, out onto the walls.
+She was already moving. Down the stairs. Through the corridors. Out onto the walls.
 
 ---
 
