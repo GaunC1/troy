@@ -3,133 +3,170 @@
 ## POVs
 1. Briseis
 2. Odysseus
-3. Helen
-4. Hector
-5. Odysseus (return)
+3. Briseis (return)
+4. Helen
+5. Hector
+6. Odysseus (return)
 
 ## Summary
-The trial and execution of Palamedes, witnessed from multiple angles. Briseis, now weeks into her captivity, has begun to learn the Greek camp's rhythms and politics. She watches the trial from the edge of the crowd—understanding that something important is happening, not yet understanding what. Odysseus speaks against Palamedes, turning his virtues into evidence of guilt. The vote falls. The execution follows.
+The trial and execution of Palamedes, witnessed from multiple angles.
 
-Intercut with the Greek camp, we see Helen in Troy working in the healing house—surgery without anesthetic, holding men down while healers cut. She has made herself useful. It doesn't make up for anything, but it's what she can do.
+Briseis watches from the edge of the crowd—weeks into her captivity now, she knows the camp's rhythms and politics. The smell of salt and smoke and unwashed men. She knows which kings hate each other, knows Achilles barely leaves his tent, knows Patroclus brings him food. She watches the trial without understanding what's happening. A man stands before the assembly. Another man speaks against him. The vote falls.
 
-Hector returns from a skirmish. Astyanax screams at his bloody armor—the boy doesn't recognize his father in the bronze. Hector removes the helmet, holds his son. Andromache asks him not to go back out. He says he has to. She knew he would say that.
+The trial itself: Palamedes defends himself, points out the convenience of the evidence, names his history with Odysseus—the beach at Ithaca, the plow, the infant in the furrow. "Ask yourselves who benefits from my death." Odysseus counters: "Who benefits from his doubt? Who benefits if we look at proof and call it trickery?" The vote falls against Palamedes by seven.
 
-The chapter ends with Odysseus alone in his tent, washing his hands. The water runs clear. He sleeps well. He hadn't expected to.
+The stoning follows. Briseis watches from the edge. The sounds. The flies gathering. She walks back to Achilles's tent. She can't picture Mynes's face anymore. But she can picture Achilles. Every line of him.
+
+Intercut with Troy: Helen in the healing house—a temple once, now full of pallets and blood. Surgery without anesthetic. She holds men down while healers cut. A Trojan healer speaks to her for the first time: "You're good at this." "I've had practice." "It doesn't make up for anything." "I know."
+
+Hector returns from a skirmish, armor bloody. Astyanax screams at his helmet—the bronze face, the horsehair crest. The boy doesn't recognize his father. Hector removes the helmet, holds his son. "Don't go back out." "I have to." "I know." He walks back toward the walls. Behind him, his son starts crying again.
+
+The chapter ends with Odysseus washing his hands. The water runs clear. He thinks of home—the olive tree he built his marriage bed around, Penelope at her loom. He sleeps well. He hadn't expected to.
 
 ## Scene Breakdown
 
 ### Scene 1: The Crowd (Briseis POV)
-- Morning in the Greek camp. Something is happening.
-- Briseis has been watching. Weeks now. Learning faces, factions, rhythms.
-- She knows Achilles barely leaves his tent. Knows Patroclus brings him food.
-- She knows the kings meet in Agamemnon's tent. Knows who hates whom.
-- Today is different. Men gathering near the central area. Voices raised.
-- She moves closer. Stays at the edge. A captive, invisible.
+- The smell of the Greek camp: salt and smoke and unwashed men.
+- Briseis has learned to breathe through her mouth. She has learned many things.
+- She knows which paths to take to avoid the Locrian soldiers.
+- She knows which kings hate each other. Most hate Agamemnon.
+- Ajax the Greater and Ajax the Lesser share a name and nothing else.
+- Diomedes and Odysseus eat together most evenings, heads bent close.
+- She knows Achilles barely leaves his tent. Patroclus brings him food.
+- Today is different. Men gathering near the assembly ground. Voices raised.
+- She moves closer. Stays at the edge. A captive is invisible if she's quiet.
 - A man stands before the assembly, hands bound. She doesn't know his name.
-- Another man is speaking against him. Calm, reasonable, reluctant.
-- She watches the faces in the crowd. Some doubt. Some conviction. Some just want it over.
+- His face is still.
+- "A letter appears from nowhere. Found near the Trojan lines—but no one saw who dropped it."
+- "If I were taking Trojan gold, would I hide it in my own tent?"
+- The great kings on their stools: Agamemnon in purple, Nestor with his white beard, Diomedes scarred, Menelaus sitting apart.
+- A soldier near Briseis mutters: "Makes sense. If you're going to betray the army, you don't leave the evidence lying about."
+- "Ask yourselves who benefits from my death."
 
 ### Scene 2: The Trial (Odysseus POV)
-- Palamedes stands before the assembly, unbound now—his right as a king's son.
-- He speaks his defense. Points out the convenience of the evidence. The gold hidden in the obvious place. The letter with the smudged signature.
-- "A letter appears from nowhere. Found near the Trojan lines—but no one saw who dropped it."
-- "If I were taking Trojan gold, would I hide it in my own tent? Would I leave it where a child could find it?"
-- He names his history with Odysseus. The beach at Ithaca. The plow. The infant in the furrow.
-- "Ask yourselves who benefits from my death."
-- The assembly murmurs. Doubt spreading.
+- Palamedes has demanded his bonds removed. His right as a king's son.
+- The leather cords lie in the dust, coiled like shed snakeskin.
+- "The gold was planted. The letter is a forgery."
+- Heads nodding. Near the front, Diomedes leans to murmur something to Ajax.
+- Palamedes names his history with Odysseus. The beach at Ithaca. The ox and donkey. The salt instead of seed. The infant in the path of the plow.
+- "He swerved. His sanity was proved. He has never forgiven me."
 - Odysseus rises.
-- "I've known Palamedes for years. Served beside him. I don't want to believe this."
-- He pauses. Lets the silence work.
+- "I have known Palamedes for nine years. I do not want to believe this."
 - "But the evidence is here. The gold was in his tent. The letter bears Priam's seal."
-- Another pause.
-- "Palamedes is clever. Clever enough to do exactly this—to treat with the enemy, to cover his tracks, to make us doubt even when the proof is before us."
-- He sits. The vote is called. It falls against Palamedes.
+- "Palamedes asks who benefits from his death. I ask: who benefits from his doubt? Who benefits if we look at proof and call it trickery?"
+- "Palamedes is clever. Clever enough to make us doubt even when the proof is before us."
+- The vote is called. It falls against Palamedes by seven.
 
 ### Scene 3: The Stones (Briseis POV)
-- A pit dug outside the camp.
+- A pit dug outside the camp, near the horse lines.
 - Briseis follows the crowd. No one stops her. No one sees her.
-- The bound man stands at the edge of the pit. He isn't fighting.
-- The army rings the pit, stones in their hands.
-- The bound man looks across the crowd. Finds someone. Holds the gaze.
-- He says something. Briseis can't hear it from where she stands.
+- The pit is not deep—perhaps to a man's waist.
+- Soldiers picking up stones from the mound. Testing their weight.
+- Palamedes at the pit's lip. His face calm.
+- His eyes find someone across the crowd. Held.
+- His lips move: "You know what you are."
 - The first stone hits his shoulder. He stumbles.
-- The stones keep coming. The sound of them hitting flesh.
-- Briseis watches. She has seen death before—her city, her brothers, her husband. But this is different. This is ritual. This is Greeks killing their own.
-- When it's over, the thing in the pit is not recognizable.
-- The crowd disperses. Briseis stays a moment, looking at what they've done.
-- She thinks: They can do this to their own. They can do anything.
+- The sounds: steady, rhythmic, like rain on a roof. And under it, the sounds of impact.
+- He's on his knees. Blood running into his eyes.
+- The sounds stop.
+- The crowd disperses. Briseis stays a moment longer, watching the flies gather.
+- They can do this to their own, she thinks. They can do anything.
+- She walks back to Achilles's tent.
+- She can't picture Mynes's face anymore. But she can picture Achilles. Every line of him.
+- She goes to fetch water from the cistern.
+- She doesn't look back.
 
 ---
 
 ### Scene 4: The Healing House (Helen POV)
-- Troy. The healing house that was once a temple.
-- Helen holds a soldier down while the healer cuts. No anesthetic. Just hands and force.
-- The soldier screams. Thrashes. She leans her weight on his shoulders.
-- The healer works quickly. Removes something—an arrowhead, a shard of bone. Blood everywhere.
-- The soldier passes out. The healer moves to the next patient.
-- Helen washes her hands in a basin. The water turns red.
-- A young woman—one of the Trojan healers—watches her.
-- "You're good at this," the woman says.
+- The healing house had been a temple once.
+- Columns at the entrance. Faded paint on the walls—Asclepius with his snake-wound staff.
+- The altar moved to make room for pallets. The smell of incense replaced by blood and wound-wash.
+- Helen holds a soldier down while the healer works.
+- He's young, barely more than a boy. Downy cheeks. Eyes rolling white.
+- The healer's bronze knife moves. Something grates against metal.
+- "There." An arrowhead, dark with blood. It clinks into a bowl with others—the day's harvest.
+- The soldier passes out. "Next."
+- Helen washes her hands. The water is warm, rust-colored.
+- One of the Trojan healers, a young woman with tired eyes: "You're good at this. You have steady hands."
 - "I've had practice."
 - "It doesn't make up for anything."
-- Helen looks at her. "I know."
+- Helen holds the gaze. "I know."
 - The woman nods. Returns to work. Not forgiveness—but something. Acknowledgment.
-- Helen moves to the next patient. Another wound. Another scream. Another day.
+- Another soldier carried in. Arrow wound in the shoulder, fletching bright with blood.
+- Helen moves to hold him down.
 
 ---
 
 ### Scene 5: The Helmet (Hector POV)
-- Dusk. Hector returns from a skirmish—nothing major, a probing attack on the Greek lines.
-- His armor is bloody. Some of it his. Most of it not.
-- Andromache meets him in the courtyard. Astyanax in her arms.
-- The boy sees his father. Starts to smile. Then sees the helmet—the bronze face, the horsehair crest.
-- Astyanax screams. Turns away, burying his face in Andromache's shoulder.
-- Hector stops. The boy's screams echo off the stone walls.
-- Andromache's face. She doesn't say anything. She doesn't have to.
-- Hector removes the helmet. Sets it on the ground. Holds out his hands.
-- "It's me," he says. "Just me."
+- The sunset paints the walls of Troy the color of old blood.
+- Hector crosses the courtyard. Eight men dead. Twelve wounded. A handful of Greeks killed in return.
+- His armor heavy. The bronze cuirass with its charging lion. Greaves strapped tight. Arm guards that saved him from a spear-thrust three hours ago—the Greek's point left a bright scar in the patina.
+- The blood on the armor still wet. Some his. Most not.
+- Andromache at the entrance to their chambers. Astyanax in her arms, drowsy.
+- The boy's face shifts—about to smile—then he sees the helmet.
+- The bronze face. The horsehair crest. The empty eye-slits.
+- Astyanax screams.
+- The sound echoes off the stone walls. The scream of a child who sees a stranger where his father should be.
+- Andromache's eyes stay on Hector. She doesn't speak.
+- He unbuckles the chin strap. Lifts the helmet. Sets it on the ground.
+- "It's me. Just me."
 - The boy peeks. Sees his father's face. Reaches for him.
-- Hector takes his son. Holds him close. The boy's small hands grip his bloody cloak.
-- "Don't go back out," Andromache says. "Not tonight."
+- Hector takes his son. The small hands grip his cloak, stiff with dried blood.
+- "Don't go back out. Not tonight."
 - "I have to."
 - "I know."
-- He looks at his son. At his wife. At the helmet on the ground, the bronze face staring up at nothing.
+- He looks at her. At the shadows under her eyes. At the grey threading through her dark hair.
 - "One more patrol. Then I'll come home."
-- He hands Astyanax back to Andromache. Picks up the helmet. Walks back toward the walls.
-- Behind him, his son starts crying again.
+- He hands Astyanax back. "Hector." He stops. "Come home."
+- He picks up the helmet. Settles it on his head. The bronze closes around his face.
+- "I always do."
+- He walks toward the walls. Behind him, his son starts crying again.
 
 ---
 
 ### Scene 6: Clean Water (Odysseus POV)
-- Night. Odysseus's tent.
-- A basin of water. He washes his hands.
-- He watches the water. Half expects it to turn red.
-- It doesn't. Clear as spring rain.
-- His hands are clean. They've always been clean. He barely touched the stones.
-- The execution was legal. Justified. Palamedes was a traitor.
-- The army believes it. The kings believe it. In a month, no one will remember the details.
-- He dries his hands.
-- Thinks of home. Penelope at her loom. Telemachus—eleven now? Twelve? He's lost count.
-- He lies down. Closes his eyes.
-- The face of Palamedes does not appear.
-- He sleeps well. He hadn't expected to.
+- The basin is bronze, old and dented, a veteran of ten years' campaigns.
+- Odysseus pours water and watches it fill the bowl. Clear water, cool from the cistern.
+- Nine years ago. Telemachus had been an infant. He would be—what now? Ten? Eleven?
+- He puts his hands in the water.
+- He had half expected it to turn red.
+- It doesn't. The water stays clear.
+- He threw a stone—it was important to be seen—but he threw it at the pit's edge.
+- The killing was done by other hands. His own are clean.
+- He dries them on rough soldier's linen.
+- He thinks of Penelope. Her fingers in the warp and weft. The click of the heddles. Old songs about heroes and homecomings.
+- The trial was just. The evidence was clear. In a month, no one will remember the details.
+- He lies down.
+- He thinks of home. The olive tree that grew through the center of his bedchamber. The harbor where his ships had rested.
+- He closes his eyes.
+- He waits for Palamedes's face to appear. For the voice: "You know what you are."
+- Nothing comes.
+- The darkness behind his eyes is empty.
+- The lamp gutters.
+- Odysseus sleeps. Deeply. Dreamlessly.
+- He sleeps well.
+- He had not expected to.
 
 ## Key Moments
-- Palamedes's defense: "Ask yourselves who benefits from my death"
-- Odysseus's counter: "Clever enough to do exactly this"
-- Briseis watching the stoning, invisible at the edge of the crowd
+- Briseis watching from the edge, invisible
+- Palamedes: "Ask yourselves who benefits from my death"
+- Odysseus: "Who benefits from his doubt?"
+- "You know what you are"
+- The flies gathering
 - "They can do this to their own. They can do anything."
-- Helen holding down a screaming soldier, the water turning red
+- Helen holding down a screaming soldier. "It doesn't make up for anything." "I know."
 - Astyanax screaming at his father's helmet
-- The water running clear in Odysseus's basin
+- "Come home." "I always do."
+- The water running clear
+- "He sleeps well. He hadn't expected to."
 
 ## Thematic Threads
-- **Parallel violence**: The stoning in the Greek camp, the surgery in Troy, the skirmish at the walls. Violence everywhere, in different forms.
-- **Women watching**: Briseis witnesses the execution, Helen participates in surgery, Andromache watches her husband leave. All trapped, all adapting.
+- **Parallel violence**: The stoning, the surgery, the skirmish. Violence everywhere, in different forms.
+- **Women watching**: Briseis witnesses the execution, Helen participates in surgery, Andromache watches her husband leave.
 - **Clean hands**: Odysseus's hands are clean. Helen's hands are red. Both have blood on them. One admits it.
-- **Fathers and sons**: Astyanax doesn't recognize his father. The helmet makes Hector a monster. What is this war doing to them?
+- **Fathers and sons**: Astyanax doesn't recognize his father. The helmet makes Hector a monster.
+- **Briseis's fading memory**: She can't picture Mynes. She can picture Achilles.
 
 ## Chapter End
-Odysseus sleeps well in his tent, the basin of clear water beside him. Across the sea, in Troy, Helen lies awake listening to the sounds of the wounded in the healing house below. In the palace, Hector lies beside Andromache, his son finally asleep between them, and stares at the ceiling until dawn.
-
-Three people. Three silences. The war continues.
+Odysseus sleeps well, the basin of clear water beside him. Across the sea, Helen lies awake listening to the wounded. Hector lies beside Andromache, staring at the ceiling until dawn. Three people. Three silences. The war continues.
