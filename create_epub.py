@@ -9,6 +9,7 @@ Usage:
     python create_epub.py
 """
 
+import os
 import re
 from pathlib import Path
 

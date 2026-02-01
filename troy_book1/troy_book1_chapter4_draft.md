@@ -7,6 +7,8 @@
 
 ---
 
+## AGAMEMNON
+
 The lamp had burned low, the oil nearly gone.
 
 Agamemnon sat at his table, his hands flat on the wood, his eyes on nothing. Outside, the camp was quiet—the restless quiet of men who had waited too long, who were beginning to wonder if the waiting would ever end.
@@ -61,6 +63,8 @@ The lamp went out. Agamemnon sat in the darkness until dawn.
 
 ---
 
+## ODYSSEUS
+
 Odysseus noticed the change at breakfast.
 
 Agamemnon emerged from his tent looking rested, purposeful. He spoke with his captains, reviewed supply manifests, gave orders with the crisp efficiency of a man who had solved a difficult problem.
@@ -80,6 +84,8 @@ South. Toward Mycenae. Toward Clytemnestra and the children.
 Odysseus watched until the rider disappeared around the headland. Then he went back to his tent and tried very hard not to think about what message that rider might be carrying.
 
 ---
+
+## ACHILLES
 
 The beach at Aulis was grey in the pre-dawn light.
 
@@ -142,6 +148,8 @@ Achilles smiled. A real smile, this time.
 "I'm the best friend. Now pick up your sword before I change my mind."
 
 ---
+
+## ODYSSEUS
 
 The rider returned three days later. He went straight to Agamemnon's tent, didn't emerge for an hour.
 
@@ -212,6 +220,8 @@ The sun beat down on the beach. The sails hung limp. The harbor was still as gla
 Odysseus walked back to his camp and said nothing to anyone.
 
 ---
+
+## ACHILLES
 
 The ship arrived on the fifth day.
 
@@ -411,6 +421,8 @@ Achilles walked away.
 
 ---
 
+## AGAMEMNON
+
 That night, Agamemnon went to his wife.
 
 She was quartered in a smaller tent near his own, with Iphigenia in an adjoining chamber. When he entered, Clytemnestra was sitting by a lamp, still in her traveling clothes, her face unreadable.
@@ -505,6 +517,8 @@ Waiting.
 
 ---
 
+## ACHILLES
+
 The Myrmidon camp was quiet.
 
 Achilles sat outside his tent, staring at the stars. Patroclus sat beside him, their shoulders almost touching.
@@ -564,6 +578,8 @@ They sat together until dawn, not speaking, not sleeping.
 Waiting for the thing that couldn't be stopped.
 
 ---
+
+## ODYSSEUS
 
 The altar had been built on a cliff overlooking the sea.
 
@@ -625,6 +641,8 @@ He heard silence.
 
 ---
 
+## CASSANDRA
+
 Across the sea, in her tower in Troy, Cassandra jerked awake.
 
 The vision slammed into her without warning—not the slow building she was used to, but a sudden, violent intrusion. She saw the cliff. The altar. The girl in white, her dark hair spread across the stone, her eyes wide above the gag.
@@ -646,6 +664,8 @@ She stayed on the floor of her chamber as the vision faded, as the distant screa
 Cassandra pulled her knees to her chest and did not sleep again that night.
 
 ---
+
+## ODYSSEUS
 
 Then—
 
@@ -673,6 +693,8 @@ Odysseus turned away from the altar and walked back to his ship.
 
 ---
 
+## AGAMEMNON
+
 Agamemnon washed his hands in a basin.
 
 The water turned red, then pink, then clear. He watched it swirl down the drain, watched the last traces of his daughter disappear.
@@ -696,6 +718,8 @@ He thought about glory.
 He walked out of his tent and began giving orders.
 
 ---
+
+## ACHILLES
 
 The Myrmidons were breaking camp.
 
@@ -748,6 +772,8 @@ He looked forward. Toward the horizon. Toward Troy.
 The ship pulled away from the beach. The fleet began to move.
 
 ---
+
+## ODYSSEUS
 
 Odysseus stood at the prow of his vessel, watching Aulis shrink behind them.
 

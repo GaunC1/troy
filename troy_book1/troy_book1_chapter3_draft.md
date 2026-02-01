@@ -7,6 +7,8 @@
 
 ---
 
+## ODYSSEUS
+
 The stone wall had stood for sixty years, and it would stand for sixty more if the mortar was mixed right.
 
 Odysseus worked the trowel, scraping excess from the joints, checking the line by eye. His hands were rough with lime, his tunic stained with sweat. Beside him, old Eurylochus held the stones steady while Odysseus set them.
@@ -50,6 +52,8 @@ Odysseus set down his trowel. Wiped his hands on his tunic. Looked at Penelope f
 Then he walked toward the harbor, and he didn't look back.
 
 ---
+
+## AGAMEMNON
 
 "She was stolen. By a prince of Troy."
 
@@ -105,6 +109,8 @@ Her eyes were not.
 
 ---
 
+## CASSANDRA
+
 Cassandra woke gasping, clutching at sheets that weren't there.
 
 Not a vision of Troy this time. Something else. Distant places, distant faces. Roads stretching across the Greek mainland, riders carrying messages. Harbors filling with ships. Men sharpening swords.
@@ -120,6 +126,8 @@ But something had shifted.
 The night didn't answer. It never did.
 
 ---
+
+## ODYSSEUS
 
 The messengers stood in a formal line, their Mycenaean armor polished, their faces carefully blank.
 
@@ -179,6 +187,8 @@ Palamedes smiled.
 
 ---
 
+## CASSANDRA
+
 Cassandra pressed her palms against the cool stone of her window and let the vision take her.
 
 A beach. Not Troy's beach—somewhere rockier, greyer. A man walked behind a plow, cutting furrows in the wet sand. He'd yoked a donkey and an ox together, mismatched, absurd. He was scattering something from a bag at his hip.
@@ -198,6 +208,8 @@ The vision fractured, broke apart. Cassandra gasped, her hands slipping on the s
 She didn't understand what she'd seen. But she stayed at the window until dawn, watching the sea.
 
 ---
+
+## AGAMEMNON
 
 Agamemnon sat alone in his private chamber, a map of the Aegean spread before him.
 
@@ -240,6 +252,8 @@ Agamemnon sat in the darkness for a long time, thinking about Troy.
 Thinking about wind, and ships, and the things men did to get what they wanted.
 
 ---
+
+## ODYSSEUS
 
 The beach was grey in the morning light.
 
@@ -353,6 +367,8 @@ Penelope held their son and said nothing.
 
 ---
 
+## CASSANDRA
+
 The throne room was cold despite the braziers.
 
 Cassandra stood before her father, her hands clasped to keep them from shaking. Priam sat on his throne, looking old and tired—his white beard unkempt, his spotted hands gripping the armrests, his shoulders curved forward as if the weight of the crown had finally become too heavy to bear. Beside him, Paris stood with his arm around Helen, still playing the young lovers, still pretending they hadn't doomed everyone in the room.
@@ -459,6 +475,8 @@ But she would not beg anymore.
 
 ---
 
+## AGAMEMNON
+
 Aulis was chaos.
 
 Ships crowded the harbor, packed so tightly that a man could walk from one end to the other stepping only on decks. Tents covered the hills above the beach, thousands of them. The air smelled of smoke and sweat and horses.
@@ -492,6 +510,8 @@ Agamemnon nodded.
 The aide hurried away. Agamemnon stayed on the rise, watching his army prepare for war.
 
 ---
+
+## ODYSSEUS
 
 Odysseus found his camp on the north shore, as far from the main encampment as he could manage. His Ithacans were already setting up tents, digging latrines, establishing the routines of military life.
 
@@ -535,6 +555,8 @@ Odysseus watched him go. His face was blank. His eyes were not.
 
 ---
 
+## AGAMEMNON
+
 The council tent was vast, large enough to hold a hundred men and their attendants. The kings of Greece filled it—some seated, some standing, all armed, all watching each other with the careful wariness of wolves sharing a kill.
 
 Agamemnon took the central position. He wore no crown, carried no scepter. He didn't need to. Every eye was already on him.
@@ -566,6 +588,8 @@ This man would do anything to win this war. Anything at all.
 It was not a comforting thought.
 
 ---
+
+## ODYSSEUS
 
 The wind died three days later.
 

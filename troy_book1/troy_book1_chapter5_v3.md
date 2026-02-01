@@ -7,6 +7,8 @@
 
 ---
 
+## HECTOR
+
 Hector had been on the walls since before the light came.
 
 He couldn't sleep. Hadn't been able to for days, not properly. So he came here instead, to the eastern battlement where he could watch the horizon and pretend he was doing something useful.
@@ -91,6 +93,8 @@ Now he would find out if it was enough.
 
 ---
 
+## AGAMEMNON
+
 On the flagship, Agamemnon stood at the head of the table.
 
 The map was rough—coastline, walls, the beach where they would land. Wooden markers represented the contingents: Ajax, Diomedes, Odysseus, the Myrmidons.
@@ -108,6 +112,8 @@ His voice was flat. Everyone knew Achilles would do what Achilles did, orders or
 The kings filed out. Agamemnon stayed at the table, studying the map, the markers, the walls he would break or die trying.
 
 ---
+
+## ACHILLES
 
 Achilles stood at the prow, watching the coastline sharpen into focus.
 
@@ -169,6 +175,8 @@ There was work to do.
 
 ---
 
+## HECTOR
+
 "Hold the line! Archers, concentrate on the landing zones!"
 
 Hector's voice cut through the chaos of the beach. Arrows darkened the sky, falling among the Greeks splashing through the surf. Men screamed, fell, were trampled by the men behind them.
@@ -206,6 +214,8 @@ A circle had formed in the midst of the fighting. Trojans on one side, shields r
 A single Greek warrior.
 
 ---
+
+## PARIS
 
 Paris saw the boy before the boy saw him.
 
@@ -250,6 +260,8 @@ The chariot lurched forward. Paris grabbed the rail, held on, watched the battle
 The thought wouldn't complete itself. His hands wouldn't stop shaking.
 
 ---
+
+## HECTOR
 
 Hector was back at the center of the line when he saw him clearly.
 
@@ -355,6 +367,8 @@ Polydamas hesitated. "My lord, maybe it would be better to—"
 
 ---
 
+## PARIS
+
 Paris was in his chambers, sitting on the edge of his bed, still in his armor.
 
 He hadn't moved since the servants brought him back from the gates. Helen had come, had asked if he was hurt, had tried to help him remove the breastplate. He'd pushed her away. Gently, but away.
@@ -449,6 +463,8 @@ Paris stood alone in his chambers, his spotless armor still strapped to his ches
 
 ---
 
+## ACHILLES
+
 The Myrmidon camp was at the north end of the beach, away from the main Greek force.
 
 Achilles sat on a rock, cleaning his spear by torchlight. The blood came off easily if you got to it before it dried. He'd learned that years ago.
@@ -535,6 +551,8 @@ Achilles pulled the spear from the sand, held it up to the torchlight. The bronz
 
 ---
 
+## PRIAM
+
 The war council met at dawn on the second day.
 
 The generals argued. Some wanted sorties—quick strikes to disrupt the Greek camp. Others urged patience—let the walls do the work. Voices rose, fell, tangled together.
@@ -575,6 +593,8 @@ The generals resumed their debate. Within minutes, no one mentioned Tenedos.
 
 ---
 
+## PARIS
+
 The challenge came on the third day.
 
 A Greek herald, alone, walking across the no-man's-land between the camps with a staff of truce. The Trojans watched him come, arrows nocked but not drawn.
@@ -585,9 +605,11 @@ He stopped before the gates and spoke in a voice trained to carry:
 
 The words echoed off the walls. Above, on the battlements, faces appeared—soldiers, servants, anyone who could find a vantage point.
 
-In the great hall, the council was already arguing.
+The great hall was cold despite the braziers. Morning light fell through the high windows in pale shafts, catching the dust that rose from the stone floor. The council had been arguing for an hour.
 
-"It's a trap," someone was saying when Paris arrived. "Menelaus was one of the finest warriors in Greece. He trained under—"
+Paris stood near the back, by a column, where no one had to look at him.
+
+"It's a trap," someone was saying. "Menelaus was one of the finest warriors in Greece. He trained under—"
 
 "We should refuse," another voice cut in. "Why risk—"
 
@@ -597,79 +619,63 @@ In the great hall, the council was already arguing.
 
 "ENOUGH."
 
-Priam's voice silenced the room. The old king sat on his throne, his face drawn, his eyes moving from speaker to speaker.
+Priam's voice silenced the room. The old king sat on his throne, a wool blanket across his knees despite the braziers. His spotted hands gripped the armrests.
 
-"We know the risks. We know the stakes. What we need is a decision." His gaze settled on Hector. "What do you recommend?"
+"We know the risks. We know the stakes. What we need is a decision." His gaze found Hector near the wall. "What do you recommend?"
 
-Hector stood near the wall, arms crossed, face unreadable. "Menelaus is dangerous. Skilled, experienced, motivated by genuine rage." He paused. "Paris will lose."
+Hector stood with his arms crossed, his jaw tight. He was looking at the floor. "Menelaus is dangerous. Skilled, experienced, motivated by rage." A long pause. "But Paris is fast. And he's motivated too."
 
-Paris felt every eye in the room turn toward him.
+Somewhere in the back, someone shifted their weight. A captain near the door cleared his throat.
 
-"So we refuse," Priam said.
+"One fight could end this. The terms are fair."
 
-"If we refuse, every death in this war becomes Paris's fault. In the eyes of the Greeks, in the eyes of our own people." Hector shook his head. "That's a weight that will grow heavier every day."
+"So we accept," Priam said. He slowly turned to look at Paris, squinting. "Paris. Come forward."
 
-"So what do you suggest?"
+The council parted around him. His sandals dragged loudly on the stone. General Antenor scratched at his beard, eyes on the window.  A servant by the door rearranged cups on a tray, turning each one slightly, then turning it back.
 
-"I don't know. There's no good option." Hector finally looked at Paris. "There's only the option Paris is willing to live with."
+Paris stopped before the throne.
 
-Silence.
+"You understand what you're agreeing to?" Priam asked. "Single combat. If you lose, Helen goes back. The gold goes back. The war ends."
 
-Paris stepped forward. The council parted around him.
-
-"I'll do it."
-
-His father's eyes narrowed. "You understand what you're agreeing to?"
-
-"Single combat. If I lose, Helen goes back. The gold goes back. The war ends."
-
-"And you'll probably die."
-
-"Yes."
+"I understand."
 
 "Can you beat him?"
 
 Paris thought about the beach. The Greek boy with the trembling sword. His own frozen limbs.
 
-"No."
+"He's angry," Paris said. "Angry men make mistakes." He kept his voice steady. "And I'm faster than I look."
 
-The word hung in the air. Hector's expression flickered.
+Priam nodded slowly. Behind Paris, a chair scraped against stone. Someone coughed.
 
-"Then why?" Priam asked.
+"This could end the war," Paris said. "One fight. If I win, we have peace."
 
-"Because I started this." Paris kept his voice steady. "Because six hundred men are dead, and more will die tomorrow, and more the day after that. Because if there's any chance—any chance at all—that I can end this, I have to take it."
+"Yes." Priam's voice was warm. "If you win, we have peace."
 
-"Even if it means your death?"
+"I started this. Let me finish it."
 
-"Especially then."
+Priam studied him. Then he rose from the throne—slowly, his knees stiff—and descended the steps. The council watched in silence.
 
-Priam studied him for a long moment. His spotted hands trembled slightly where they gripped the throne—the same hands that had, twenty-three years ago, placed an infant on a mountainside to die. The same hands that had, years later, embraced that infant grown to manhood when he returned to Troy. And now those hands would send him to his death again.
+He stopped before Paris and put his hands on his son's shoulders. Up close, Paris could see the lines around his father's eyes, the grey in his beard. Priam's fingers pressed into the muscle, firm and steady.
 
-The council hall was silent—everyone watching the old king and the young prince, waiting.
+"My son," Priam said, loud enough for the room to hear. "Champion of Troy."
 
-"Come here," Priam said.
+Paris's throat tightened. He nodded.
 
-Paris approached the throne. Up close, he could see how much his father had aged since the fleet arrived. The lines around his eyes, the grey in his beard, the weight that seemed to press down on his shoulders.
+Priam pulled him into an embrace. His arms wrapped around Paris, held him close. Paris could feel his father's heart beating against his chest.
 
-"I exposed you on a mountain," Priam said quietly, so only Paris could hear. "When you were born. The seers said you would destroy us, and I chose my city over my son." His voice cracked. "And now here you are. Offering to die for us. After everything I did."
+"I'm proud of you," Priam whispered, so only Paris could hear.
 
-"Father—"
+When they parted, Priam's eyes were bright. He blinked twice, quickly, and turned back to the council.
 
-"I don't know if I'm proud of you or ashamed of myself." Priam's hand found Paris's shoulder, gripped it. "Both, maybe. Both at once."
+"Send word to the Greeks. Tomorrow at dawn. Single combat." He sat back on the throne, pulling the blanket over his knees. "My son will end this war."
 
-Paris didn't know what to say. He'd spent years wondering if his father regretted saving him, regretted letting him come home. Now he had his answer, and it wasn't what he'd expected.
-
-"I'm sorry," Paris said. "For all of it. For Helen. For the war. For making the prophecy come true."
-
-"The prophecy isn't finished yet." Priam's grip tightened. "Maybe this is how it ends. Maybe you die tomorrow, and the war ends, and Troy survives. Maybe the seers were wrong, or maybe they were right in a way we didn't understand."
-
-"Or maybe I'm just a man who made a choice and has to live with it."
-
-"Yes." Priam released him, leaned back. His voice rose, carrying to the council. "Send word to the Greeks. Tomorrow at dawn. Single combat."
+The council murmured approval. Hector nodded once, then glanced at Paris. A servant appeared at Paris's elbow with wine. He took it. His hands were steady.
 
 ---
 
-The night before the duel, Helen found Paris on the walls.
+## HELEN
+
+Helen found Paris on the walls.
 
 He was looking at the Greek camp, at the fires spread across the beach like fallen stars. He didn't turn when she approached.
 
@@ -701,7 +707,7 @@ Helen stepped closer. Put her hand on his chest, over his heart.
 
 "I don't want you to die for me. I don't want anyone to die for me."
 
-"I know that too." He covered her hand with his. "But I'm not dying for you. I'm dying because of me. Because I made a choice, and choices have consequences, and this is mine."
+"I know." He covered her hand with his. "But I'm not doing this for you. I'm doing it because I started this. And tomorrow I'm going to finish it."
 
 They stood together in the darkness, her hand on his heart, his hand on hers.
 
@@ -710,6 +716,32 @@ Below, the Greek fires burned.
 Tomorrow, one way or another, this would be over.
 
 ---
+
+Later, in the dark, she reached for him.
+
+Not speaking. Not needing to. His hands learning her, her breath catching at each discovery. They'd had so little time—a few months, a stolen voyage, a war already at the gates. And still this. The heat, the urgency, the way the world narrowed to skin and breath and nothing else.
+
+After, she lay with her head on his chest, listening to his heartbeat slow.
+
+"Stay," she whispered. "Don't go down there tomorrow. We'll slip out tonight—take a ship to Egypt, to—"
+
+"Helen."
+
+"I know." Her voice broke. "I know you have to. I just—"
+
+He pulled her closer. His hand moved through her hair, slow and steady.
+
+"After," he said. "When this is done. We'll have the rest of our lives."
+
+She pressed her face against his throat and breathed him in. She didn't say what she was thinking: that there might not be an after. That tomorrow she might watch him die, and then the ships would come for her, and Menelaus would be waiting.
+
+She didn't know what frightened her more—losing Paris, or finding out what she'd feel when she saw her husband's face again.
+
+She held him tighter instead.
+
+---
+
+## HELEN
 
 Helen stood on the walls with the other women of the court.
 
@@ -726,6 +758,8 @@ Below, on the plain, the armies were forming. The circle of white stones. The ki
 Helen watched. She did not blink. She did not look away.
 
 ---
+
+## PARIS
 
 The field was marked with white stones: a circle, twenty paces across.
 
@@ -813,6 +847,8 @@ He didn't understand how, but he was alive.
 
 ---
 
+## HECTOR
+
 "Who gave the order?"
 
 Hector's voice was cold. He stood in the gatehouse, surrounded by captains, his hands clenched at his sides.
@@ -831,7 +867,7 @@ Hector turned to another captain. "You. Did you see who blew the horns?"
 
 "No, my lord."
 
-"Someone gave that order." Hector looked at each of them in turn. "Someone decided to save Paris and throw the truce away. I want to know who."
+"Someone gave that order." Hector looked at each of them in turn.
 
 Silence. The captains looked at each other, at the floor, at anywhere except Hector's face.
 
@@ -853,13 +889,11 @@ Hector turned away. Walked to the window. Below, in the courtyard, Paris was bei
 
 The captains filed out. Hector stood at the window, watching his brother being led toward the palace.
 
-*Someone* had given that order. Someone had decided that Paris's life was worth breaking the truce, worth prolonging the war, worth all the deaths that would follow.
-
-And Paris was alive. His brother was alive.
-
-He would probably never know who gave that order. Part of him didn't want to know.
+He would probably never know who gave that order.
 
 ---
+
+## ACHILLES
 
 The Greek camp was in chaos.
 
@@ -906,6 +940,8 @@ Achilles didn't answer. They walked in silence toward the Myrmidon camp.
 "My glory continues too." Achilles smiled, but there was no warmth in it. "Hector is still alive. The walls are still standing. There's still work to do."
 
 ---
+
+## PARIS
 
 Night fell over Troy.
 
@@ -959,7 +995,7 @@ He left.
 
 Later, when the palace slept, Paris found a courtyard.
 
-Not the main one—a smaller space near the stables, where no one came at night. He'd brought his bow. The one thing he was good at, the one skill that had never mattered in a war of spears and swords.
+A smaller courtyard near the stables, where no one came at night. He'd brought his bow. The one thing he was good at, the one skill that had never mattered in a war of spears and swords.
 
 He set a torch at the far end. Forty paces. Then he walked back, nocked an arrow, and drew.
 
@@ -977,6 +1013,8 @@ Paris didn't come back until dawn.
 
 ---
 
+## HECTOR
+
 The walls were quiet.
 
 Hector walked alone, past the watchfires, past the guards who nodded and said nothing. He didn't want to sleep—couldn't sleep—so he walked.
@@ -984,6 +1022,8 @@ Hector walked alone, past the watchfires, past the guards who nodded and said no
 He stopped at the eastern battlement, the place where he'd stood three days ago watching the fleet arrive. A lifetime ago.
 
 ---
+
+## CASSANDRA
 
 In her tower, Cassandra felt it.
 

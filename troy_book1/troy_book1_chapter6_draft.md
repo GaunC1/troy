@@ -7,6 +7,8 @@
 
 ---
 
+## ODYSSEUS
+
 The argument had been going on for an hour.
 
 Odysseus sat at the back of the council tent, watching the kings shout at each other.
@@ -163,47 +165,35 @@ Odysseus walked back toward the main camp, the sun beating down on his shoulders
 
 ---
 
-Helen woke to Paris's hands on her body.
+## HELEN
 
-He was still half-asleep, his movements automatic, familiar. His fingers traced the curve of her hip, her waist, found the places that made her breath catch. After five years, he knew her body as well as he knew his own.
+Helen woke before Paris did.
 
-"Again?" Her voice was rough with sleep.
+She lay still, watching him sleep. His face was softer in the grey light—younger, almost peaceful. His hand rested on her hip, warm and familiar.
 
-"Complaining?" His mouth found her throat. She could feel him smiling against her skin.
+Five years. Five years of this room, this bed, this man. Five years of the world shrinking to the space between these walls.
 
-"Never."
+She slid out from under his hand. He stirred, reached for her.
 
-She turned toward him. The grey pre-dawn light filtered through the curtains, enough to see the planes of his face—softer in sleep, younger.
+"Stay."
 
-She pulled him closer. Found his mouth with hers.
+"I can't."
 
-After, they lay tangled together, her head on his chest, his hand tracing patterns on her back.
+"The healing house can survive—"
 
-"Stay," he murmured. "All day. We'll have food brought up. We won't leave this room."
+"I know." She was already dressing, her movements quick and practiced. "I'll be back tonight."
 
-"I can't. The healing house—"
+He watched her from the bed. She could feel his eyes on her back, feel the question he didn't ask anymore.
 
-"The healing house can survive without you for one day."
+At the door, she paused. Looked back.
 
-"Can it?" She traced a finger along his collarbone. "Three men came in yesterday with infected wounds. Two more with camp fever. The healers are overwhelmed."
+He was still watching. That same look he'd had for months now—patient, waiting, slightly puzzled. As if he couldn't quite understand why she kept leaving.
 
-"Then let them be overwhelmed. You've done enough."
-
-She sat up, and something in her face made him stop.
-
-"I haven't done anything," she said. "Not anything that matters. Every bandage I change, every fever I tend—it doesn't bring back a single person who died because of me."
-
-"Helen—"
-
-"I'm not looking for absolution. I know there isn't any." She slid out of bed, began gathering her clothes. "But I can't just stay in this room and pretend the world outside doesn't exist. I tried that. It doesn't work."
-
-Paris watched her dress.
+She didn't know how to explain it. The need to be somewhere, do something, feel something other than the weight of these walls.
 
 "Tonight," she said.
 
-"Tonight." He smiled, but there was something sad in it now. Something that hadn't been there in the beginning. "I'll be here. I'm always here."
-
-She leaned down, kissed him quickly. Then she left, stepping out of their private world and into the city that hated her.
+He nodded. She left.
 
 ---
 
@@ -251,37 +241,27 @@ Footsteps. She looked up.
 
 A woman, older, well-dressed. One of the noble families who had lost sons in the fighting. Helen recognized her but didn't know her name.
 
-"The healers say you're useful," the woman said. No greeting, no preamble. "They say you work hard. That you don't complain."
+"The healers say you're useful," the woman said. "They say you work hard. That you don't complain."
 
-"I try."
-
-"Why?"
-
-"Because I have to do something. Because sitting in my chambers waiting to be hated isn't enough."
-
-The woman studied her. "It doesn't make up for anything. You know that."
-
-"I know."
+Helen waited.
 
 "All the bandages in the world won't bring back my son."
 
-"No. They won't."
+"No."
 
-"Then why bother?"
+The woman seemed to expect more. Helen had nothing more to give. She'd said the words so many times they'd worn smooth, meaningless.
 
-Helen looked at her hands. Rough now, callused, stained with other people's blood.
+"My daughter works here," the woman said finally. "She says you're kind to the soldiers."
 
-"Because it's something," she said. "Because I can't do nothing. Because—" She stopped, tried again. "Because if I'm going to be here, I should be useful. It doesn't make up for anything. But it's what I can do."
+"I try."
 
-The woman was silent for a long moment. Then, grudgingly: "My daughter works here too. In the afternoons. She says you're kind to the soldiers."
+The woman studied her a moment longer. Whatever she was looking for, she didn't find it. She walked away.
 
-"I try to be."
-
-"That counts for something." The woman turned to go. "Not much. But something."
-
-She walked away. Helen stayed against the wall, watching the empty street.
+Helen stayed against the wall. Her hands were rough now, callused.
 
 ---
+
+## CASSANDRA
 
 The tower was hot and close, but Cassandra didn't seem to notice.
 
@@ -327,13 +307,15 @@ Cassandra's eyes drifted back to the window. Back to whatever she saw there.
 
 "The horse is getting closer," she whispered. "I can hear the teeth."
 
-Helen felt something cold move through her chest. "Cassandra—"
+"Cassandra—"
 
 But Cassandra was gone again, retreating into whatever place she went when the visions took her. Her hand was still holding the bread, but she'd forgotten it was there.
 
 Helen stayed until the sun went down. Then she kissed Cassandra's forehead, left the food on the table, and walked back through the darkening streets to the room where Paris was waiting.
 
 ---
+
+## ODYSSEUS
 
 The lamp guttered as Odysseus dipped his stylus.
 
@@ -383,7 +365,7 @@ They stood in silence. Below them, the waves lapped at the sand.
 
 "Yes. We could."
 
-"But you won't." It wasn't a question.
+"But you won't."
 
 Odysseus looked at him. The sharp face had grown sharper over five years—leaner, weathered, the boyish confidence hardened into something else. But the eyes were the same. The same eyes that had watched Odysseus swerve around his son on the beach at Ithaca.
 
@@ -408,6 +390,8 @@ Odysseus stayed at the corner of the fortifications, looking out at the sea. He 
 He resumed his circuit, checking the sentries, counting the hours until dawn.
 
 ---
+
+## HECTOR
 
 The horns woke Hector from a dream of peace.
 
@@ -443,6 +427,8 @@ Hector gripped the parapet, staring at the distant glow. The village was too far
 
 ---
 
+## PARIS
+
 Paris was on the walls when Hector found him.
 
 He had his bow. His fingers were on the string.
@@ -470,6 +456,8 @@ The crow dropped.
 A soldier nearby stared at him. Paris retrieved his arrow.
 
 ---
+
+## HECTOR
 
 They rode through the darkness, pushing the horses as hard as they dared.
 
@@ -615,6 +603,8 @@ She looked at Astyanax one last time. Then she went to find the servants. There 
 
 ---
 
+## ODYSSEUS
+
 The raiders returned at midday.
 
 Odysseus watched the ships come in, riding low in the water. Sacks of grain stacked on the decks. Goats bleating in makeshift pens.
@@ -659,6 +649,8 @@ Odysseus watched them go. Then he went to oversee the distribution of supplies.
 
 ---
 
+## HELEN
+
 Helen heard the news before she saw the wagons.
 
 Voices in the street, spreading the word: a village had been raided. The dead were being brought back for burial. Hundreds of them.
@@ -669,11 +661,7 @@ From the battlements, she could see the column approaching.
 
 The first wagon held the largest bodies. Men, she thought, though the shapes were wrong—limbs bent at angles that limbs shouldn't bend, torsos blackened and split where the fire had found them. Cloth covered most of them, but the cloth was soaked through with something dark, and flies had already found the gaps.
 
-The second wagon was smaller. The shapes underneath were smaller too.
-
 Behind the wagons, the survivors walked. A woman carried an infant that wasn't moving, pressed against her chest, her mouth opening and closing without sound. An old man limped on a leg that ended at the knee, the stump wrapped in someone's torn cloak. A boy—eight, maybe nine—walked alone, barefoot, his tunic stiff with dried blood.
-
-The smell reeked.
 
 At the head of the column, Hector. Carrying something.
 
@@ -681,89 +669,45 @@ A child.
 
 Helen watched him pass through the gates, watched the silent crowd part around him, watched him carry the dead girl into the palace.
 
-"This is your fault."
+Around her, the other watchers were weeping. Somewhere a woman wailed—a sound that would go on for hours, for days.
 
-She turned. The woman from the healing house—the one with the dead son—was standing nearby, her face twisted with grief and rage.
+Helen's eyes were dry.
 
-"You know that. All of it. Every person who dies. Every child. Every house that burns."
-
-"I know."
-
-"Then how do you live with it? How do you wake up every morning and breathe and eat and—" The woman's voice broke. "How do you do it?"
-
-Helen looked at the smoke on the horizon, the distant sea, the walls that kept her prisoner.
-
-"I don't know," she said.
-
-The woman walked away.
-
-Helen stayed on the walls until the smoke faded, watching the Greek camp, watching the sea, watching everything she'd caused.
+She stayed on the walls until the smoke faded, watching the Greek camp, watching the sea.
 
 ---
+
+## PARIS
 
 That night, Paris found Helen on the balcony.
 
-She was staring at the funeral pyres, her arms wrapped around herself. He stood in the doorway, watching her, knowing what she was thinking because he was thinking it too.
+She was watching the funeral pyres, her arms wrapped around herself. He stood in the doorway for a long moment before she spoke.
 
-"I watched the wagons come in," he said. "From the walls."
+"I saw Hector carry the girl in. She was maybe five."
 
-She didn't turn.
+Paris moved to stand beside her. The pyres cast orange light across the rooftops.
 
-Paris moved to stand beside her, looking at the same fires. "A village. Just a village. They were living their lives, and now—" He stopped. "Because of a choice I made five years ago."
+"I tried going to the healing house today," he said. "To help."
 
-"You can't know that. The Greeks—"
+She looked at him.
 
-"Helen."
+"A man spit at me." He shrugged. "I left."
 
-She stopped. He'd never said her name like that before.
+They watched the fires in silence. Once, he would have reached for her hand. Once, she would have leaned into him. Now they stood a foot apart, close enough to touch, not touching.
 
-She looked at him. Her eyes were red, but she wasn't crying. She'd stopped crying years ago.
+"I keep thinking about the bow," Paris said finally. "It's the one thing I'm good at. The one thing that might actually matter."
 
-"Why now?"
+"Then use it."
 
-"I don't know. Maybe because I can't hide from it anymore. Maybe because I've been hiding so long that the hiding itself has become another kind of cowardice." He laughed, but there was no humor in it. "You'd think almost dying would have taught me something. It didn't. I just... went back to pretending."
+"Hector won't let me near the walls."
 
-Her hand found his, squeezed.
+"Hector isn't always right."
 
-"I tried going to the healing house today," Paris said. "To help. The way you do."
-
-"What happened?"
-
-"A man spit at me. Called me the Greek whore's husband." He shrugged. "He wasn't wrong. About any of it."
-
-"Paris—"
-
-They stood in silence, watching the pyres burn.
-
-Later, in bed, he reached for her the way he always did—hands finding familiar places, mouth against her throat.
-
-After, lying in the darkness, she said:
-
-"A child died today. A little girl. She was holding a toy."
-
-Paris was quiet.
-
-"I saw them bring her in. Hector was carrying her. He looked—" She stopped. "I've never seen him look like that."
-
-"Helen—"
-
-"This is because of us. All of it. The village. The dead. That little girl."
-
-He didn't respond. His hand found hers in the dark. Held it.
-
-They lay there, not speaking, not sleeping. Outside, the funeral pyres were burning—Helen could smell the smoke through the window.
-
-Paris was quiet for a long moment. Then, softly: "I used to think loving you was the best thing I ever did. The bravest thing. Choosing you over everything else."
-
-"And now?"
-
-"Now I think it was the easiest thing. Easier than being wise. Easier than being good." He turned his head on the pillow, looked at her profile in the darkness.
-
-Helen didn't respond. There was nothing to say.
-
-They lay in the dark, listening to the city mourn.
+He reached for her, and brought her back inside. She let him. But when it was over, she turned away, and he lay staring at the ceiling, and neither of them slept.
 
 ---
+
+## HECTOR
 
 Hector found Andromache in their chambers.
 
@@ -817,27 +761,33 @@ He let her lead him to bed. Let her wrap her arms around him. Let himself, for a
 
 Outside, the funeral pyres burned down to embers.
 
-The siege continued.
-
 ---
+
+## ODYSSEUS
 
 Dawn found Odysseus at the water's edge.
 
-He stood with his feet in the surf, watching the sun rise over Troy. The walls were pale gold in the morning light. After five years, he knew every tower, every gate, every section of stone.
+He stood with his feet in the surf, watching the sun rise over Troy. The walls caught the light first—pale gold limestone, forty feet high, the joints fitted so tight a knife blade couldn't find purchase. He'd tried once, years ago. The blade had snapped.
 
-And still they stood.
+The Scaean Gate faced the sea, its bronze doors green with salt. Above it, the watchtowers rose another twenty feet, their crenellations sharp against the brightening sky. He counted the sentries by habit: four on the left tower, three on the right, two more pacing the section of wall between. The morning watch, just settled in. In an hour they'd grow bored, start talking, stop scanning the beach.
 
-But they'd made progress. Inch by inch, village by village, they'd tightened the noose. The outer defenses were gone now—raided, burned, abandoned. The Trojan allies were wavering, some switching sides, others simply refusing to send more supplies. The city was still strong, but it was weaker than it had been. Weaker than it would be next year, and the year after that.
+He'd learned every tower, every gate, every section of stone. The crack in the northwest corner that widened each spring when the rains came. The place where the foundation met bedrock and the wall sat a hand's width lower than everywhere else. The section above the Dardanian Gate where the limestone had been patched with sandstone—an old repair, before his time, but the colors didn't quite match.
 
-It would end. Everything ended.
+Beyond the walls, smoke still rose from yesterday's raid. The southern road was visible from here, winding through fields that had been green five years ago. Now they were black stubble and ash. The farmhouses were gone—not ruins, just absence. Flat places where buildings used to stand.
 
-A ship was rounding the headland—supply ship from Greece, finally. The men would eat full rations tonight. Tomorrow there would be another council, another argument, another crisis to manage. But that was tomorrow.
+Closer to the city, the ground was cratered and scarred. Siege trenches they'd dug and abandoned. Assault ramps they'd built and the Trojans had burned. The bones of a battering ram, stripped for timber, half-buried in sand.
 
-Today, the sun was rising, and he was still alive.
+A ship was rounding the headland. Supply ship from Euboea, by the sail—three weeks late, but here. He watched it tack toward the beach, riding low with cargo. Grain, probably. Maybe oil. The men would eat full rations tonight.
 
-He turned back toward the camp. There was work to do.
+The Greek camp spread behind him, larger than some cities now. Wooden barracks where tents used to stand. A forge, a tannery, three temples, a whorehouse. Roads worn into the sand, packed hard by five years of feet. A whole city built for the purpose of destroying another city.
+
+Odysseus looked back at the walls. Still standing. Still gold in the morning light.
+
+He turned toward the camp. There was work to do.
 
 ---
+
+## CASSANDRA
 
 From the walls of Troy, Cassandra watched.
 
