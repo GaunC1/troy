@@ -47,7 +47,7 @@ Epistrophus looked between them, bread still in his hand. "Should I—"
 
 "You know what I mean."
 
-Mynes went still—the quietness that was worse than shouting. "I know you're frightened. But we can't make decisions based on—"
+Mynes went still. "I know you're frightened. But we can't make decisions based on—"
 
 "On what? The fact that everyone who didn't run is dead?"
 
@@ -55,7 +55,7 @@ Silence. Epistrophus set down his bread.
 
 "I should go," he said.
 
-Briseis turned to look at him. Eighteen years old. Too thin. A wisp of beard he was proud of. She had carried him when he was a child.
+Briseis turned to look at him. Eighteen years old. Too thin. That wisp of beard he refused to shave.
 
 "You should eat something first," she said.
 
@@ -63,7 +63,7 @@ Briseis turned to look at him. Eighteen years old. Too thin. A wisp of beard he 
 
 He left. The door swung shut behind him.
 
-Briseis stood at the window. On the table behind her, the stone mortar sat half-full of unground herbs—a poultice for Theron's wife, the work abandoned when she woke before dawn.
+Briseis stood at the window. On the table, the stone mortar sat half-full of unground herbs.
 
 "I'll send the horses to your mother's village," Mynes said. "Tomorrow. Will that help?"
 
@@ -71,17 +71,15 @@ Briseis stood at the window. On the table behind her, the stone mortar sat half-
 
 He rose from the table, came around behind her, rested his hands on her shoulders. "We could try again tonight. The healer in Chryse—you were going to see her next week."
 
-The child they'd been trying for. Two years of hoping.
-
 "Maybe," she said.
 
 He kissed her forehead. "I have to go. The delegation from Adramyttium."
 
 "I know."
 
-He gathered his cloak and left. Briseis stood alone at the window. The morning's routine tasks stretched ahead.
+He gathered his cloak and left.
 
-She picked up the pestle and began to grind.
+Briseis picked up the pestle and began to grind.
 
 The horns sounded.
 
@@ -95,25 +93,25 @@ Then the screaming.
 
 Briseis ran.
 
-Through the courtyard, into the street. People were everywhere. Women with children, old men hobbling, a cart overturned, but the screaming came from the walls.
+Through the courtyard, into the street. Women with children, old men hobbling, a cart overturned. The screaming came from the walls.
 
 "The gates!" someone shouted. "They're at the gates!"
 
-She pushed through the crowd, fighting toward the main square. Mynes would have gone to the council hall. The delegation. He would be—
+She pushed through the crowd. Mynes would have gone to the council hall. The delegation. He would be—
 
-The smell hit her. Smoke. Copper. The reek of opened bodies.
+Smoke. Copper. The reek of opened bodies.
 
-She rounded the corner. The gates were open—not broken, open. The guards lay in pieces on the cobblestones. Greek soldiers poured through, fanning out through the streets.
+She rounded the corner. The gates were open—not broken, open. The guards lay in pieces on the cobblestones. Greek soldiers poured through.
 
 At their head, a man with a spear. Smaller than she'd imagined. The soldiers parted around him.
 
-Briseis turned and ran to the cellar.
+Briseis ran.
 
 ---
 
 The cellar was dark.
 
-She pressed herself behind the wine jars, listening to the boots above. Men's voices, Greek. Something breaking. Laughter.
+She pressed herself behind the wine jars. Boots above. Men's voices, Greek. Something breaking. Laughter.
 
 Her hands were shaking.
 
@@ -127,7 +125,7 @@ The walls fell in three hours.
 
 Achilles wiped his spear on a dead man's cloak and went to inspect the captives.
 
-The women huddled near the broken gates. Most were screaming—for husbands, for children. One stood at the edge of the group, arms wrapped around herself, staring at nothing.
+The women huddled near the gates. Most were screaming. One stood at the edge of the group, arms wrapped around herself, staring at nothing.
 
 "That one," he said.
 
@@ -145,19 +143,15 @@ He turned toward his tent.
 
 Greek hands pulled her from the cellar.
 
-She did not struggle.
-
-They marched her through the streets. She saw bodies. Near the eastern wall, a man's body by a tower—young, thin, a wisp of beard. She looked away.
+They marched her through the streets. Bodies everywhere. Near the eastern wall, a man by a tower—young, thin, a wisp of beard. She looked away.
 
 Near the main gates, another body. Well-dressed. Merchant's rings on his fingers.
 
 She kept walking.
 
-Outside the walls, she was put with other women. Sorted. A Greek with cold eyes came to look at them. Pointed at her.
+Outside the walls, she was put with other women. Sorted. A Greek with cold eyes pointed at her.
 
 She was put on a wagon. Watched the city burn as they drove away.
-
-She watched it burn.
 
 ---
 
@@ -165,7 +159,7 @@ She watched it burn.
 
 The refugees arrived at dusk.
 
-Seven. An old man, three women, three children. That was all.
+Seven. An old man, three women, three children.
 
 "The Myrmidons came at dawn," the old man said. "Achilles led them. The walls held for three hours."
 
@@ -176,14 +170,6 @@ He gave the orders—housing, food, a healer. The refugees shuffled through the 
 "Fifth ally city this month," his aide said.
 
 "I can count."
-
-Hector stood at the gate and watched the sun set over the plain. The Greek camp sprawled in the distance—tents, ships on the beach. Five years now.
-
-His father's strategy was simple: wait. The Greeks had no supply lines. Time was on Troy's side.
-
-Hector had argued for this himself.
-
-He didn't believe it anymore.
 
 ---
 
@@ -203,7 +189,7 @@ Hector looked at his son. The boy's eyes were closing. "His first steps?"
 
 "You're always sorry."
 
-He reached out and touched the boy's hair.
+He touched the boy's hair.
 
 "The refugees said something," Andromache said. "About Achilles. That he doesn't take ransoms anymore. Just kills."
 
@@ -213,15 +199,11 @@ He reached out and touched the boy's hair.
 
 He didn't answer.
 
-"Come to bed," she said. "Astyanax will sleep through. You should rest."
+"Come to bed," she said. "Astyanax will sleep through."
 
 "In a moment."
 
-He stayed at the window, looking out at the city. Troy slept beneath him—temples, palaces, the cramped houses where refugees crowded three families to a room.
-
-The walls have held for a hundred years, someone in Lyrnessus had probably thought.
-
-Hector stood at the window until the lamps burned low.
+He stayed at the window. Troy slept beneath him—temples, palaces, the cramped houses where refugees crowded three families to a room.
 
 ---
 
@@ -229,13 +211,15 @@ Hector stood at the window until the lamps burned low.
 
 The division of spoils went late into the night.
 
-Odysseus oversaw the accounting—gold weighed, captives counted, grain measured into sacks. The routine of plunder.
+Odysseus oversaw the accounting—gold weighed, captives counted, grain measured into sacks.
 
-When the others had gone, he stayed. Sorted through the Trojan coins, the jewelry stripped from bodies, the small treasures of a city that no longer existed.
+When the others had gone, he stayed. Sorted through the Trojan coins, the jewelry stripped from bodies.
 
 A bag of gold with Trojan markings. A seal ring with a crest he recognized.
 
-He set these aside, added them to his stores, and went to find his tent.
+He held the ring up to the lamplight. Turned it. The seal was Priam's house—the royal mark of Troy.
+
+He set it aside with the gold.
 
 ---
 
@@ -247,11 +231,11 @@ A commander's tent. Animal skins on the floor. A camp bed. Maps on the table.
 
 The Greek sat on the edge of the bed, armor half-removed, staring at nothing.
 
-Briseis stood near the entrance. Waiting.
+Briseis stood near the entrance.
 
 Nothing happened.
 
-Another man entered—the one from the ridge. He looked at her, then at the Greek.
+Another man entered—the one from earlier. He looked at her, then at the Greek.
 
 "You should eat something."
 
@@ -261,11 +245,9 @@ The Greek didn't respond.
 
 "I heard you."
 
-So that was his name.
-
 The other man left.
 
-Time passed. The camp murmured outside—men eating, dividing spoils. Somewhere a woman wept.
+The camp murmured outside. Somewhere a woman wept.
 
 "There's food," the Greek said. "If you want it."
 
@@ -273,15 +255,23 @@ Briseis didn't move.
 
 He returned to staring at nothing.
 
-She looked at him. Achilles.
-
-He sat on the edge of his bed with his eyes empty and his hands still.
-
-Briseis lowered herself to the ground near the entrance. Drew her knees to her chest.
+She lowered herself to the ground near the entrance. Drew her knees to her chest.
 
 Achilles didn't react.
 
-The night passed. They didn't speak again.
+Outside, the camp settled into sleep. The woman stopped weeping. The fires burned low.
+
+Briseis watched the man who had destroyed her world.
+
+He sat on the edge of his bed, not moving. His hands hung loose between his knees. His eyes were fixed on something she couldn't see.
+
+She thought: Tomorrow he'll do this to another city. And another. And another.
+
+She thought: I'm going to be here for all of it.
+
+She closed her eyes.
+
+When she opened them again, it was dawn, and Achilles was already gone.
 
 ---
 

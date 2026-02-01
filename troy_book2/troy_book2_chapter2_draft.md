@@ -13,35 +13,29 @@ The camp slept.
 
 Odysseus crossed between the tents, keeping to the shadows. The moon was thin. The watchfires had burned low. He lifted the flap of Palamedes's tent and slipped inside.
 
-He stood a moment, letting his eyes adjust. Palamedes slept on a low cot, breathing evenly. A clever man. Perhaps the cleverest in the Greek camp, after Odysseus himself.
+He stood a moment, letting his eyes adjust. Palamedes slept on a low cot, breathing evenly.
 
-That was the problem.
+Odysseus moved to the bedding and slid the bag of gold beneath the blankets. Trojan gold—he'd set it aside weeks ago. Then he crossed to the document case and placed the letter inside, third from the top.
 
-Odysseus moved to the bedding and slid the bag of gold beneath the blankets. Trojan gold—he'd taken it from the last raid, set it aside for this. Then he crossed to the document case and placed the letter inside, third from the top, where it would be found but not too quickly.
-
-The letter was good work. Priam's seal, borrowed and returned in a single night. The handwriting close enough to the king's scribe. Promises of gold for betrayal. A Greek commander—unnamed, but the gold would name him.
+The letter had taken him three nights. Priam's seal, borrowed and returned. The handwriting close enough to a Trojan scribe's. Promises of gold. A Greek commander—unnamed. The gold would name him.
 
 Odysseus looked at Palamedes sleeping.
 
 Six years since the beach at Ithaca. *Remember that name,* he'd told Penelope. She'd asked why. He hadn't answered.
 
-Palamedes asked too many questions. Noticed too much. The supply discrepancies, the reports that didn't quite add up. Eventually he would find something Odysseus couldn't explain away.
-
-That was the reason Odysseus gave himself.
-
-Odysseus left the tent. No one saw him go.
+He left the tent. No one saw him go.
 
 ---
 
 The assembly gathered at midmorning.
 
-A soldier brought the letter forward—one of Odysseus's men, though no one knew that. He'd found it, he said, near the Trojan lines. Dropped, perhaps. Or planted for a messenger who never came.
+A soldier brought the letter forward. He'd found it, he said, near the Trojan lines. Dropped, perhaps. Or planted for a messenger who never came.
 
-Agamemnon read it aloud. The words hung in the air. Promises of gold. A Greek commander offering to sabotage the siege. The seal of Priam.
+Agamemnon read it aloud. Promises of gold. A Greek commander offering to sabotage the siege. The seal of Priam.
 
 "The signature is obscured," Agamemnon said. "But the traitor is among us."
 
-Murmurs through the assembly. Kings looking at each other.
+Murmurs. Kings looking at each other.
 
 "We should search the tents," Odysseus said. "All of them. To clear any suspicion."
 
@@ -51,55 +45,13 @@ They searched his tent. They found the gold.
 
 Palamedes stood very still as they pulled the bag from beneath his bedding. His face went blank. Then his eyes moved across the assembly, found Odysseus.
 
-He knew. Odysseus could see that he knew.
+Held.
 
-But knowing changed nothing.
+"Take him," Agamemnon said. "Hold him for trial."
 
----
+Guards stepped forward. Palamedes didn't resist. He let them bind his hands, let them lead him away.
 
-The trial was brief.
-
-Palamedes spoke well. He pointed out the convenience of the letter's appearance. The gold planted too neatly. The lack of any witness, any prior suspicion.
-
-"Someone has done this to me," he said. "Someone in this camp. Ask yourselves who benefits from my death."
-
-For a moment, Odysseus thought it might work. Palamedes was persuasive. The logic was sound.
-
-Then Odysseus rose.
-
-"I've known Palamedes for years," he said. "Served beside him. I don't want to believe this." He paused, let the silence stretch. "But the evidence is here. The gold was in his tent. The letter bears Priam's seal. And Palamedes—" Another pause. "Palamedes is clever enough to do exactly this. To treat with the enemy, to cover his tracks, to make us doubt even when the proof is before us."
-
-He sat down.
-
-The vote was close. But it fell against Palamedes.
-
----
-
-They dug a pit outside the camp.
-
-Palamedes walked to it without guards. He could have run. Where would he go?
-
-The army ringed the pit, stones in their hands. Odysseus stood among them.
-
-Palamedes looked at him. Quiet. Almost calm.
-
-"You know what you are," he said.
-
-Odysseus said nothing.
-
-The first stone hit Palamedes in the shoulder. He stumbled but didn't fall. The second caught his chest. The third his head.
-
-He fell.
-
-The stones kept coming. Odysseus picked one up. Threw it. It was important to be seen participating.
-
-When it was over, the thing in the pit was not recognizable as a man.
-
-The army dispersed. Justice done. A traitor punished.
-
-Odysseus stayed a moment. He expected to feel something.
-
-He didn't.
+His eyes stayed on Odysseus until he was out of sight.
 
 ---
 
@@ -107,57 +59,73 @@ He didn't.
 
 The vision came without warning.
 
-She was walking the walls when it struck—a man in a pit, stones falling, Greeks in a ring around him. Not a battle. An execution.
+Hands in darkness. Something heavy lifted, set down. The scrape of leather on canvas.
 
-She saw the man's face before the stones destroyed it. Saw his mouth moving. Saw the Greeks he had served beside throwing rocks until he stopped.
+Then daylight, too bright. A circle of men. Mouths open, shouting, but she couldn't hear them. Only the sound of her own breathing and something else—a wet crack, like a melon splitting.
 
-She saw another face. A man watching from the edge of the crowd. He had planted something in the dead man's tent. She saw him do it in the darkness, saw the careful placement, the forged letter.
+Copper on her tongue. Someone else's blood.
 
-The vision released her. She leaned against the wall, breathing.
+A face. Close. Too close. Teeth bared, not in anger—in effort. An arm drawing back. Something gray in the hand. The weight of it. The roughness of stone against palm.
 
-Then she went to find her father.
+Then the falling. Not her—someone else. Knees hitting dirt. Hands coming up too late. The sky wheeling overhead, wrong color, too white.
+
+More wet sounds. The smell of opened things.
+
+A voice, very quiet: *You know what you are.*
+
+Then nothing. A pit. Flies already gathering.
+
+She was on her knees on the walls of Troy, retching. Her hands were pressed against the stone. The stone was warm. She was alive.
+
+She went to find her father.
 
 ---
 
-Priam was in the war room with his generals. Maps spread on the table. Little wooden markers representing armies.
+Priam was in the war room with his generals. Maps on the table. Little wooden markers.
 
 "Father."
 
-He looked up. The generals shifted, uncomfortable. The mad princess. Why did she keep appearing?
+He looked up. The generals shifted.
 
-"I had a vision. The Greeks have killed one of their own."
+"The snake swallows its tail," she said. "Across the water."
 
-"Killed?" Priam frowned. "In battle?"
+"Cassandra."
 
-"Stoned him. In their camp. They accused him of treason, but he was innocent. One of their commanders framed him."
+"They eat their own." She pressed her palms against her eyes. The copper taste wouldn't leave. "One of them is hungry. One of them has been hungry for years."
 
-Priam considered this. Then he shrugged.
+"Who? The Greeks?"
 
-"Let them kill each other. It saves us trouble."
+She dropped her hands. Looked at the little wooden markers. Ships. Walls. Men reduced to carved wood.
 
-"You don't understand." Cassandra stepped forward. The generals edged back. "This is what they are. They can do this to their own people. They'll do it to us. To everyone."
+"I don't know," she said. "I can never see the face. Only the hands."
 
-"I understand perfectly." Priam's voice was patient, the tone he used with children and madwomen. "The Greeks are barbarians. We've always known this. If they want to murder each other, why should we care?"
-
-Cassandra looked at her father. At his maps and markers. At his strategies that would not save them.
-
-"The man who did this," she said. "He won't flinch when Troy falls. He's already killed someone who trusted him. We'll be easier."
-
-Priam waved his hand. "Thank you, Cassandra. You may go."
+Priam waved her away. "Get some rest."
 
 She went.
-
-Behind her, the generals returned to their maps. The little wooden markers stood in rows. One of them represented the Greek camp, where a body was being shoveled into an unmarked grave.
 
 ---
 
 ## PARIS
 
-The wine hall was in the lower city, far from the palace. Paris had been there since afternoon.
+The wine hall was in the lower city, far from the palace.
 
-The wine was rough and the company was rougher. Soldiers on leave, merchants between trades, men who didn't ask questions. Paris had found a table in the corner where the lamplight didn't reach.
+A fight had broken out near the bar when Paris arrived. Two soldiers, drunk, grappling over something. The owner watched from behind his counter, arms crossed, waiting for one of them to fall.
 
-A girl sat on his knee. Young. Pretty. Dark hair, dark eyes, a laugh that came too easily.
+Paris stepped around them and found a table in the corner where the lamplight didn't reach.
+
+The wine came in a clay cup, tasting of the barrel. He drained it and signaled for another.
+
+At the next table, dice clattered.
+
+"That's three in a row." A soldier scooped up coins. "You're cursed tonight, friend."
+
+The merchant shrugged, tossed more bronze on the table. "Again."
+
+"—so we come over the wall, right, and there's this old man with a pitchfork—" Another soldier, at another table, gesturing with his cup. "A pitchfork! Against Thessalian infantry! So Doros, he just—" The soldier mimed a thrust. His friends howled.
+
+Paris signaled for a third cup. Here he was just another man with coin. Just a face in the corner, drinking alone.
+
+A girl settled onto his knee. Dark hair, dark eyes.
 
 "You're quiet," she said. "Most men who buy this much wine have more to say."
 
@@ -165,21 +133,17 @@ A girl sat on his knee. Young. Pretty. Dark hair, dark eyes, a laugh that came t
 
 "About what?"
 
-About Helen. About the chambers where she sat alone tonight, where she'd sat alone most nights for months. About the silence between them that had grown too heavy to break.
+He thought of Helen. The chambers where she sat alone. The silence that had grown too heavy to break.
 
 "Nothing," he said.
 
 The girl traced a finger along his jaw. "You're handsome. Rich, too, by your clothes. Why drink in a place like this?"
 
-Because no one knows me here. Because the palace is full of people who look at me and see the war. Because Helen looks at me and sees Menelaus's sword that should have killed me, and Hector's contempt, and ten thousand dead.
-
 "I like the wine," he said.
 
 Later, in a back room, the girl asked his name.
 
-"Corythus," he said. A merchant's son he'd known as a child. Dead now, probably. Most of the people Paris had known were dead now.
-
-The girl didn't question it. Why would she? He was just another man in a wine hall, lying about who he was.
+"Corythus," he said.
 
 ---
 
@@ -191,51 +155,61 @@ He could go to Helen. Walk into their chambers, wake her, say—
 
 What? What could he possibly say?
 
-I'm sorry I stole you. I'm sorry I believed a goddess. I'm sorry you left your daughter for me and now we can't stand to be in the same room.
-
 He stopped at a corner. The palace rose above him, its stones catching the first light.
 
 He should go back. He should try.
 
-Paris turned and walked the other way. Another wine hall was opening, lamps lit in the windows, the smell of bread and something cooking.
-
-He went inside.
+Paris turned and walked the other way.
 
 ---
 
 ## ODYSSEUS
 
-Night again. His tent.
+The holding tent was at the edge of the camp, near the latrines. Two guards at the entrance. Torches burning low.
 
-Odysseus poured water into the basin. Watched it settle.
+Odysseus dismissed the guards. They didn't question it. Everyone knew he and Palamedes had history.
 
-He put his hands in the water and washed them. Slowly, thoroughly, the way his mother had taught him.
+Inside, Palamedes sat on the ground, hands bound behind him. He looked up when Odysseus entered.
 
-The water stayed clear.
+Neither spoke.
 
-He'd expected—he didn't know what he'd expected. Redness. A stain that wouldn't come out. Something to mark what he'd done.
+Palamedes's face was calm. Almost curious.
 
-There was nothing. His hands were clean. They'd always been clean. He'd barely touched the stones. The execution was legal. Justified. Palamedes was a traitor.
+"You could have just killed me," he said. "Years ago. A knife in the dark. An accident on the battlefield. Why this?"
 
-The army believed it. The kings believed it. In a month, no one would remember the details. Just that there had been a traitor, and justice had been done.
+Odysseus didn't answer.
 
-Odysseus dried his hands.
+"Because you wanted them to do it." Palamedes nodded slowly. "You wanted the whole army to throw stones. You wanted me to know it was you, and to know that no one would believe me."
 
-He thought about home. Penelope at her loom. Telemachus—ten years old now. Or eleven. He'd lost count.
+Odysseus still said nothing.
 
-Would his son recognize him? Would he know his father's face?
+"I'm going to die tomorrow," Palamedes said. "Or the day after. Whenever they hold the trial. And I'll die knowing exactly what happened, and exactly who did it, and I won't be able to prove any of it."
 
-It didn't matter. Odysseus would make it home. He always found a way.
+"No," Odysseus said. "You won't."
 
-He lay down on his cot and closed his eyes.
+Palamedes smiled. It was a strange smile—almost admiring.
 
-The face of Palamedes did not appear. No ghost troubled his sleep.
+"You're going to win this war," he said. "Aren't you. Agamemnon will fail. Achilles will die. Ajax will go mad. But you. You'll find a way."
 
-He slept well. He hadn't expected to.
+"Yes."
 
-In the morning, a servant would empty the basin. The water would pour out, clear as spring rain. There would be nothing strange to notice.
+"And when you do, I want you to remember something."
 
-There was nothing strange at all.
+Odysseus waited.
+
+"You'll get home," Palamedes said. "Eventually. I've seen the way you look at the stars—always finding Ithaca. And you'll walk through your own door, and you'll hold your wife, and you'll meet your son as a man instead of an infant." He leaned forward, his bound hands shifting behind him. "And in that moment, I want you to remember what you are. Not what you tell yourself. Not the clever stories you've built. What you actually are."
+
+He held Odysseus's gaze.
+
+"The man who murdered his friend to win a game no one else was playing."
+
+Odysseus stood very still. Then he turned and walked out of the tent.
+
+The guards resumed their positions. The torches guttered in the night wind. Somewhere in the camp, a dog was barking.
+
+Odysseus walked back to his tent.
+
+He did not sleep.
 
 ---
 
