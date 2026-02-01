@@ -23,15 +23,17 @@ Paris tried to stand. His legs would not obey him. He tried to speak. His tongue
 
 "I—" Paris's voice cracked. "I am a shepherd. I tend sheep on a mountain. I am no one."
 
-"You are the son of Priam. Exposed on the mountain to die because of your mother's dream. Found by a herdsman. Raised as his own. But still the blood of kings runs through you, and the blood of kings is what we require. A mortal judge, of royal lineage, unentangled with any of us. You are the only one who qualifies."
+"You are the son of Priam, King of Troy. Exposed on this mountain as an infant, left to die because of a prophecy. Found by a herdsman who raised you as his own." Athena's voice was flat, reciting facts. "But still the blood of kings runs through you, and the blood of kings is what we require. A mortal judge, of royal lineage, unentangled with any of us. You are the only one who qualifies."
 
-"The dream," Paris said. He knew this story—his foster father had told it to him once, drunk on winter wine. A queen dreaming of a burning torch. Priests demanding blood. An infant left on the mountainside to die. "What was the dream?"
+Paris had heard this story before. His foster father had told it to him once, drunk on winter wine—how he'd found a baby crying in the rocks, wrapped in cloth too fine for a shepherd's child. A prince left to die. Paris had always half-believed it was just a story, the kind old men told to make their lives seem grander.
 
-"That you would destroy Troy." Athena's voice was flat, disinterested. "This is irrelevant to our current needs. Judge between us."
+"The prophecy," Paris said. "What was it?"
+
+"That you would destroy Troy." Athena's voice held no emotion. "This is irrelevant to our current needs. Judge between us."
 
 "Judge what?"
 
-Hera held up an apple. It was gold, or something like gold, and it glowed with its own light, and there was writing on it in a script Paris could not read.
+Hera held up an apple. It was gold, and it glowed with its own light, and there was writing on it in a script Paris could not read.
 
 "For the fairest," said Hera. "You will look upon us and decide which of us deserves it."
 
