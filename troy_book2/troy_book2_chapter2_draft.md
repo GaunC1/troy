@@ -105,6 +105,64 @@ She went.
 
 ---
 
+## BRISEIS
+
+She woke to the sound of Achilles leaving the tent.
+
+It was still dark. She heard him buckling his greaves, the soft clink of bronze on bronze. Then the tent flap lifting, falling. His footsteps fading toward the shore.
+
+He did this sometimes. Walked the beach before dawn, alone. Patroclus had told her Achilles had done this since they were boys on Pelion, since before the war, since before everything. He needed the water. The sound of it.
+
+She lay in the bed, the wool blanket still warm where he had been. The smell of him on the pillow—salt and leather and something else, something that had become familiar. Her body knew that smell now. Knew the weight of him, the rhythm of his breathing, the way he twitched in his sleep.
+
+Three weeks since Lyrnessus. Or four.
+
+She rose and dressed in the grey light. Her old dress was gone—Patroclus had found her a new one, Thessalian wool dyed the color of wine. "It belonged to someone," he'd said, and hadn't explained further.
+
+There was water in the basin. She washed her face, her hands, the back of her neck. Cold water. She washed between her legs, quickly.
+
+Achilles returned as the sun was rising. He stood in the entrance of the tent, his hair wet, his feet bare and sandy. He looked at her.
+
+"You're awake."
+
+"Yes."
+
+He crossed to the armor stand, began checking the straps on his cuirass. His back was to her—the broad shoulders, the scars she knew by touch now. A puckered wound below his left shoulder blade. A long thin line across his ribs. A burn, old and faded, on his right arm. Her fingers had traced each of them in the dark.
+
+"There's bread," she said. "And figs. Patroclus brought them last night."
+
+"I'm not hungry."
+
+She watched him work the leather straps. His hands were quick, practiced.
+
+"Something's happening today," she said. "In the camp. The soldiers are talking about a trial."
+
+His hands stilled. "Palamedes."
+
+"Who is he?"
+
+"A man who asks too many questions." He resumed his work on the armor. "He won't be asking them much longer."
+
+He turned to face her. The morning light caught his eyes—grey, the color of the sea before a storm.
+
+"Eat something," he said. "I'll be back before dark."
+
+He left.
+
+She sat on the edge of the bed, the bread untouched beside her. Outside, the camp was waking—voices, footsteps, the clang of bronze. Somewhere a horse whinnied. Somewhere a man was shouting orders.
+
+She thought of Mynes. Tried to picture his face.
+
+The features had gone soft, like something left in water too long. She could remember his hands, the merchant's rings. She could remember his voice. But the face—
+
+She picked up the bread. Tore off a piece. Chewed.
+
+The bread was good. Fresh. Patroclus must have traded something valuable for it.
+
+She ate it all.
+
+---
+
 ## PARIS
 
 The wine hall was in the lower city, far from the palace.

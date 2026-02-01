@@ -269,9 +269,59 @@ She thought: Tomorrow he'll do this to another city. And another. And another.
 
 She thought: I'm going to be here for all of it.
 
-She closed her eyes.
+Later that night, he came to her.
 
-When she opened them again, it was dawn, and Achilles was already gone.
+His hands were calloused, rougher than Mynes's had been. His weight pressed her into the camp bed. His eyes stayed fixed on the canvas above her, on something she couldn't see. When it was over, he rolled away and lay with his back to her, a wall of muscle and scar tissue.
+
+She stared at the tent's ceiling. Her body ached. Outside, the camp fires crackled and a dog barked twice.
+
+He fell asleep. She listened to his breathing slow, listened to the small sounds he made in dreams—half-words, names she didn't recognize.
+
+In the morning, he was already gone.
+
+The second night was the same. The third. The fourth. She learned the sounds of his breathing. The way his body twitched in dreams. The scars on his back—a puckered wound below his left shoulder blade, a long thin line across his ribs, a burn on his right arm. She could trace them in the darkness without looking.
+
+On the fifth night, he spoke to her. "What's your name?"
+
+She told him.
+
+He repeated it once, quietly, as if testing the shape of it. Then he turned away and slept.
+
+On the seventh night, he asked: "Were you married?"
+
+"Yes."
+
+"Did you love him?"
+
+She didn't answer. He didn't ask again.
+
+The nights continued. She stopped counting them.
+
+And then, one night, something shifted.
+
+He came to her as he always did, silent, absent. But when it was over, he didn't turn away. He lay beside her, his breathing ragged, his face half-lit by the dying lamp.
+
+"I don't know why I keep doing this," he said.
+
+She didn't answer.
+
+"I don't want to. I don't want any of this."
+
+She lay very still.
+
+"Then why do you?" she asked. Her voice was rusty. She hadn't spoken in days.
+
+He was silent for a long time. The lamp guttered. Shadows moved on the canvas.
+
+"Because if I stop," he said, "I'll have to feel something else."
+
+She didn't ask what.
+
+The next night, when he reached for her, she found herself reaching back. Her hand found the scar on his shoulder blade, the one she had traced so many times in the dark. He paused. Looked at her—really looked, for the first time.
+
+Neither of them spoke.
+
+In the morning, she woke with his arm across her waist, his breath warm against her hair.
 
 ---
 

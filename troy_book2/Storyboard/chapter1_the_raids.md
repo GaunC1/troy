@@ -5,117 +5,117 @@
 2. Achilles
 3. Briseis (return)
 4. Hector
+5. Odysseus
+6. Briseis (return)
 
 ## Summary
-The chapter opens in Lyrnessus, a Trojan ally city, on what will be its last morning. Briseis is mid-argument with her husband Mynes about whether to send their horses inland—a precaution against Greek raids that have been hitting nearby cities. The argument is interrupted by her brother Epistrophus, who teases them both. Briseis is restless in her marriage, not unhappy but unfulfilled; she and Mynes have been trying for a child without success. She is planning to visit a healer in a neighboring town next week. The morning is ordinary, textured with small irritations and half-finished tasks. Then the horns sound.
+The chapter opens in Lyrnessus, a Trojan ally city, on what will be its last morning. Briseis is at breakfast with her husband Mynes when her younger brother Epistrophus arrives. A casual conversation about a Syrian glass merchant at the market turns into an argument about the Greek raids—Epistrophus thinks they're safe, Briseis points out that Pedasus and Thebe were "fine" too. Mynes tries to calm her, but she won't be calmed. The argument ends unresolved when Epistrophus leaves for the market, promising to bring her figs. Mynes softens, offers to send the horses to her mother's village tomorrow. A quiet moment—then the horns sound.
 
-The perspective shifts to Achilles approaching Lyrnessus with his Myrmidons. This is routine for him—the twelfth city this season. Patroclus rides beside him, the only thing still tethering him to humanity. The raid is efficient, brutal, joyless. Achilles kills Mynes on the walls without knowing his name. The city falls in hours.
+The perspective shifts to Achilles approaching Lyrnessus with his Myrmidons. The raid is efficient, brutal, joyless. Achilles kills without knowing names. The city falls in hours.
 
-We return to Briseis, now in dissociation. She watches herself from outside as she's pulled from the rubble. Her brothers are dead. Her husband is dead. She is sorted with the other women, appraised, given to Achilles as his prize. Her first-person narration becomes third-person; she refers to herself as "the woman" or "the widow." A survival mechanism.
+We return to Briseis in shock. She's pulled from the cellar. Sees her brother's body by a tower—young, thin, that wisp of beard. Sees her husband's body near the gates—merchant's rings on his fingers. She keeps walking. Outside the walls, she is sorted with other women, appraised, given to Achilles. A Greek with cold eyes points at her. She is put on a wagon, watches the city burn.
 
-In Troy, Hector receives the refugees from Lyrnessus—the few who escaped. Each fallen ally confirms what he already knows: they cannot hold out forever. His stated strategy is to wait the Greeks out, let them tire and go home. He doesn't believe it. Andromache sees through him but says nothing.
+In Troy, Hector receives the refugees from Lyrnessus—seven people, all that escaped. Andromache tells him Astyanax took his first steps today. He missed it. She mentions the refugees say Achilles doesn't take ransoms anymore. Just kills.
 
-The chapter ends with Achilles and Briseis alone in his tent that night. He doesn't touch her. He sits on his camp bed, staring at nothing, armor still half-on. She stands near the entrance, waiting for violence that doesn't come. Slowly, she realizes: he's as trapped as she is. The chapter closes on this strange, silent recognition between captor and captive.
+Brief scene with Odysseus in the supply tent, overseeing the division of spoils. He sets aside a bag of gold with Trojan markings and a seal ring with Priam's crest. No explanation given.
+
+The chapter ends with Briseis alone in Achilles's tent. He sits on the edge of the bed, staring at nothing. She watches him. She thinks: Tomorrow he'll do this to another city. And another. I'm going to be here for all of it. She closes her eyes. When she opens them again, it's dawn, and Achilles is already gone.
 
 ## Scene Breakdown
 
 ### Scene 1: Morning in Lyrnessus (Briseis POV)
-- Briseis wakes before dawn, unable to sleep
-- She and Mynes have argued the night before about the horses; the argument resumes at breakfast
-- Mynes thinks she worries too much; the Greeks are hitting coastal cities, not inland towns like theirs
-- Her brother Epistrophus arrives, teases them about fighting "like old married people" (they've been married two years)
-- Her other brother Mynes (yes, same name as her husband—a source of family jokes) is on the walls, took the early watch
-- Briseis is a healer's apprentice; she's preparing herbs for a patient, a task half-finished on the table
-- She mentions she's planning to visit a shrine next week—implied they've been trying for a child
-- Epistrophus steals bread from her table, promises to bring her figs from the market later
-- Mynes (husband) softens, apologizes for the argument, says they'll send the horses tomorrow
-- Briseis thinks: this is her life. This ordinary morning. This man she chose. It's enough. It has to be enough.
-- The horns sound.
-- Everyone freezes. The horns sound again. Then screaming from the walls.
-- Mynes grabs his sword, tells her to hide in the cellar, runs out
-- Epistrophus hesitates, looks at her, says "I'll come back for the figs"—then follows
-- She is alone with the half-ground herbs
+- Opens in media res: Epistrophus arriving while they're eating
+- Briseis notes her younger brother—sleeping tunic, hair flattened, that wisp of beard
+- Epistrophus mentions a merchant from Miletus, Syrian glass with blue threading
+- Mynes: "Glass? We're at war."
+- Epistrophus: "The merchant doesn't care. Neither does the glass."
+- Briseis: "Pedasus was fine. Thebe was fine."
+- The table goes quiet. The argument builds.
+- Mynes tries logic: Lyrnessus has walls, they're two days from the coast
+- Briseis pushes back: "This is Achilles. He took Thebe in a morning."
+- The argument ends unresolved when Epistrophus leaves, promising figs
+- Mynes softens, offers to send the horses tomorrow, mentions the healer in Chryse
+- He leaves for a delegation. She picks up the pestle, begins to grind.
+- The horns sound. Then the screaming.
 
-### Scene 2: The Approach (Achilles POV)
-- Achilles on horseback, Myrmidons behind him, watching Lyrnessus from a ridge
-- Internal: this is the twelfth city this season. Or thirteenth. He's stopped counting.
-- Patroclus beside him, quieter than usual
-- Achilles notes the walls are "adequate"—they'll be inside by midday
-- Brief tactical assessment: main gate weak, defenders clustering wrong, no archers on the eastern tower
-- Patroclus asks if they need to do this one. There's nothing strategic here. It's just... killing.
-- Achilles: "Agamemnon wants the tribute. The men want the plunder. Does it matter what we need?"
-- The raid begins. Achilles is first over the wall.
-- Combat sequence: efficient, economical. He kills without excess. No glory-seeking, no taunts. Just work.
-- He kills a man on the walls who fights well—this is Mynes, Briseis's husband, though Achilles doesn't know it
-- The man says something as he dies. Achilles doesn't hear it. Doesn't care.
-- City falls. Women separated. Treasure catalogued. Achilles takes his pick of the captives as is his right.
-- He chooses Briseis because she's not screaming. Everyone else is screaming. She's just... standing there.
+### Scene 2: The Fall (Briseis POV)
+- Briseis runs through the streets. Women with children, old men, overturned cart.
+- "The gates!" someone shouts. The gates are open—not broken, open.
+- Guards lie in pieces. Greek soldiers pour through.
+- At their head, a man with a spear. Smaller than she imagined.
+- Briseis runs to the cellar. Hides behind wine jars. Greek boots above.
+- The boots come closer.
+
+### Scene 3: The Approach (Achilles POV)
+- Brief, efficient: "The walls fell in three hours."
+- Achilles wipes his spear on a dead man's cloak, inspects the captives
+- The women are huddling, screaming. One stands apart, arms around herself, staring at nothing.
+- "That one," he says.
 - Patroclus: "She's in shock." Achilles: "I know."
 
-### Scene 3: The Widow (Briseis POV)
-- Briseis's POV, but the narration has shifted
-- She watches "the woman" pulled from the cellar by Greek soldiers
-- "The woman" sees her husband's body on the walls as they march her past. Notes he fell near the eastern tower.
-- "The woman" does not scream. Does not weep. Watches from far away.
-- She is put with other women. Sorted. Young, old. Pretty, plain. Useful, disposable.
-- A Greek with cold eyes looks at her. Points. She is pulled from the line.
-- She learns later this was Achilles. The greatest warrior alive. The man who killed her husband, her brothers, her city. He chose her because she was quiet.
-- "The woman" thinks this is funny. "The widow" doesn't laugh.
-- She's put on a wagon. Watches Lyrnessus burn as they leave.
-- Her last thought in this scene: she never finished grinding those herbs.
+### Scene 4: The March (Briseis POV)
+- Greek hands pull her from the cellar
+- Marched through the streets. Bodies everywhere.
+- Near the eastern wall, a man by a tower—young, thin, a wisp of beard. She looks away.
+- Near the main gates, another body. Well-dressed. Merchant's rings.
+- She keeps walking.
+- Put with other women. Sorted. A Greek with cold eyes points at her.
+- Put on a wagon. Watches the city burn as they drive away.
 
-### Scene 4: The Refugees (Hector POV)
-- Hector at Troy's gates, receiving refugees from Lyrnessus
-- An old man, three women, a handful of children. That's all who escaped.
-- They tell him: the Myrmidons came at dawn. The city fell by midday. Achilles led them.
-- Hector notes: this is the fifth ally city to fall this month
-- He gives orders for their housing, food, integration into Troy's population
-- His father Priam wants to know if the walls held. Hector: "They never hold."
-- Priam's strategy: wait. The Greeks will tire. They have no supply lines, no reinforcements. Time is on Troy's side.
-- Hector nods. Says nothing. He's said this himself a hundred times. He doesn't believe it.
-- Brief scene with Andromache: she's been watching from the walls
-- She doesn't ask about the war. She says: "Astyanax took his first steps today."
-- Hector: "I'll come see him tonight." They both know he might not.
-- Andromache: "The refugees say the Greek—Achilles—he doesn't take ransoms. He just kills."
-- Hector: "I know."
-- He watches her walk away. Thinks: this is what I'm protecting. This is why we hold.
-- But the walls never hold. And he knows how this ends.
+### Scene 5: The Refugees (Hector POV)
+- Dusk. Seven refugees arrive at Troy's gates.
+- An old man, three women, three children. That's all who escaped.
+- "The Myrmidons came at dawn. Achilles led them. The walls held for three hours."
+- Hector: "They never do."
+- His aide: "Fifth ally city this month." Hector: "I can count."
+- In their chambers, Andromache with Astyanax on her lap
+- "Astyanax took his first steps today." "His first steps?" "Three of them. He fell on the fourth."
+- "I'm sorry I missed it." "You're always sorry."
+- She mentions the refugees say Achilles doesn't take ransoms anymore. Just kills.
+- "What does that mean?" He doesn't answer.
+- He stays at the window. Troy sleeps beneath him.
 
-### Scene 5: The Tent (Briseis POV)
-- Night. Achilles's tent in the Greek camp.
-- Briseis stands near the entrance. Achilles sits on his camp bed, armor half-removed.
-- She is waiting for violence. For the thing that happens to captured women.
-- It doesn't come. He's not looking at her. He's not looking at anything.
-- She studies him: younger than she expected. Handsome. Empty.
-- He hasn't spoken since they arrived. Neither has she.
-- Patroclus enters briefly, checks on Achilles, glances at her with something like pity. Leaves.
-- Achilles finally speaks: "There's food if you want it. Water."
-- She doesn't respond. Doesn't move.
-- He returns to staring at nothing.
-- Slowly, the dissociation lifts enough for her to think:
-- He's not going to touch her. Not tonight. Maybe not ever.
-- Not because he's kind. Because he's not here. He's somewhere far away, same as her.
-- She thinks: we are both trapped. We are both already dead.
-- She sits on the ground near the entrance. He doesn't react.
-- The chapter ends with them in silence, captor and captive, both absent from their own bodies, waiting for morning.
+### Scene 6: The Spoils (Odysseus POV)
+- Night. Odysseus oversees the division of spoils.
+- Gold weighed, captives counted, grain measured.
+- When the others have gone, he stays. Sorts through Trojan coins, jewelry.
+- A bag of gold with Trojan markings. A seal ring with Priam's crest.
+- He holds the ring up to the lamplight. Turns it.
+- Sets it aside with the gold.
+
+### Scene 7: The Tent (Briseis POV)
+- A commander's tent. Animal skins, camp bed, maps.
+- Achilles sits on the edge of the bed, armor half-removed, staring at nothing.
+- Briseis stands near the entrance.
+- Nothing happens.
+- Patroclus enters, looks at her, then at Achilles. "You should eat something."
+- Achilles doesn't respond. "Achilles." "I heard you."
+- Patroclus leaves. The camp murmurs outside. Somewhere a woman weeps.
+- "There's food," Achilles says. "If you want it."
+- Briseis doesn't move.
+- She studies him: the man who destroyed her world. Younger than expected. Empty.
+- She lowers herself to the ground near the entrance.
+- She thinks: Tomorrow he'll do this to another city. And another. I'm going to be here for all of it.
+- She closes her eyes.
+- When she opens them again, it's dawn, and Achilles is already gone.
 
 ## Key Moments
-- Briseis's argument with Mynes about the horses—ordinary friction that will never be resolved
-- Epistrophus: "I'll come back for the figs"—he won't
-- The half-ground herbs left on the table—a task she'll never finish
-- Achilles choosing Briseis because she's not screaming
-- The narrative shift to third person during Briseis's dissociation—"the woman," "the widow"
-- Achilles killing Mynes without knowing or caring who he was
-- Hector receiving the refugees, knowing the walls never hold
-- Andromache: "Astyanax took his first steps today"—life continuing inside the siege
-- The silent recognition in the tent: both captor and captive are trapped
+- Epistrophus: "I'll bring you back some figs. The early ones are in."—he won't
+- "This is Achilles. He took Thebe in a morning. Your walls won't hold against Achilles."
+- The gates are open—not broken, open
+- Near the eastern wall, a man by a tower—young, thin, a wisp of beard. She looks away.
+- "That one," Achilles says. Patroclus: "She's in shock." Achilles: "I know."
+- "Astyanax took his first steps today." "I'm sorry I missed it." "You're always sorry."
+- Odysseus setting aside the gold and seal ring (no explanation)
+- "When she opened them again, it was dawn, and Achilles was already gone."
 
 ## Thematic Threads
-- **The ordinary shattered**: Briseis's morning is deliberately mundane—arguments, herbs, siblings teasing—to make the destruction land harder
-- **Dissociation as survival**: Briseis's POV shift is a psychological defense mechanism, establishing how she'll survive the coming years
-- **The machine of war**: Achilles is efficient, joyless, mechanical. The raids are routine. This is what the war has become.
-- **Parallel imprisonment**: Achilles and Briseis are both captives—she to him, he to the war. Neither chose this.
-- **Hector's impossible position**: He knows the strategy won't work. He says it anyway. What else can he do?
+- **The ordinary shattered**: Briseis's morning is deliberately mundane—arguments about glass merchants, promises of figs—to make the destruction land harder
+- **Flat observation as trauma**: Briseis notes her brother's body, her husband's body, and keeps walking. No tears, no screaming. Just observation.
+- **The machine of war**: Achilles is efficient, joyless, mechanical. "The walls fell in three hours." Work, not glory.
+- **Parallel imprisonment**: Achilles and Briseis are both captives—she to him, he to the war. Neither speaks. Neither moves.
+- **Hector's impossible position**: "I'm sorry I missed it." "You're always sorry."
+- **Conspiracy seeding**: Odysseus sets aside gold and a seal ring. The reader doesn't know why. Yet.
 
 ## Chapter End
-The chapter closes on Briseis and Achilles in silence. She sits on the ground near the tent's entrance; he sits on his camp bed, armor half-removed, staring at nothing. Neither speaks. The Greek camp murmurs outside—men drinking, laughing, dividing plunder—but inside this tent there is only stillness. Two people who should be enemies, who are instead just... empty. The final image: Briseis watching Achilles, realizing that the monster who destroyed her world is as hollowed out as she is. Not a comfort. Just a recognition. The war has taken everything from both of them. It just took different things.
+Briseis closes her eyes in Achilles's tent, expecting violence, or nightmares, or something. When she opens them again, it's dawn. The tent is empty. Achilles is already gone—to another raid, another city, another set of walls that won't hold. She's still here. She'll still be here tomorrow. The war continues.
