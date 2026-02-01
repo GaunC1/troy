@@ -47,3 +47,92 @@ Beautiful, charming, utterly unequal to the consequences of his choices. He genu
 - "I started this. Let me help finish it." — `troy_book1/troy_book1_chapter5_v3.md:400`
 - "I'm not brave. You know that. Everyone knows that. I froze on the beach. I let a boy almost kill me. But maybe this is something different. Maybe this isn't about being brave. Maybe it's just about being responsible." — `troy_book1/troy_book1_chapter5_v3.md:604`
 - "I used to think loving you was the best thing I ever did. The bravest thing. Choosing you over everything else... Now I think it was the easiest thing. Easier than being wise. Easier than being good." — `troy_book1/troy_book1_chapter6_draft.md:670`
+
+---
+
+## Book 2 Arc: The Avoidance
+
+Paris has fully retreated from his life. The guilt that surfaced in Book 1 Chapter 6 has hardened into paralysis. He cannot face Helen, cannot face his family, cannot face what he has caused.
+
+**Chapter 2 - "The Clever Man":**
+
+Paris drinks alone in a wine hall in the lower city, far from the palace, at a corner table "where the lamplight didn't reach." He watches soldiers gamble, listens to their war stories—tales of violence committed because of him, though they don't know it.
+
+A girl sits on his knee. "You're quiet." He thinks of Helen: "The chambers where she sat alone. The silence that had grown too heavy to break." The girl asks why a handsome, rich man drinks in a place like this. "I like the wine."
+
+He sleeps with her in a back room. When she asks his name, he gives a false one: "Corythus."
+
+At dawn, he walks the empty streets. "He could go to Helen. Walk into their chambers, wake her, say—What? What could he possibly say?" He stops. The palace rises above him. "He should go back. He should try."
+
+Paris turns and walks the other way.
+
+**The Pattern:** This is Paris at his lowest—not dramatically broken, but quietly absent from his own life. He has become a ghost in his own city, seeking oblivion in wine and anonymous flesh. The false name "Corythus" is telling: he cannot be Paris anymore, so he becomes no one.
+
+**What Has Changed from Book 1:**
+- In Book 1, Paris at least tried. He accepted Menelaus's challenge. He faced Priam. He spoke honestly to Helen about his guilt.
+- In Book 2, he has stopped trying entirely. The duel failed to end the war. His honesty with Helen led nowhere. He has concluded, perhaps unconsciously, that effort is pointless.
+
+---
+
+## Character Goals / Conspiracies / Missions
+
+**What Paris Wants (Surface):** Escape. Oblivion. To not feel the weight of what he caused.
+
+**What Paris Wants (Deep):** To matter. To be the version of himself he imagined when Aphrodite made her offer—the man who won the most beautiful woman in the world, the man who could be something other than a shepherd or a spare prince.
+
+**The Problem:** Paris has no active goal because he has convinced himself that his actions don't matter. He tried to fix things (the duel) and it didn't work. He tried to be honest with Helen and the silence only deepened. He has learned helplessness.
+
+**What He Avoids Confronting:**
+- That Helen may have followed him not for love but for escape
+- That his family would be better off if he had died on Mount Ida
+- That he is not actually incapable—he is afraid of trying again and failing again
+
+**Current Status:** Paris is not part of any conspiracy. He has no mission. He exists in a bubble of self-medication, waiting for the war to end one way or another. This makes him the weakest POV character in terms of narrative drive.
+
+---
+
+## Agency Analysis and Recommendations
+
+**The Problem:**
+
+Paris is currently the only POV character with no active goal:
+- **Achilles** wants glory and Briseis
+- **Hector** wants to save Troy and protect his family
+- **Odysseus** wants to win the war and get home (and destroy anyone who threatens that)
+- **Helen** wants to understand her own complicity and find meaning in her imprisonment
+- **Cassandra** wants to be believed, to save anyone she can
+- **Agamemnon** wants to maintain power and control
+
+Paris just wants to disappear. This makes him a reactive character in a cast of active ones.
+
+**Why This Matters:**
+
+Paris POV ends after Book 2, but he remains crucial to the plot—he kills Achilles in Book 3 Chapter 5. That moment will feel unearned if Paris has spent Books 1-2 being purely passive. Readers need to see something building in him.
+
+**Proposed Solutions:**
+
+**Option 1: The Archer's Purpose**
+Give Paris a secret practice regimen. He's a shepherd—he knows the bow. In Book 2, show him practicing alone, at night or dawn, away from the warriors who mock him. He tells himself it's just habit, something to do. But he's getting better. This plants the seed for his eventual killing of Achilles without making it feel arbitrary.
+
+*Thematic resonance:* The coward becomes the killer. The man who fled from swords finds power at a distance. This mirrors his psychology—Paris can only act when he doesn't have to face consequences directly.
+
+**Option 2: The Protector of Servants**
+Paris notices the servants and lower city people who suffer because of the war. He begins quietly helping them—not heroically, but in small ways. Bringing food. Warning people when raids are coming. He can't face Helen or Hector, but he can face these anonymous people.
+
+*Thematic resonance:* Paris returns to who he was on Mount Ida—a shepherd, a caretaker of the vulnerable. This gives him a mission that doesn't require confronting his guilt head-on.
+
+**Option 3: The Intelligence Gatherer**
+Paris's time in the wine halls could be reframed. He's not just hiding—he's listening. Soldiers talk. Merchants talk. He begins collecting information, not for any specific purpose, but because it's something he can do. Eventually this could feed into Trojan strategy.
+
+*Thematic resonance:* Paris becomes useful in the way Odysseus is useful—through watching and listening rather than fighting. This gives him agency while keeping him in character.
+
+**Option 4: The Failed Negotiator**
+Paris attempts a secret negotiation with the Greeks. He believes he can offer himself in exchange for Helen's safe return to Menelaus. This would end the war without Troy's destruction. The attempt fails—either the Greeks reject it or Paris loses his nerve before making contact—but it shows him trying.
+
+*Thematic resonance:* Mirrors his Book 1 duel attempt. Paris keeps trying to sacrifice himself to end what he started, and keeps being prevented or failing. This builds sympathy while maintaining his essential weakness.
+
+**Recommended Combination:**
+
+Weave Options 1 and 2 together: Paris practices with his bow (alone, shamefully, as if it's a vice rather than training) while also beginning to notice the servants and lower city people. He becomes a shadow figure—haunting the margins of Troy, neither prince nor shepherd, neither warrior nor coward. This gives him movement and purpose while staying true to his avoidant nature.
+
+The bow practice should be present but not emphasized—just a detail here and there—so that when Apollo guides his arrow in Book 3, readers feel it was always possible, always building, even as Paris himself didn't understand what he was becoming.

@@ -19,9 +19,17 @@ Odysseus sat at the back of the council tent, watching the kings shout at each o
 
 Agamemnon raised his hand. The shouting subsided, grudgingly.
 
-"The supply ships will arrive when they arrive. Until then, we make do."
+He turned to his quartermaster. "Numbers. How many days of grain? How many cattle?"
 
-"Make do with what? Air? Sand?"
+The quartermaster consulted his tablets. "Twelve days at current rations, my lord. Maybe fifteen if we cut further. The cattle—"
+
+"Twelve days." Agamemnon swept a cup from the table. It clattered across the floor. "Twelve days. After five years of siege."
+
+Silence.
+
+"The supply ships will arrive when they arrive. Until then, we make do. Cut rations for the auxiliary troops—the allies can feed their own men. Find more. Raid further inland if you have to."
+
+"Make do with what?" someone muttered. "Air? Sand?"
 
 Odysseus studied Agamemnon while the others argued. The high king had aged badly in the five years since Aulis—his hair more grey than gold now, his face heavier, his patience worn thin.
 
@@ -58,6 +66,22 @@ Silence.
 "War should be over by now," Odysseus replied. "It's not. We adapt or we starve. Those are the choices."
 
 Agamemnon nodded slowly. "Achilles. He's been asking for action. Give him a dozen ships and a week. Let him remind the Trojans that their walls don't protect everyone."
+
+"The village on the southern road," Agamemnon continued. "It's the closest. The easiest target."
+
+The tent flap opened. Achilles entered, still wearing his training leathers, sweat on his brow. He'd heard.
+
+"Not the village." His voice cut through the murmuring. "The supply depot. Thebe, on the coast."
+
+Agamemnon's jaw tightened. "Thebe has walls. The village is—"
+
+"The village is farmers." Achilles moved to the table, looked at the map. "Thebe supplies half the grain that reaches Troy. Take it, and the siege tightens. Burn a village, and you've fed us for a week." He looked up at Agamemnon. "The depot."
+
+Silence.
+
+Agamemnon's face reddened, but before he could speak, Odysseus cut in: "The village first. It's closer, less defended. We need supplies now, not in a month."
+
+Achilles held Agamemnon's gaze a moment longer. Then he turned and walked out.
 
 The decision was made. The council dissolved into smaller arguments—who would go, how many ships, which villages to target. Odysseus slipped out while the others were still talking.
 
@@ -180,6 +204,20 @@ Paris watched her dress.
 "Tonight." He smiled, but there was something sad in it now. Something that hadn't been there in the beginning. "I'll be here. I'm always here."
 
 She leaned down, kissed him quickly. Then she left, stepping out of their private world and into the city that hated her.
+
+---
+
+Before the healing house, there was the other work.
+
+Helen descended the servant stairs, a bundle of cloth in her arms—bandages she'd cut from her own linens. The palace was quiet; the servants wouldn't stir for another hour.
+
+The refugee quarters were in the lower city, near the walls. Cramped rooms, too many people, the smell of unwashed bodies and despair. Helen moved through the narrow streets, her hood pulled low.
+
+A woman recognized her. Started to bow.
+
+Helen pressed the cloth into her hands. "Don't tell anyone."
+
+She was gone before the woman could respond.
 
 ---
 
@@ -329,9 +367,13 @@ Neither moved. The moon was bright enough to see by.
 
 "I've been reviewing the supply records. The numbers from the last few raids don't quite match the distributions."
 
+Odysseus's hand moved to the pouch at his belt. His fingers traced the shape of something inside—a ring, perhaps. A seal.
+
 "Discrepancies happen. War is messy."
 
 "I'm sure that's all it is." Palamedes smiled. "I'll sort it out. I'm good with numbers."
+
+Odysseus smiled back. The smile didn't reach his eyes.
 
 "I know you are."
 
@@ -398,6 +440,34 @@ Hector gripped the parapet, staring at the distant glow. The village was too far
 "My lord, by the time we—"
 
 "I know. Do it anyway."
+
+---
+
+Paris was on the walls when Hector found him.
+
+He had his bow. His fingers were on the string.
+
+Below, in the darkness beyond the walls, Greek scouts moved at the edge of torchlight. One of them—an officer, by his bearing—was directing the others. Three hundred yards, maybe more. A difficult shot. Not impossible.
+
+Paris drew.
+
+Hector's hand closed on his wrist. "Not him. Not yet."
+
+"I could make it. From here, with the wind—"
+
+"And then what? You kill one scout, and they know we have archers who can hit at three hundred yards. They stay beyond range. We lose the advantage." Hector's grip tightened. "Save it. For when it matters."
+
+Paris lowered the bow. Watched the officer ride away.
+
+"I could have made it," he said.
+
+"I know." Hector was already moving toward the stairs. "That's why you didn't take it."
+
+Paris stayed on the walls. A crow landed on the far parapet—sixty yards, maybe seventy. Without thinking, he drew and released in one motion.
+
+The crow dropped.
+
+A soldier nearby stared at him. Paris retrieved his arrow without comment.
 
 ---
 
@@ -476,6 +546,16 @@ Hector rode at the head of the column. Behind him, wagons carried the dead. Behi
 He was still holding the girl.
 
 He'd carried her all the way from the village. His arms ached, his back screamed, but he couldn't put her down.
+
+Polydamas appeared at his side. "My lord, the captains are asking—"
+
+"Double the watch on the Scaean road." Hector didn't look at him. "Send scouts to track their raiding patterns. Where they go, how many, what they take. I want reports every three days."
+
+"Yes, my lord."
+
+Hector looked back at the gates where the survivors were still filing through. "And find room for them. Real room. Not the stables."
+
+Polydamas nodded and was gone.
 
 Andromache was waiting at the palace gates. Her face went white when she saw what he was carrying.
 
@@ -691,7 +771,9 @@ Hector found Andromache in their chambers.
 
 He'd been walking the walls for hours—checking defenses, speaking with captains, doing all the things a commander was supposed to do. Now it was late, and he was tired, and he didn't know where else to go.
 
-She was sitting by the window, a cup of untouched wine in her hand. She looked up when he entered.
+She was directing two servants with grain sacks when he entered. "The north quarter first—the Lyrnessus refugees have children. Then the temple stores." She saw Hector, kept talking: "And find Melanthios. His wife is sick. She needs a healer, not prayers."
+
+The servants left. Only then did she turn to him.
 
 "The girl," he said. "Did you find her family?"
 

@@ -69,3 +69,55 @@ Cassandra's arc in Book One establishes her as the tragic prophet whose warnings
 - "There's a horse. But it's not a horse. It's full of teeth... And the baby. Your baby. He's flying. But not like a bird... How long does this war last? Long enough for the children who aren't born yet to pick up swords." — `troy_book1/troy_book1_chapter5_v3.md:904-924`
 
 - "The horse is getting closer. I can hear the teeth." — `troy_book1/troy_book1_chapter6_draft.md:290`
+
+## Book 2 Arc
+
+Cassandra's visions in Book 2 expand beyond Troy's walls, reaching across the Aegean to witness the Greeks consuming themselves from within.
+
+**Chapter 2:** Receives an unbidden vision of Palamedes's execution before it happens. The vision comes in fragmented, sensory bursts: hands moving in darkness, planting evidence; the too-bright daylight of the stoning; the wet crack of stones hitting flesh; the copper taste of someone else's blood on her tongue; a face contorted with effort as an arm draws back with a stone; the falling—knees hitting dirt, hands coming up too late; a quiet voice saying "You know what you are"; then nothing but a pit with flies gathering.
+
+She finds herself on her knees on Troy's walls, retching, and goes immediately to Priam in the war room. Her warning comes in fragments: "The snake swallows its tail. Across the water. They eat their own. One of them is hungry. One of them has been hungry for years." When Priam asks who, she admits: "I don't know. I can never see the face. Only the hands."
+
+Priam dismisses her: "Get some rest."
+
+This scene crystallizes her tragedy. For the first time, her vision concerns Greek affairs—Odysseus's conspiracy against Palamedes—yet she cannot identify the schemer or the victim. She sees *what* but not *who*. Even when her visions could provide tactical advantage (the Greeks turning on each other), she cannot translate them into actionable intelligence. The curse is not just that no one believes her; it's that her prophecies arrive scrambled, requiring interpretation she cannot provide.
+
+## Character Goals / Conspiracies / Missions
+
+Cassandra's curse creates a fundamental paradox: she possesses ultimate knowledge but cannot deploy it. Yet she is not passive. Her goals evolve through the narrative:
+
+**What she wants:**
+1. **To be heard—just once.** Not believed (she's given up on that), but *heard*. When Helen begins visiting her tower, something shifts. Here is someone who listens without dismissing. Cassandra's relationship with Helen becomes her closest approach to genuine connection.
+
+2. **To document, to witness.** If she cannot change events, she can at least see them clearly. There's a dark satisfaction in this—the exhausted pride of the only sober person at a funeral.
+
+3. **To find meaning in the curse.** If Apollo took her voice, what did he leave? The visions themselves. Perhaps the purpose is not to warn but to *see*—to be the one consciousness that holds the full tragedy in view.
+
+4. **To protect the remnant.** By Book 3-4, her focus shifts from prevention to preservation. Who survives? How? Andromache. Aeneas. The women who will carry Troy's memory into exile.
+
+**Her secret mission (unspoken, perhaps unconscious):**
+She is compiling a record. Not on paper—in her mind. Every vision, every dismissed warning, every death she foresaw and could not prevent. She is Troy's memory, its chronicle, its witness. When the city burns, she will carry the complete account of its fall in her head. This is what she trades for when Agamemnon takes her: not survival, but the chance to tell the story to someone—anyone—before she dies.
+
+## Agency Within the Curse
+
+Cassandra's lack of agency is structural—the curse ensures her words never land. But agency is not only about outcomes; it's about choices. Within her constraints, she can still act:
+
+**Perceived agency strategies:**
+
+1. **Choice of audience.** She cannot make people believe, but she can choose *who* to approach. She seeks out Helen specifically—recognizing a kindred outsider. She goes to Hector, not Paris. She addresses Priam in the war room, in front of his generals, forcing him to dismiss her publicly. These are tactical decisions.
+
+2. **Timing and setting.** When she delivers prophecies matters. She waits for moments of maximum dramatic potential—when the Greeks are already at the gates, when the ship has already sailed. Not because she's cruel, but because the closer the doom, the more undeniable the evidence. She's building a case for the historical record.
+
+3. **What she withholds.** She doesn't tell everyone everything. She never tells Paris about his death. She doesn't describe Priam's murder to Priam. Silence is a choice. By withholding certain visions, she exercises a form of mercy—or perhaps control.
+
+4. **How she speaks.** Her cryptic, fragmented delivery ("The snake swallows its tail") is both symptom and strategy. She has learned that direct statements bounce off listeners. Riddles at least make them pause. The imagery haunts them later, even if they dismiss it now.
+
+5. **Her relationship with Helen.** This is Cassandra's one genuine project. She is *cultivating* Helen as a listener. Bringing her closer. Sharing incrementally. If Cassandra cannot warn Troy, perhaps she can prepare Helen—give her fragments that will make sense only in retrospect, after the fall. Helen is Cassandra's message in a bottle.
+
+6. **Choosing to keep trying.** The most radical act of agency: she has not stopped. After years of failure, after every dismissal, she still goes to Priam when the vision comes. She still climbs the walls. She still speaks. That persistence, despite knowing it will fail, is the core of her character. She has agency over her own refusal to surrender.
+
+**Scene opportunities to demonstrate agency:**
+- A scene where she deliberately *doesn't* warn someone, and we feel the weight of that choice
+- A moment where she gives Helen a specific instruction ("When the horse comes, go to the temple of Athena") that Helen follows later
+- A vision she interprets correctly and keeps to herself—using the knowledge privately rather than announcing it
+- Her final choice to go with Agamemnon willingly, knowing exactly what awaits, because it serves her purpose (the story must be told in Greece)

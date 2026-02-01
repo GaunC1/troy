@@ -36,6 +36,54 @@
 
 **Character Development:** Helen transforms from a passive, numb possession ("feeling nothing for years") into someone who takes agency - first by choosing to board the ship, then by choosing to be useful despite universal hatred. Her friendship with Cassandra, built on their shared experience of being cursed and trapped, becomes her one authentic connection in Troy.
 
+## Book 2 Arc
+
+**Chapter 2:** Paris reflects on the growing distance between them—"Helen. The chambers where she sat alone. The silence that had grown too heavy to break." Their relationship has calcified into something neither can name. She is physically present in Troy but increasingly absent from her marriage.
+
+**Chapter 3:** Helen works in the healing house (the former temple of Asclepius, now converted for the wounded). When a young soldier needs an arrowhead extracted, she holds him down while Chryseis—a captured Greek now serving as a healer—performs the surgery. Chryseis notes Helen's steady hands: "Most people flinch."
+
+A Trojan healer woman finally speaks to her directly for the first time: "You're good at this." Then, after a pause: "It doesn't make up for anything." Helen holds her gaze without flinching: "I know." She returns immediately to hold down another wounded soldier.
+
+**Character Development:** Helen's penance work has evolved from something she does to something she *is*. She no longer justifies it or hopes for redemption—she simply does it because it's what she can do. The Trojan woman's acknowledgment is significant: after years of silent hatred, someone finally addresses her as a person rather than a curse. But Helen refuses to let this become absolution. She knows the math will never balance.
+
+## Character Goals / Conspiracies / Missions
+
+**What does Helen want?**
+
+This is the central question of her arc—and one she herself may not be able to answer clearly.
+
+**Surface goal:** Survive. Not be killed by Troy when they lose patience, not be killed by Menelaus when he reclaims her.
+
+**Immediate purpose:** The healing work. But is it a goal or just penance? The evidence suggests penance—she never claims it "makes up" for anything, actively refuses that interpretation. She does it because doing nothing is unbearable, not because she believes it will save her.
+
+**Deeper want (unexplored):** Agency. Control over her own fate for the first time. She chose to get on the ship—the one clear choice she's ever made. But since arriving in Troy, she's been passive again: accepting hatred, absorbing guilt, waiting. The healing work is proactive but not *directive*—she's helping others' survival, not shaping her own.
+
+**Potential goals to develop:**
+- Protecting Cassandra (the one person who sees her truly)
+- Building a network among Troy's women that could help during the fall
+- Gathering intelligence—she moves freely, speaks Greek, and is underestimated
+- Preparing for what comes after—she knows the Greeks will win eventually
+
+## Agency Analysis
+
+**Current state:** Helen is doing something proactive (healing) but it remains fundamentally reactive. She absorbs blame, accepts hatred, and helps the wounded—all valuable, but all in response to circumstances rather than shaping them. She is surviving, not acting.
+
+**The problem:** If Helen stays purely in "penance mode," she risks becoming a passive symbol rather than a protagonist. Her arc promises "Agent of her own fate" (S3) but Book 2 hasn't started that trajectory yet.
+
+**Ways to give her more active purpose:**
+
+1. **Intelligence gathering:** Helen moves through the healing house, the palace, the streets. She hears things. She could start paying attention—not for any side, but for herself. What's coming? Who might help her survive it? This doesn't require her to betray anyone; it requires her to stop being passive about her own future.
+
+2. **Protecting Cassandra:** Her friendship with Cassandra is her one authentic relationship. If Cassandra is threatened (by family trying to silence her, by Greeks who'll claim her as a prize), Helen might act to protect her—even at risk to herself.
+
+3. **The Trojan women:** She knows what Greek soldiers do to captured women. She's seen it. She could begin—quietly, carefully—building relationships with the women who despise her. Not to be forgiven, but to be useful when the walls fall. Someone needs to organize. Someone who speaks both languages.
+
+4. **Choosing sides:** Eventually Helen must decide whether to help the Greeks win (ensuring her survival with Menelaus) or help the Trojans resist (protecting the women she's come to know). This choice—whichever way it goes—would give her genuine agency.
+
+5. **Paris:** Their relationship is dying. She could try to revive it, or she could decide to let it end. Either choice is more active than sitting alone in heavy silence.
+
+**The key question for Book 2-3:** Does Helen want redemption (impossible), survival (passive), or agency (active)? Her arc should move her toward realizing that agency—making choices that matter, even if they're terrible choices—is the only way out of the trap she's in.
+
 ## Book 1 Speech Samples
 
 ### Voice Mechanics

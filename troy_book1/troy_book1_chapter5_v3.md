@@ -69,7 +69,7 @@ Andromache came to stand beside him. Her face was pale in the grey light, but he
 
 "Now you've seen. Go back."
 
-"In a moment." She watched the fleet in silence. A year ago she had stood on these same walls, asking if war could be avoided. Now war was here. "How many?"
+"In a moment." She watched the fleet in silence. "How many?"
 
 "Too many to count."
 
@@ -88,6 +88,24 @@ Hector stayed on the wall alone.
 He had prepared for this. Drilled the men, stockpiled supplies, reinforced the gates. He had done everything a commander could do.
 
 Now he would find out if it was enough.
+
+---
+
+On the flagship, Agamemnon stood at the head of the table.
+
+The map was rough—coastline, walls, the beach where they would land. Wooden markers represented the contingents: Ajax, Diomedes, Odysseus, the Myrmidons.
+
+"Ajax takes the left flank." Agamemnon moved a marker. "Diomedes holds the center with his chariots. Achilles—" He looked at the empty seat.
+
+The other kings didn't look at each other.
+
+Agamemnon moved the marker anyway. "—takes the beach first. As always."
+
+His voice was flat. Everyone knew Achilles would do what Achilles did, orders or not. But the ritual of command had to be observed.
+
+"Questions?" Silence. "Then go to your ships. We land within the hour."
+
+The kings filed out. Agamemnon stayed at the table, studying the map, the markers, the walls he would break or die trying.
 
 ---
 
@@ -132,6 +150,22 @@ The hull scraped sand. Achilles vaulted over before it stopped moving.
 Patroclus watched him splash through the shallows, already running toward the enemy, not looking back.
 
 He set down the bread and reached for his own armor.
+
+---
+
+The first three died before they knew he was there.
+
+Achilles moved through the surf like something that belonged to it—water, blood, bronze, all the same. The Trojans scattered, reformed, scattered again. Bodies marked his path up the beach.
+
+He paused at the tideline. The battle roared around him, but for a moment he was still.
+
+He looked back at the ships.
+
+Patroclus stood at the prow of theirs, watching. The distance between them—a hundred yards, maybe more—felt like nothing. Felt like everything.
+
+Achilles held the look for a breath. Then he turned toward the walls without waving.
+
+There was work to do.
 
 ---
 
@@ -255,23 +289,19 @@ Hector grabbed men as they passed, shoved them toward the gates, screamed orders
 
 "My lord!"
 
-A chariot was pushing through the rout, against the flow. Hector recognized the driver—old Euchenor, who'd served his father for thirty years. And in the chariot, clinging to the rail—
+A chariot was pushing through the rout, against the flow. Old Euchenor at the reins, fighting to control the horses. And in the chariot, still clinging to the rail—
 
 Paris.
 
-His brother's face was white. His armor was spotless. His sword was still sheathed.
+His brother's face was white. His armor was still spotless. His sword was still sheathed.
 
-"What happened?" Hector grabbed the chariot rail. "Where were you?"
+"Why are you still here?" Hector grabbed the chariot rail. "I told you to get him out!"
+
+"The gates were blocked, my lord." Euchenor's voice was strained. "We've been circling, trying to find a way through."
 
 Paris opened his mouth. Nothing came out.
 
-"He froze," Euchenor said quietly. "On the field. A Greek came at him and he just... stopped."
-
-"I saved him," Hector said. It wasn't a question.
-
-"I'm sorry, my lord. There wasn't time to—"
-
-"Get him inside. Get everyone inside."
+"Get him inside. Now. Before the Greeks reach the gates."
 
 The chariot pushed on toward the gates. Paris didn't look back.
 
@@ -281,7 +311,7 @@ Hector stayed until the last of the stragglers had passed, until the Greek advan
 
 The walls held.
 
-The Greeks threw themselves against the gates twice before pulling back. They didn't have siege equipment, not yet—they'd expected to win on the beach, to break the Trojans in open combat. They hadn't expected the walls.
+The Greeks threw themselves against the gates twice before pulling back. No siege towers. No battering rams. Just men with swords and spears, looking up at walls they couldn't climb.
 
 Hector stood on the battlements, watching them retreat to the beach. Watching them begin to set up camp.
 
@@ -493,6 +523,46 @@ Achilles pulled the spear from the sand, held it up to the torchlight. The bronz
 
 ---
 
+The war council met at dawn on the second day.
+
+The generals argued. Some wanted sorties—quick strikes to disrupt the Greek camp. Others urged patience—let the walls do the work. Voices rose, fell, tangled together.
+
+Priam listened.
+
+Finally he raised his hand. Silence fell.
+
+"We defend," he said. "No sorties. No attacks. We let them break themselves on our walls."
+
+Hector started to object. "Father, if we strike while they're still organizing—"
+
+"This is my decision." Priam's voice was quiet, but it carried. "Our walls have never fallen. Theirs are made of sand. We wait."
+
+The generals exchanged glances. Some nodded. Others looked at Hector, waiting for him to argue.
+
+He didn't. He was the crown prince, not the king. Not yet.
+
+The door opened.
+
+Cassandra entered the chamber. The generals tensed, expecting hysteria—the wild eyes, the fragments of prophecy no one could understand.
+
+Instead she spoke quietly, evenly.
+
+"Their supply depot at Tenedos is poorly guarded. Strike now and their siege breaks within the month."
+
+The room went still. Priam's jaw tightened.
+
+Polydamas cleared his throat. "Princess, perhaps we should consider—"
+
+Priam raised his hand again. "Thank you, Cassandra. You may go."
+
+She stood there a moment longer, her eyes moving from face to face. Looking for one that might listen. Finding none.
+
+She left without raising her voice.
+
+The generals resumed their debate. Within minutes, no one mentioned Tenedos.
+
+---
+
 The challenge came on the third day.
 
 A Greek herald, alone, walking across the no-man's-land between the camps with a staff of truce. The Trojans watched him come, arrows nocked but not drawn.
@@ -629,6 +699,22 @@ Tomorrow, one way or another, this would be over.
 
 ---
 
+Helen stood on the walls with the other women of the court.
+
+A guard gestured to her cushioned seat—the one they'd brought for her, the one that marked her as wife of a prince. She remained standing at the parapet's edge.
+
+"My lady, please—"
+
+"I'll watch from here."
+
+Priam glanced at her from his position nearby. She met his gaze, did not move. After a moment, he waved the guard away.
+
+Below, on the plain, the armies were forming. The circle of white stones. The killing floor.
+
+Helen watched. She did not blink. She did not look away.
+
+---
+
 The field was marked with white stones: a circle, twenty paces across.
 
 Paris walked toward it alone.
@@ -659,13 +745,13 @@ Paris didn't respond.
 
 The horn sounded.
 
-Menelaus came forward fast—faster than Paris expected. The first blow caught his shield before he was ready, drove him back a step. The second came while he was still recovering, a thrust at his midsection that he barely deflected.
+Menelaus came forward fast—faster than Paris expected. The first blow caught his shield before he was ready, drove him back a step. Paris's eyes flicked to the gap between them—five paces, four, three. His sword arm dropped a fraction, his body trying to create distance that didn't exist in sword range. The second blow came while he was still backing up, a thrust at his midsection that he barely deflected.
 
 Paris tried to counter. His spear swept toward Menelaus's legs—a move Hector had taught him, designed to force an opponent off balance. Menelaus stepped over it like a man stepping over a puddle and brought his sword down toward Paris's head.
 
 Paris got his shield up. The impact numbed his arm.
 
-He stumbled back. Menelaus followed, relentless, each blow coming before Paris could recover from the last. The spear was too slow, too clumsy; Paris dropped it, grabbed for his sword.
+He stumbled back—always back, always seeking the space between them that Menelaus wouldn't give him. Menelaus followed, relentless, each blow coming before Paris could recover from the last. The spear was too slow, too clumsy; Paris dropped it, grabbed for his sword.
 
 Menelaus kicked him in the chest.
 
@@ -698,6 +784,8 @@ The Trojan lines were moving. Soldiers surging forward, breaking formation, shie
 But Paris was already moving. His body acted without his mind, rolling away, scrambling to his feet, running. He lost his sword in the dirt, lost his shield, lost everything except the desperate need to reach the Trojan lines.
 
 Behind him, Menelaus screamed.
+
+On the walls, the women of the court gasped and looked away. Helen leaned forward. Watched every moment of his retreat—the stumbling run, the soldiers grabbing him, the desperate scramble toward the gates. Her face showed nothing.
 
 Arrows fell around them—not aimed, just cover fire, archers loosing at anything that moved. Menelaus had to fall back or die. He chose to fall back.
 
@@ -856,6 +944,26 @@ Paris said nothing.
 He left.
 
 Paris sat alone in the silence, the weight of his survival pressing down on him.
+
+---
+
+Later, when the palace slept, Paris found a courtyard.
+
+Not the main one—a smaller space near the stables, where no one came at night. He'd brought his bow. The one thing he was good at, the one skill that had never mattered in a war of spears and swords.
+
+He set a torch at the far end. Forty paces. Then he walked back, nocked an arrow, and drew.
+
+The first shot went wide. The second clipped the wall. The third found the mark—not the torch itself, but close enough to make the flame dance.
+
+He fired again. And again. His fingers found their rhythm, the string biting into the calluses he'd built over years of practice. When the torch finally guttered and died, he retrieved his arrows and set another.
+
+Fifty paces this time.
+
+His arms ached. His fingers bled where the calluses had worn through. He kept shooting.
+
+Above, at a window he never noticed, Helen watched him in the darkness. She stayed until he was done, then returned to their empty bed.
+
+Paris didn't come back until dawn.
 
 ---
 

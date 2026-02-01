@@ -63,3 +63,86 @@
 - "I know what you were doing. I understand the logic. I even understand the necessity. But understanding isn't the same as forgiving." — `troy_book1/troy_book1_chapter6_draft.md:344`
 
 - "I'll never forget." — `troy_book1/troy_book1_chapter6_draft.md:340`
+
+## Book 2 Arc: The Palamedes Conspiracy
+
+**Summary:** Odysseus executes his long-planned revenge against Palamedes—not through direct violence, but through meticulous manipulation that destroys his enemy using the army itself as weapon.
+
+### Chapter-by-Chapter Breakdown
+
+**Chapter 1 - The Setup:** During the division of spoils after a raid, Odysseus works late into the night. While others celebrate, he quietly sets aside Trojan gold and a seal ring bearing the mark of Priam's house. The theft is small, unnoticed, purposeful.
+
+**Chapter 2 - The Frame:** The conspiracy unfolds with surgical precision. Odysseus forges a letter over three nights, borrowing and returning Priam's seal to create perfect authenticity. He plants the gold and letter in Palamedes's tent. At the assembly, he suggests—with apparent reasonableness—that all tents be searched. The evidence is found exactly where he placed it.
+
+He visits Palamedes in the holding tent. Their exchange crystallizes the nature of what Odysseus has done:
+
+Palamedes: "You could have just killed me... Why this?"
+Palamedes: "You wanted them to do it. You wanted the whole army to throw stones."
+
+Palamedes sees the truth clearly: Odysseus didn't want murder—he wanted judgment. He wanted Palamedes destroyed not by a knife in the dark but by the collective verdict of his peers. This is cruelty elevated to architecture.
+
+Palamedes's final prophecy: Odysseus will win the war, will reach home, and in that moment should remember "what you are... The man who murdered his friend to win a game no one else was playing."
+
+**Chapter 3 - The Execution:** At Palamedes's trial, Odysseus deploys rhetoric about how doubt serves enemies—turning reasonable skepticism into evidence of treason. When the stoning begins, he throws a stone but aims for the pit's edge. Even now, he maintains distance from direct violence.
+
+Afterward, he washes his hands in a basin. The water stays clear. He sleeps deeply and dreamlessly—no guilt, no haunting. "He slept well. He had not expected to."
+
+### Psychological State
+
+The most disturbing element of the Palamedes arc is not the conspiracy itself but Odysseus's internal response: **nothing**. He expected guilt, restless nights, some cost to his conscience. Instead, he finds peace. The revenge he planned for years, the murder of a fellow Greek through manipulation and mob violence, leaves him sleeping better than he has in months.
+
+This represents a turning point in his arc. In Book 1, he accepted necessary atrocities while maintaining internal resistance—watching the sacrifice with eyes closed, collecting debts of horror against Agamemnon. But Palamedes's death reveals something different: Odysseus can commit atrocity as the architect rather than witness, and feel nothing.
+
+The water stays clear. His hands stay clean. This is who he is now.
+
+## Character Goals / Conspiracies / Missions
+
+### Active Goal: Return to Ithaca
+
+Odysseus's only genuine desire: to go home to Penelope and Telemachus. Everything else—the war, his reputation, the strategems—are obstacles or tools. This singular focus makes him both effective and dangerous. He has no stake in Greek honor or Trojan destruction beyond their utility for ending the war.
+
+### Completed Conspiracy: The Palamedes Frame (Book 2)
+
+**Origin:** Palamedes exposed Odysseus's feigned madness in Book 1 by placing Telemachus in the plow's path, forcing Odysseus to choose between his son and his freedom. Odysseus swore revenge that day.
+
+**Method:** Rather than direct assassination, Odysseus chose destruction through institutional means:
+- Theft of Trojan gold and Priam's seal ring
+- Forgery of treasonous correspondence (three nights of careful work)
+- Public accusation disguised as reasonable precaution
+- Rhetorical manipulation of the trial
+- Participation in the stoning—but aiming at the edge
+
+**Why This Method:** Palamedes himself identified it: "You wanted the whole army to throw stones." Odysseus didn't want Palamedes dead—he wanted Palamedes *destroyed*. Rejected by his own people, condemned by his peers, unmourned. A knife would have created a victim. This created a traitor.
+
+**Psychological Outcome:** No guilt. Deep, dreamless sleep. Clear water.
+
+### Latent Capacity: The Problem-Solver
+
+Odysseus approaches obstacles as puzzles to be solved. The Palamedes conspiracy reveals his capacity for cold, patient calculation—planning that spans months, involves multiple deceptions, and treats human beings as pieces to be positioned. This same capacity will later produce the Trojan Horse.
+
+The dangerous evolution in Book 2: he's beginning to take satisfaction in the craft itself. The horse won't just be a solution—it will be a masterpiece.
+
+## Agency Analysis
+
+**Odysseus has STRONG AGENCY** — He is the active driver of events, not a reactor to circumstances.
+
+### What Strong Agency Looks Like
+
+- **Initiates action:** The Palamedes conspiracy is entirely his design. No one asks him to do it. No circumstances force his hand. He conceives, plans, and executes the entire operation independently.
+
+- **Creates consequences:** His actions reshape the political landscape. Palamedes is dead. The army believes they executed a traitor. The guilt—if any exists—is distributed among hundreds of stone-throwers.
+
+- **Makes choices with alternatives:** Odysseus could have killed Palamedes directly, waited for battle to create opportunity, or simply outlived his grudge. He chose the frame-up specifically because it achieved goals beyond mere death.
+
+- **Controls timing:** He waits for the right moment—years pass between the original offense and the revenge. The conspiracy unfolds on his schedule, not in reaction to external pressure.
+
+- **Pursues personal goals:** His agenda (revenge, going home) operates independently of Greek war aims. He uses the war; he's not used by it.
+
+### Model for Other Characters
+
+Odysseus's agency should serve as a template:
+- **Achilles** also has strong agency but expresses it through withdrawal and return, through choosing *not* to act as much as acting
+- **Hector** should have strong agency but is constrained by duty—his agency manifests in *how* he fulfills obligations, not *whether*
+- **Characters with weak agency** (like the women prisoners, or Cassandra who sees but cannot change) create meaningful contrast
+
+The distinction matters: passive characters have things happen *to* them; active characters make things happen. Odysseus is the clearest example of active characterization in the narrative.

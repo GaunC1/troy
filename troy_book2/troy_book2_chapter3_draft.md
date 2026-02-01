@@ -105,6 +105,16 @@ Briseis followed the crowd at a distance, keeping to the trampled grass where th
 
 The pit was not deep—perhaps to a man's waist. The soldiers who dug it worked quickly, their shovels biting into the sandy soil, tossing the dirt into a mound that grew beside them. When they finished, they climbed out and joined the ring of men forming around the edge.
 
+At the back of the crowd, she saw Achilles. Patroclus stood beside him, his jaw tight.
+
+"This is wrong." Patroclus's voice carried to where Briseis stood.
+
+Achilles said nothing.
+
+Patroclus started to push forward, toward the pit. Achilles's hand closed on his arm. Held him in place.
+
+They watched.
+
 Palamedes stood at the pit's lip. His hands were bound again, the leather cords tight around his wrists. His face was calm. He was not weeping, not begging, not struggling against the guards who held his arms. He stood straight, as he had stood in the assembly, and looked across the crowd.
 
 Briseis had seen executions before. In Lyrnessus, the council had sentenced a man to death for killing his brother over an inheritance. He had wept and pleaded and soiled himself when they brought him to the square. This was different. This man looked at his executioners the way a father looks at disappointing children.
@@ -135,11 +145,57 @@ The crowd dispersed. Briseis stayed a moment longer, watching the flies gather.
 
 They can do this to their own, she thought. They can do anything.
 
-She walked back to Achilles's tent. She couldn't picture Mynes's face anymore—just a blur where a man used to be. But she could picture Achilles. Every line of him.
+She walked back toward Achilles's tent. She couldn't picture Mynes's face anymore—just a blur where a man used to be. But she could picture Achilles. Every line of him.
 
-She went to fetch from the cistern.
+She passed the captive women's area. The place where they kept the ones who hadn't been claimed yet—the ones too old or too plain or too broken.
+
+An older woman sat shivering against the fence. Her lips were blue. Fever, maybe. Or just the cold nights.
+
+Briseis stopped.
+
+She unwrapped the blanket from her own shoulders—the good wool one Patroclus had given her. Crossed to the woman. Wrapped it around her.
+
+Another captive, younger, whispered: "You'll freeze."
+
+"I sleep in his tent." Briseis straightened. "I won't freeze."
+
+The women looked at her differently after that.
+
+She went to fetch water from the cistern.
 
 She didn't look back.
+
+---
+
+## PARIS
+
+The skirmish was over before Paris reached the walls.
+
+Greeks falling back across the plain, the Trojans not pursuing—they knew better than to chase too far from the gates. Bodies scattered in the dust. The usual cost.
+
+Paris watched from the battlement, his bow in his hands.
+
+One Greek officer was rallying his men. Three hundred yards out, well beyond spear range. He was shouting orders, pointing back toward the Trojan walls, organizing the retreat.
+
+Paris drew.
+
+The arrow rose, arced against the bright sky, and dropped.
+
+The officer fell mid-word.
+
+Silence on the walls. The Greeks below froze, looking at their commander, looking back toward Troy. No one had seen where the shot came from. No one could have—the distance was impossible.
+
+Hector was beside him. Paris hadn't heard him approach.
+
+His brother looked at the fallen Greek. Looked at Paris. Held the look for a long moment.
+
+Said nothing.
+
+Walked away.
+
+Paris stayed on the walls, watching the Greeks drag their dead officer back toward the ships. His fingers traced the string of his bow, finding the familiar grooves worn smooth by years of practice.
+
+Three hundred yards. In the right conditions, with the right angle, he could do it again.
 
 ---
 
@@ -149,7 +205,15 @@ The healing house had been a temple once.
 
 You could still see it in the columns that framed the entrance, in the faded paint on the walls—Asclepius with his snake-wound staff, Hygieia with her bowl of sacred water. The altar had been moved to make room for pallets, a dozen of them crowding the narrow space. The smell of incense had given way to blood and rot and the sharp bite of wound-wash.
 
-Helen held a soldier down while the healer worked.
+Chryseis looked up when Helen entered. Something flickered across her face—surprise, perhaps.
+
+"You came yesterday too."
+
+Helen rolled up her sleeves. "I'll come tomorrow."
+
+She moved to the worst cases—the ones the other helpers avoided. The blackening wounds. The fevers that wouldn't break. The men who screamed when anyone touched them.
+
+She held a soldier down while the healer worked.
 
 He was young, this soldier—barely more than a boy, with downy cheeks and eyes that rolled white with pain. An arrow had gone through his thigh, missing the artery by a finger's width. The shaft had broken off inside when he fell. Now the healer was cutting, widening the wound, searching for the iron head that was buried somewhere in the ruined muscle.
 
@@ -192,6 +256,142 @@ The woman nodded. Returned to her patient—an older man with a wound in his sid
 Another soldier was carried in. Arrow wound in the shoulder, the shaft still embedded, the fletching bright with his blood. His face was the face of all the soldiers Helen had seen: pain and fear and the desperate hope that someone could help him.
 
 Helen moved to hold him down.
+
+---
+
+Later, near the end of the day, there was one who couldn't be saved.
+
+The wound in his belly had gone black. The fever had taken him past sense—he thrashed and screamed, seeing enemies that weren't there, fighting a battle already lost. The other healers had moved on to patients they could help.
+
+Helen stayed.
+
+She found the poppy bottle on the shelf where they kept the strongest medicines. Measured a dose into a cup—more than enough. Much more.
+
+She knelt beside him. Lifted his head. Held the cup to his lips.
+
+He drank, still thrashing. The bitter liquid spilled down his chin. She wiped it away with her sleeve.
+
+His thrashing slowed. His screaming stopped. His eyes—wild a moment ago—found hers and held them. Something passed across his face. Recognition, perhaps. Or gratitude.
+
+He closed his eyes.
+
+Helen stayed until his chest stopped moving. Then she closed his eyes properly, straightened his limbs, and moved to the next bed.
+
+No one had seen. No one asked.
+
+---
+
+## CASSANDRA
+
+She found Andromache in the nursery, alone with Astyanax.
+
+The boy was sleeping. His small chest rose and fell, rose and fell. His fist was curled against his cheek. He looked like Hector. Everyone said so.
+
+"Take him."
+
+Andromache looked up. Her face was tired, drawn. She had not been sleeping well. No one in Troy slept well anymore.
+
+"Cassandra."
+
+"Take him. Tonight. Go to your father's people in the mountains."
+
+Andromache's hand moved to rest on her son's hair. Protective. Automatic.
+
+"You've said this before."
+
+"I'll say it until you listen." Cassandra moved closer. She did not speak in riddles. Not this time. "The walls will fall. The Greeks will come. And when they do—"
+
+She stopped. The vision rose behind her eyes: a baby held by the ankles, the long fall, the sound it made when it hit the stones.
+
+"When they do, what?" Andromache's voice was quiet.
+
+Cassandra looked at the sleeping boy. At the small fingers, the soft cheeks, the chest rising and falling.
+
+"Take him," she said again. "Before it's too late."
+
+Andromache's hand tightened on her son's hair. She didn't dismiss Cassandra. Didn't call her mad.
+
+But she didn't agree, either.
+
+---
+
+## ANDROMACHE
+
+The refugee hall was chaos when she arrived.
+
+Two families, shouting. A man with a bloody lip. A woman clutching a child. The guards at the entrance had their hands on their swords but hadn't drawn—this was a dispute among the displaced, not a crime.
+
+Andromache pushed through before the guards could intervene.
+
+"Enough."
+
+Her voice cut through the shouting. The families fell silent. The man with the bloody lip wiped his mouth on his sleeve.
+
+"What happened?"
+
+Both families spoke at once. Andromache held up a hand. Pointed to the woman with the child.
+
+"You. Speak."
+
+The story came out—sleeping space, a corner that both families claimed, a shove that became a fight. The same story Andromache had heard a dozen times since the siege began. Too many people. Not enough room. Tempers fraying like old rope.
+
+"You." She pointed to a boy near the door, one of the refugee children. "Fetch food from the kitchens. Bread and cheese." The boy ran.
+
+She turned to the families. "There are empty rooms in the eastern quarter. The occupants died last week—camp fever. The rooms have been cleaned." She pointed to one family. "You take the corner room." To the other: "You take the one beside the courtyard."
+
+The man with the bloody lip started to object. "But we were here first—"
+
+"You were here fighting." Andromache's voice was quiet, but it carried. "You can take the room I've given you, or you can sleep in the stables."
+
+Silence.
+
+A guard stepped forward. "My lady, I can handle—"
+
+"This is my house." She turned to look at him. "I'll manage it."
+
+He stepped back.
+
+The families gathered their belongings. The boy returned with bread and cheese. Andromache divided it between them, made sure the children ate first, and waited until they had left for their new rooms.
+
+Only then did she return to the nursery, where her son was sleeping and Cassandra's words were still echoing in her ears.
+
+---
+
+## PRIAM
+
+The merchants would not stop arguing.
+
+Priam listened from his throne, his hands folded in his lap, his face revealing nothing. Two men, both wealthy, both red-faced with righteous anger. The dispute was about grain—what else? Grain prices during siege.
+
+"He's charging three times the market rate!" The first merchant, a man named Alcidamas, jabbed a finger at his rival. "Three times! The poor can't afford to eat!"
+
+"The market rate was set before the siege." The second merchant, Phereus, spread his hands. "Costs have risen. Ships won't run the blockade for the old prices."
+
+"You're hoarding! You have warehouses full—"
+
+"I have warehouses that need to last through winter. Through next winter, if the walls hold that long."
+
+They kept talking. Priam let them.
+
+Finally, he raised his hand. Silence fell.
+
+"The prices." His voice was quiet. The merchants leaned forward to hear. "Will stay fixed. At the pre-siege rate."
+
+Phereus's face reddened. "My lord, that's—"
+
+"Anyone who hoards will answer to me." Priam's voice hardened. "Anyone who charges more than the fixed rate will forfeit their stores to the crown. This is Troy. Not your counting house."
+
+Phereus opened his mouth. Closed it.
+
+"Leave."
+
+The merchants left.
+
+Priam stayed on his throne a moment longer, looking at the empty hall, the shadows lengthening across the floor. His hands trembled where they rested on the arms of the chair—the same hands that had built this city, that had held fifty sons and daughters, that had grown old and spotted while the walls remained young.
+
+He was still king. He could still decide.
+
+He rose, slowly, and went to find his generals. There were always more decisions to make.
 
 ---
 

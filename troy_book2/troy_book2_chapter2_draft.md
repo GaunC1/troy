@@ -47,7 +47,13 @@ Palamedes stood very still as they pulled the bag from beneath his bedding. His 
 
 Held.
 
-"Take him," Agamemnon said. "Hold him for trial."
+Agamemnon looked at the gold. Looked at the letter. He could ask questions—where the gold came from, why Palamedes would hide it so poorly, why the letter appeared now after six years of war.
+
+He didn't ask.
+
+Instead he stood taller. Squared his shoulders. When he spoke, his voice carried to every corner of the assembly.
+
+"The evidence is clear. He will face judgment." He didn't look at Odysseus. "Take him. Hold him until the army decides his fate."
 
 Guards stepped forward. Palamedes didn't resist. He let them bind his hands, let them lead him away.
 
@@ -99,9 +105,27 @@ She dropped her hands. Looked at the little wooden markers. Ships. Walls. Men re
 
 "I don't know," she said. "I can never see the face. Only the hands."
 
-Priam waved her away. "Get some rest."
+Priam's hand rose toward her face—the old gesture, a father's touch. It stopped. Hung in the air. Fell to his side.
 
-She went.
+"Get some rest." He turned away before she did.
+
+She didn't go to her chamber.
+
+She found a scribe in the lower halls, an old man bent over tablets, recording grain stores.
+
+"Write this down," she said. "Everything I've told you. The snake. The hands in darkness. The stoning."
+
+The scribe looked up. His face went pale. "Princess, I can't—"
+
+She pulled a gold ring from her finger. Pressed it into his palm. "Write it. Date it. Keep it somewhere safe. When it happens—when they find the body—you'll know I was right."
+
+The scribe stared at the ring. At her. Finally, slowly, he nodded.
+
+She left.
+
+Later, she passed through the lower courtyard on her way to the walls. The scribe's room was empty. His tablets lay scattered on the floor, one of them broken in half.
+
+She kept walking.
 
 ---
 
@@ -165,7 +189,21 @@ She ate it all.
 
 ## PARIS
 
-The wine hall was in the lower city, far from the palace.
+The practice yard was empty when Paris arrived.
+
+Night. Torches set at intervals along the far wall. He'd bribed the guards to leave one burning at the hundred-pace mark.
+
+He drew. Released. The arrow split the air, vanished into darkness. A moment later—the soft thunk of bronze finding wood.
+
+He nocked another. Drew. Released.
+
+Again. Again. Again.
+
+His fingers bled where the string bit into old calluses. He kept shooting. When the torch finally guttered and died, he retrieved his arrows, counted them—all within a hand's breadth of the flame—and walked toward the lower city.
+
+---
+
+The wine hall was far from the palace.
 
 A fight had broken out near the bar when Paris arrived. Two soldiers, drunk, grappling over something. The owner watched from behind his counter, arms crossed, waiting for one of them to fall.
 
@@ -202,6 +240,10 @@ The girl traced a finger along his jaw. "You're handsome. Rich, too, by your clo
 Later, in a back room, the girl asked his name.
 
 "Corythus," he said.
+
+She traced his fingers, the calluses. "These aren't from a sword."
+
+He pulled his hand back. "No. They're not."
 
 ---
 

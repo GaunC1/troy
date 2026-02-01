@@ -113,9 +113,11 @@ The cellar was dark.
 
 She pressed herself behind the wine jars. Boots above. Men's voices, Greek. Something breaking. Laughter.
 
-Her hands were shaking.
+Her mouth opened—a scream rising in her throat. She bit down on her own hand instead. Hard enough to taste copper.
 
 The boots came closer.
+
+She pressed deeper into the shadows. Waited. Her hands were shaking, but her jaw stayed clenched.
 
 ---
 
@@ -125,7 +127,9 @@ The walls fell in three hours.
 
 Achilles wiped his spear on a dead man's cloak and went to inspect the captives.
 
-The women huddled near the gates. Most were screaming. One stood at the edge of the group, arms wrapped around herself, staring at nothing.
+The women huddled near the gates.
+
+Achilles's eyes passed over them—the ones who clawed at the soldiers, the ones who wailed and begged. His gaze stopped on one standing at the edge of the group, arms wrapped around herself. Silent. Staring at nothing.
 
 "That one," he said.
 
@@ -149,7 +153,11 @@ Near the main gates, another body. Well-dressed. Merchant's rings on his fingers
 
 She kept walking.
 
-Outside the walls, she was put with other women. Sorted. A Greek with cold eyes pointed at her.
+Outside the walls, she was put with other women. Sorted.
+
+She stood at the edge of the group while others wailed. Her eyes moved—counting the tents, noting the rhythm of guard changes, marking where they kept the horses. Forty guards. Maybe fifty. The horses were picketed to the north.
+
+A Greek with cold eyes pointed at her. She didn't flinch.
 
 She was put on a wagon. Watched the city burn as they drove away.
 
@@ -173,17 +181,31 @@ He gave the orders—housing, food, a healer. The refugees shuffled through the 
 
 ---
 
+Dawn found Hector on the walls with his captains.
+
+He pointed to the Greek camp. "They've moved their forges closer to the ships. Why?"
+
+A captain shrugged. "Convenience? The iron shipments come by sea."
+
+"Find out." Hector kept his eyes on the distant camp. "And reinforce the western approach. If they're building something, we need to know what."
+
+"Yes, my lord."
+
+The captain left. Hector stayed on the walls, watching the smoke rise from the Greek forges, trying to read the shape of what was coming.
+
+---
+
 Andromache was waiting in their chambers with Astyanax on her lap.
 
 "More refugees?"
 
 "Seven. From Lyrnessus."
 
-"I heard." She made room for him to sit beside her. "Astyanax took his first steps today."
+"I heard." She was holding a pair of soft leather boots—baby-sized, half-finished. Her needle kept moving as she spoke. "Astyanax took his first steps today."
 
 Hector looked at his son. The boy's eyes were closing. "His first steps?"
 
-"Three of them. He fell on the fourth."
+"Three of them. He fell on the fourth." She held up the boots. "He'll need these by next week. I'm making them myself. The cobbler's son died at Lyrnessus."
 
 "I'm sorry I missed it."
 
@@ -263,7 +285,7 @@ Outside, the camp settled into sleep. The woman stopped weeping. The fires burne
 
 Briseis watched the man who had destroyed her world.
 
-He sat on the edge of his bed, not moving. His hands hung loose between his knees. His eyes were fixed on something she couldn't see.
+He sat on the edge of his bed, picked up a knife from the table beside him, and began to sharpen it. Methodical. The rasp of stone on bronze filled the silence. His eyes were fixed on something she couldn't see, but his hands kept moving—preparing. Even if he didn't know for what.
 
 She thought: Tomorrow he'll do this to another city. And another. And another.
 
@@ -297,7 +319,17 @@ She didn't answer. He didn't ask again.
 
 The nights continued. She stopped counting them.
 
-And then, one night, something shifted.
+And then, one night, before he could reach for her, she spoke.
+
+"Why don't you sleep?"
+
+He went still. She had never asked him anything. Never spoken first.
+
+He lay down beside her. Didn't touch her. Didn't answer.
+
+But he didn't leave.
+
+The next night, something shifted.
 
 He came to her as he always did, silent, absent. But when it was over, he didn't turn away. He lay beside her, his breathing ragged, his face half-lit by the dying lamp.
 
@@ -317,9 +349,11 @@ He was silent for a long time. The lamp guttered. Shadows moved on the canvas.
 
 She didn't ask what.
 
-The next night, when he reached for her, she found herself reaching back. Her hand found the scar on his shoulder blade, the one she had traced so many times in the dark. He paused. Looked at her—really looked, for the first time.
+The next night, when he reached for her, she reached back. Not a reflex—a choice. Her hand found the scar on his shoulder blade, the one she had traced so many times in the dark. She pressed it. Deliberately.
 
-Neither of them spoke.
+He paused. Looked at her.
+
+She held his gaze. Neither of them looked away.
 
 In the morning, she woke with his arm across her waist, his breath warm against her hair.
 
